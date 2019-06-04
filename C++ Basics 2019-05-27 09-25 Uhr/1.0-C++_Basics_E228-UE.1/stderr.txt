@@ -1,0 +1,2 @@
+Standard Error Ausgabe (cerr)!
+Standard Error Ausgabe (clog)!

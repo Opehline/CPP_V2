@@ -1,0 +1,542 @@
+-----------------------------------------------
+Betreten des Gruppenraums "C++ Basics"
+27.05.2019 09:25 Uhr
+-----------------------------------------------
+-- 09:25 -- Tanja Treffler betritt den Raum Hauptraum
+-- 09:25 -- Tom Fratscher betritt den Raum Hauptraum
+Tom Fratscher: Guten morgen, alle zusammen
+Tanja Treffler: > meldet sich <
+-- 09:30
+-- 09:32 -- Stefan Kämmer betritt den Raum Hauptraum
+Stefan Kämmer: > meldet sich <
+Danny Fröhlich: > ist momentan nicht ansprechbar <
+Tom Fratscher: Guten morgen, alle zusammen
+-- 09:37 -- Michael Linkamp betritt den Raum Hauptraum
+Michael Linkamp: > meldet sich <
+Michael Linkamp: > ist momentan nicht ansprechbar <
+Michael Linkamp: > ist wieder ansprechbar <
+Gisela Neira: > ist wieder ansprechbar <
+Prince Salasi Agblevor: morgen
+Danny Fröhlich: > ist wieder ansprechbar <
+Danny Fröhlich: > meldet sich <
+Michael Linkamp: > meldet sich <
+Heiko Christmann: Guten Morgen
+Michael Linkamp: > meldet sich <
+Stefan Kämmer: Du ist okay
+Tom Fratscher: du ist ok
+Tom Fratscher: du ist ok
+Michael Linkamp: Du ist ok
+Danny Fröhlich: Du ist okay
+Tanja Treffler: Du ist top
+Heiko Christmann: Du o.k.
+Prince Salasi Agblevor: duist in Ordnung
+Stefan Kämmer: DevC++
+Michael Linkamp: CodeBlocks
+Tanja Treffler: Beides
+Prince Salasi Agblevor: beides
+Tom Fratscher: Codeblocks
+Danny Fröhlich: Code::Blocks
+-- 09:45
+Stefan Kämmer: ich suche nebenbei :)
+Tom Fratscher: ah doch beides ;)
+Michael Linkamp: Beides
+Heiko Christmann: wo sohe ich das am Schnellsten?
+Stefan Kämmer: ich habe beides
+Heiko Christmann: Code Blocks ist nicht da
+Danny Fröhlich: man sieht nichts
+Heiko Christmann: DEVC++ ist da
+Danny Fröhlich: code blocks
+Stefan Kämmer: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Michael Linkamp: Ja
+Gisela Neira: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Heiko Christmann: > meldet sich <
+Tom Fratscher: > stimmt zu <
+Tom Fratscher: ah doch beides ;)
+Tom Fratscher: ah doch beides ;)
+Stefan Kämmer: bei mir genauso
+Michael Linkamp: Bei mir steht hier VIBB Zeit
+Tanja Treffler: Ich habe da auch einen Termin reingelegt bekommen um 11.30
+Stefan Kämmer: > stimmt nicht zu <
+Tom Fratscher: nein
+Michael Linkamp: > stimmt nicht zu <
+Heiko Christmann: Nein
+Stefan Kämmer: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Tom Fratscher: ja
+Heiko Christmann: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Tom Fratscher: erhalten
+Heiko Christmann: Doch
+Prince Salasi Agblevor: Nein,was ist das?
+Danny Fröhlich: > stimmt zu <
+Prince Salasi Agblevor: ok, ich glaube,ich hab's
+Prince Salasi Agblevor: Ist ein Vollbildmodus bei Ihnen möglich.Ich sehe das bei mir hier schlecht.
+Prince Salasi Agblevor: Ist ein Vollbildmodus bei Ihnen möglich.Ich sehe das bei mir hier schlecht.
+Prince Salasi Agblevor: > meldet sich <
+-- 10:00
+Prince Salasi Agblevor: > meldet sich <
+Danny Fröhlich: > meldet sich <
+Michael Linkamp: > meldet sich <
+Tom Fratscher: noch gar nicht
+Heiko Christmann: Gleiches Problem bei mir
+Heiko Christmann: Habe keine Erfahrung damit
+Gisela Neira: > meldet sich <
+Gisela Neira: > stimmt zu <
+Gisela Neira: > stimmt nicht zu <
+Gisela Neira: > ist momentan nicht ansprechbar <
+Gisela Neira: > ist wieder ansprechbar <
+Gisela Neira: > hat verstanden <
+Michael Linkamp: > hat verstanden <
+Gisela Neira: Ich verstehe nichts!
+Gisela Neira: > hat eine Frage <
+Heiko Christmann: Habe keine Erfahrung damit
+Prince Salasi Agblevor: die vorherige Ansicht ist auch ok bei mir. Ich habe meine Schriftgröße angepasst.
+Danny Fröhlich: das ist besser
+Danny Fröhlich: > stimmt zu <
+Gisela Neira: gisela.n.a.v2@gmail.com
+-- 10:15
+Stefan Kämmer: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Heiko Christmann: Köntest du die Datei nochmals senden?
+Tanja Treffler: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Heiko Christmann: Danke
+Danny Fröhlich: Das wird automatisch im Viona Ordner auf dem Desktop gespeichert
+Heiko Christmann: Alles klar
+Tom Fratscher: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Heiko Christmann: > stimmt nicht zu <
+Gisela Neira: > stimmt nicht zu <
+Stefan Kämmer: matlab,etwas Assembler
+Michael Linkamp: VB/VBA,Delphi,C/C++
+Tanja Treffler: Java, Matlab, etwasFortran
+Prince Salasi Agblevor: c++
+Danny Fröhlich: Matlab
+Tom Fratscher: delphi, turbopascal 5.0 :D, assembler, matlab, ein bisschen python
+Tom Fratscher: c habe ich vergessen
+Danny Fröhlich: Einen Screenshot kann man mit der Kamaraüber demPräsentationsfenster machen
+Michael Linkamp: > stimmt zu <
+Danny Fröhlich: achso
+Tom Fratscher: hatte LaTeX vergessen
+Tom Fratscher: es haben sich Lücken aufgetan und meine Lösungen sind nicht smart genug
+Tom Fratscher: teilweise zu umständlich
+Tanja Treffler: Bei fast allen interessanten Stellen gefordert
+Stefan Kämmer: ist in meinem Beruf quasi voraussetzung
+Michael Linkamp: Es macht Spass in C/C++ zu programmieren
+Heiko Christmann: evtl. zukünftige Tätigkeit
+Tom Fratscher: deswegen ist es nicht schlimm wenn wir die basics nochmal durchboxen
+Danny Fröhlich: Wollte meine Kenntnisse erweiternauf weitere Sprachen erweitern
+Prince Salasi Agblevor: für mein Studium ab Oktober und außerdem macht es mir seit einigen Wochen spaß zu programmieren.
+Danny Fröhlich: > stimmt zu <
+Danny Fröhlich: > meldet sich <
+Stefan Kämmer: menschenverständlicher Text ->computerverständlicher Text
+Michael Linkamp: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Tom Fratscher: ja
+Tom Fratscher: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+-- 10:30
+Danny Fröhlich: > meldet sich <
+Stefan Kämmer: > stimmt nicht zu <
+Michael Linkamp: > stimmt nicht zu <
+Tanja Treffler: > stimmt nicht zu <
+Heiko Christmann: > stimmt nicht zu <
+Prince Salasi Agblevor: > stimmt nicht zu <
+Tom Fratscher: im Studium angeschnitten
+Danny Fröhlich: > stimmt zu <
+Stefan Kämmer: 5min pause wäre schön
+Tom Fratscher: > stimmt zu <
+Tom Fratscher: > ist momentan nicht ansprechbar <
+Stefan Kämmer: > ist momentan nicht ansprechbar <
+Danny Fröhlich: > ist momentan nicht ansprechbar <
+Danny Fröhlich: > ist wieder ansprechbar <
+Heiko Christmann: > ist momentan nicht ansprechbar <
+Gisela Neira: 10:39 Uhr
+Prince Salasi Agblevor: > ist momentan nicht ansprechbar <
+Danny Fröhlich: > ist momentan nicht ansprechbar <
+Danny Fröhlich: > ist wieder ansprechbar <
+Tanja Treffler: > ist momentan nicht ansprechbar <
+Gisela Neira: > ist momentan nicht ansprechbar <
+Danny Fröhlich: > ist momentan nicht ansprechbar <
+Michael Linkamp: > ist momentan nicht ansprechbar <
+Stefan Kämmer: > ist wieder ansprechbar <
+Prince Salasi Agblevor: > ist wieder ansprechbar <
+Tom Fratscher: > ist wieder ansprechbar <
+Danny Fröhlich: > ist wieder ansprechbar <
+Heiko Christmann: > ist wieder ansprechbar <
+Michael Linkamp: > ist wieder ansprechbar <
+Tanja Treffler: > ist wieder ansprechbar <
+Gisela Neira: > ist wieder ansprechbar <
+Danny Fröhlich: > meldet sich <
+Stefan Kämmer: maschinennah vs höher?
+Tanja Treffler: Skriptsprachen?
+-- 10:45
+Stefan Kämmer: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+-- 11:00
+Gisela Neira: CGI
+Danny Fröhlich: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Michael Linkamp: > stimmt nicht zu <
+Heiko Christmann: > stimmt zu <
+Tanja Treffler: > stimmt nicht zu <
+Stefan Kämmer: > stimmt nicht zu <
+Tom Fratscher: > stimmt nicht zu <
+Prince Salasi Agblevor: > meldet sich <
+Stefan Kämmer: bitte von der Strg-Taste gehen wenn Gisela antwortet @Prince
+Prince Salasi Agblevor: ok
+Stefan Kämmer: > stimmt zu <
+Gisela Neira: C/C++
+Gisela Neira: C++
+Danny Fröhlich: Warum?
+Danny Fröhlich: okay
+Stefan Kämmer: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Danny Fröhlich: > hat verstanden <
+Prince Salasi Agblevor: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Heiko Christmann: > ist momentan nicht ansprechbar <
+Michael Linkamp: > ist momentan nicht ansprechbar <
+Tanja Treffler: > ist momentan nicht ansprechbar <
+Gisela Neira: 11:19 Uhr
+Danny Fröhlich: > ist momentan nicht ansprechbar <
+Gisela Neira: > ist momentan nicht ansprechbar <
+Stefan Kämmer: > ist momentan nicht ansprechbar <
+-- 11:15
+Michael Linkamp: > ist wieder ansprechbar <
+Stefan Kämmer: > ist wieder ansprechbar <
+Tanja Treffler: > ist wieder ansprechbar <
+Danny Fröhlich: > ist wieder ansprechbar <
+Heiko Christmann: > ist wieder ansprechbar <
+Gisela Neira: > ist wieder ansprechbar <
+Gisela Neira: 
+Stefan Kämmer: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+-- 11:30
+Tom Fratscher: Authior = Ic, Leser = CPU
+Stefan Kämmer: Autor Programmierer, Leser Compiler
+Michael Linkamp: Autor = Programmierer, Leser = Anwender
+Michael Linkamp: Linux
+Stefan Kämmer: linux, macOS
+Tom Fratscher: Linx, macos unix
+Stefan Kämmer: android
+Tom Fratscher: Sicherheit
+Stefan Kämmer: hacker kennen die struktur des systems nicht
+Michael Linkamp: Damit die Sicherheitslücken nicht so schnell bekanntwerden
+Tom Fratscher: ja
+Tanja Treffler: Unabhängigkeit von Updates von anderen
+Michael Linkamp: Angepasst auf spezielle Bedürfnisse?
+Michael Linkamp: > stimmt zu <
+Danny Fröhlich:  Visual Basic
+Tom Fratscher: Editor, Compiler
+Michael Linkamp: CodeBlocks,MS Visual Studio
+Stefan Kämmer: Notepad++ :)
+Tom Fratscher: MPLAB X
+Tom Fratscher: editor
+-- 11:45
+Tom Fratscher: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Heiko Christmann: > hat verstanden <
+Danny Fröhlich: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Tom Fratscher: > hat verstanden <
+Michael Linkamp: > hat verstanden <
+Tom Fratscher: Bibliotheken
+Prince Salasi Agblevor: bibliothek
+Stefan Kämmer: einbindung von bibliotheken?
+Michael Linkamp: Bibliotheken
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Danny Fröhlich: > stimmt nicht zu <
+Tanja Treffler: in java
+Michael Linkamp: Kommandozeilenparamter?
+Michael Linkamp: Zur Auswertung von Parametern
+Michael Linkamp: nach Aufruf der Exe-Datei
+-- 12:00
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Prince Salasi Agblevor: Jap.
+Tom Fratscher: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Prince Salasi Agblevor: > ist momentan nicht ansprechbar <
+Prince Salasi Agblevor: > ist wieder ansprechbar <
+Michael Linkamp: > ist momentan nicht ansprechbar <
+Prince Salasi Agblevor: > ist momentan nicht ansprechbar <
+Danny Fröhlich: > ist momentan nicht ansprechbar <
+Heiko Christmann: > ist momentan nicht ansprechbar <
+Tanja Treffler: > ist momentan nicht ansprechbar <
+Stefan Kämmer: > ist momentan nicht ansprechbar <
+Gisela Neira: 12:35 Uhr
+Tom Fratscher: > ist momentan nicht ansprechbar <
+Gisela Neira: > ist momentan nicht ansprechbar <
+-- 12:07 -- Stefan Kämmer verlässt den Raum
+-- 12:15
+-- 12:22 -- Stefan Kämmer betritt den Raum Hauptraum
+Stefan Kämmer: > ist momentan nicht ansprechbar <
+Tom Fratscher: > ist wieder ansprechbar <
+-- 12:30
+Stefan Kämmer: > ist wieder ansprechbar <
+Prince Salasi Agblevor: > ist wieder ansprechbar <
+Danny Fröhlich: > ist wieder ansprechbar <
+Michael Linkamp: > ist wieder ansprechbar <
+Heiko Christmann: > ist wieder ansprechbar <
+Tanja Treffler: > ist wieder ansprechbar <
+Gisela Neira: > ist wieder ansprechbar <
+Tom Fratscher: hi
+Michael Linkamp: Hallo zurück
+Heiko Christmann: Hallo
+Stefan Kämmer: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Danny Fröhlich: > meldet sich <
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: monitor
+Tom Fratscher: Monitor
+-- 12:45
+Michael Linkamp: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Stefan Kämmer: > meldet sich <
+Tanja Treffler: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Danny Fröhlich: > meldet sich <
+Stefan Kämmer: richtig
+Prince Salasi Agblevor: doch
+Michael Linkamp: > stimmt zu <
+Tanja Treffler: kannte ich so nicht
+Heiko Christmann: schon einmal gehört, ja
+Stefan Kämmer: puffer=zwischenspeicher
+Tom Fratscher: zwischenspeicher
+Stefan Kämmer: jedes zeichen wird einzeln ausgegeben?
+Michael Linkamp: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Prince Salasi Agblevor: wofür steht clog?
+-- 13:00
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Prince Salasi Agblevor: geht.
+Danny Fröhlich: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Michael Linkamp: Funktioniert nicht weil der Namensraum unbekannt ist
+Prince Salasi Agblevor: Nein,fehler
+-- 13:15
+Michael Linkamp: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Danny Fröhlich: > meldet sich <
+Prince Salasi Agblevor: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Heiko Christmann: ja, Pause
+Heiko Christmann: > ist momentan nicht ansprechbar <
+Gisela Neira: 13:27 Uhr
+Michael Linkamp: > ist momentan nicht ansprechbar <
+Gisela Neira: > ist momentan nicht ansprechbar <
+Tanja Treffler: > ist momentan nicht ansprechbar <
+Heiko Christmann: > ist wieder ansprechbar <
+Gisela Neira: > ist wieder ansprechbar <
+Tanja Treffler: > ist wieder ansprechbar <
+Michael Linkamp: > ist wieder ansprechbar <
+Michael Linkamp: Hallo
+-- 13:30
+Prince Salasi Agblevor: > stimmt zu <
+Danny Fröhlich: > meldet sich <
+Danny Fröhlich: > meldet sich <
+Danny Fröhlich: > hat verstanden <
+Stefan Kämmer: windowstaste+R, CMD eingeben, enter
+Heiko Christmann: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Prince Salasi Agblevor: > stimmt nicht zu <
+Tanja Treffler: passiert nichts
+Prince Salasi Agblevor: bei mir passiert nichts
+Tanja Treffler: > stimmt zu <
+Stefan Kämmer: mein compiler macht auch nichts
+Tanja Treffler: Aber kein build
+Tanja Treffler: Bei mir ist wohl der gleiche Fehler wie bei Danny
+Stefan Kämmer: > stimmt zu <
+-- 13:45
+Stefan Kämmer: fehlt bei mir auch
+Prince Salasi Agblevor: ich habe diese Ordner, trotzdem funktioniert bei mir nicht.
+Tom Fratscher: bei mir das gleiche
+Tom Fratscher: danie
+Prince Salasi Agblevor: nein
+Tom Fratscher: danny*
+Stefan Kämmer: verstanden
+Danny Fröhlich: > ist momentan nicht ansprechbar <
+Stefan Kämmer: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Stefan Kämmer: > ist momentan nicht ansprechbar <
+Michael Linkamp: > meldet sich <
+Tom Fratscher: wieder da
+Danny Fröhlich: > ist wieder ansprechbar <
+Stefan Kämmer: > ist wieder ansprechbar <
+Michael Linkamp: Hier klappt es jetzt...
+Michael Linkamp: > hat verstanden <
+Tanja Treffler: Läuft:)
+Michael Linkamp: ;-)
+Michael Linkamp: > stimmt zu <
+Michael Linkamp: > hat verstanden <
+Heiko Christmann: funktoniert
+Heiko Christmann: Habe allerdings Dev-c
+-- 14:00
+Heiko Christmann: Gut. Danke
+Danny Fröhlich: > stimmt nicht zu <
+Michael Linkamp: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Tom Fratscher: > stimmt nicht zu <
+Tanja Treffler: > stimmt zu <
+Michael Linkamp: ich versuche gerade in das verzeichnis zu wechseln
+Michael Linkamp: bin noch dabei...
+Michael Linkamp: in der datei
+Michael Linkamp: > stimmt zu <
+Danny Fröhlich: > meldet sich <
+Prince Salasi Agblevor: > stimmt zu <
+Stefan Kämmer: du kannst damit fehler von anderen ausgaben unterscheiden
+Prince Salasi Agblevor: > stimmt zu <
+Danny Fröhlich: > meldet sich <
+Prince Salasi Agblevor: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Prince Salasi Agblevor: > meldet sich <
+Danny Fröhlich: > hat verstanden <
+Prince Salasi Agblevor: alles gut
+-- 14:15
+Prince Salasi Agblevor: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Stefan Kämmer: mein compiler wurde jetzt installiert
+Tom Fratscher: Ich ja mein PC nicht :D
+Tom Fratscher: ja
+Stefan Kämmer: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Gisela Neira: > stimmt nicht zu <
+Tom Fratscher: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Danny Fröhlich: > stimmt nicht zu <
+Danny Fröhlich: sorry
+Prince Salasi Agblevor: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Michael Linkamp: bisher alles gut ;-)
+Danny Fröhlich: > meldet sich <
+Tom Fratscher: DEVC++ hat den compiler mitinstallier
+Michael Linkamp: > applaudiert <
+Stefan Kämmer: > applaudiert <
+Gisela Neira: > applaudiert <
+Tanja Treffler: > applaudiert <
+Prince Salasi Agblevor: > applaudiert <
+Danny Fröhlich: > applaudiert <
+Heiko Christmann: > applaudiert <
+Tom Fratscher: > applaudiert <
+Heiko Christmann: Danke. bis morgen
+-- 14:25 -- Gisela Neira verlässt den Raum
+Michael Linkamp: bis morgen
+Danny Fröhlich: bis morgen
+-- 14:25 -- Tom Fratscher verlässt den Raum
+Stefan Kämmer: bis denn
+-- 14:26 -- Danny Fröhlich verlässt den Raum
+-- 14:26 -- Stefan Kämmer verlässt den Raum
+Heiko Christmann: > ist momentan nicht ansprechbar <
+-- 14:29 -- Michael Linkamp verlässt den Raum
+-- 14:30
+-- 14:31 -- Tanja Treffler verlässt den Raum

@@ -1,0 +1,468 @@
+-----------------------------------------------
+Betreten des Gruppenraums "C++ Basics"
+29.05.2019 07:48 Uhr
+-----------------------------------------------
+-- 07:48 -- Tanja Treffler betritt den Raum Hauptraum
+Tanja Treffler: GutenMorgen
+-- 07:54 -- Danny Fröhlich betritt den Raum Hauptraum
+Michael Linkamp: Guten Morgen!
+Danny Fröhlich: Guten Morgen
+-- 07:56 -- Prince Salasi Agblevor betritt den Raum Hauptraum
+Prince Salasi Agblevor: Guten Morgen
+-- 07:58 -- Heiko Christmann betritt den Raum Hauptraum
+Heiko Christmann: Guten Morgen
+-- 07:59 -- Stefan Kämmer betritt den Raum Hauptraum
+Stefan Kämmer: Guten Morgen :)
+Gisela Neira: > ist wieder ansprechbar <
+-- 08:00
+Stefan Kämmer: > applaudiert <
+Stefan Kämmer: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Danny Fröhlich: > meldet sich <
+Heiko Christmann: > meldet sich <
+-- 08:02 -- Tom Fratscher betritt den Raum Hauptraum
+Tom Fratscher: Guten morgen
+Danny Fröhlich: > stimmt zu <
+Michael Linkamp: > meldet sich <
+Michael Linkamp: > meldet sich <
+Danny Fröhlich: > meldet sich <
+Tanja Treffler: > meldet sich <
+-- 08:15
+Prince Salasi Agblevor: > meldet sich <
+Gisela Neira: graphict
+Gisela Neira: graphics
+Gisela Neira: qt
+Prince Salasi Agblevor: Haben Sie Projekte für Leute, die noch kein Peojektvorstellung haben?
+Prince Salasi Agblevor: Wäre super. :D
+Prince Salasi Agblevor: Eingentlich nicht
+Stefan Kämmer: > ist momentan nicht ansprechbar <
+Stefan Kämmer: > ist wieder ansprechbar <
+Gisela Neira: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Tanja Treffler:  unsichere Idee
+-- 08:30
+Danny Fröhlich: an welchen Standorten seid Ihr eigentlich?
+Prince Salasi Agblevor: bisschen Anspruchsvoll soll es schon sein :)
+Prince Salasi Agblevor: Ich bin aus Dortmund.
+Danny Fröhlich: Hamburg
+Tanja Treffler: Hannover :)
+Stefan Kämmer: Saalfeld
+Tom Fratscher: Magdeburg
+Michael Linkamp: Hannover
+Heiko Christmann: Saarbrücken
+Prince Salasi Agblevor: ok.
+Gisela Neira: _MWS
+Gisela Neira: _pipo
+Danny Fröhlich: > meldet sich <
+Danny Fröhlich: > stimmt zu <
+-- 08:45
+Stefan Kämmer: > meldet sich <
+Stefan Kämmer: > meldet sich <
+Michael Linkamp: > meldet sich <
+Stefan Kämmer: > stimmt zu <
+Michael Linkamp: Okay
+Michael Linkamp: > stimmt zu <
+Michael Linkamp: > meldet sich <
+Prince Salasi Agblevor: Rest
+-- 09:00
+Danny Fröhlich: > stimmt zu <
+Gisela Neira: int a=97;
+Michael Linkamp: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+-- 09:15
+Stefan Kämmer: > meldet sich <
+Danny Fröhlich: > meldet sich <
+Michael Linkamp: Float hat nachkommstellen
+Tom Fratscher: die nachkommastellen fallen weg
+Michael Linkamp: Eigenschaften = Variablen
+Michael Linkamp: Fähigkeiten = Methoden?
+Danny Fröhlich: Attribute und Operationen
+Stefan Kämmer: Methoden
+Stefan Kämmer: eine Funktion in einer Klasse
+Michael Linkamp: Funktionen und Prozeduren
+Stefan Kämmer: alter
+Michael Linkamp: Seine Farbe
+Danny Fröhlich: Glitschig
+Tanja Treffler: Alter, Art
+Prince Salasi Agblevor: Name
+Tom Fratscher: Größe
+Prince Salasi Agblevor: Form
+Danny Fröhlich: Gewicht
+Tom Fratscher: Schuppendichte
+Tanja Treffler: "Art"
+Stefan Kämmer: Famlie, Gattung
+Stefan Kämmer: flossen
+Michael Linkamp: Flossen
+Tom Fratscher: Flossen
+Michael Linkamp: Anzahl der Augen
+Danny Fröhlich: Schwimmen, Jagen, Essen, Atmen
+Prince Salasi Agblevor: schwimmen, Fortpflanzung
+Stefan Kämmer: sehen, fühlen, etc
+Stefan Kämmer: alles kognitive
+Tom Fratscher: Tauchtiefe
+Stefan Kämmer: tauchtiefe=eigenschaft
+Prince Salasi Agblevor: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Prince Salasi Agblevor: > ist momentan nicht ansprechbar <
+Stefan Kämmer: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Tom Fratscher: > ist momentan nicht ansprechbar <
+Tom Fratscher: > ist wieder ansprechbar <
+Danny Fröhlich: > ist momentan nicht ansprechbar <
+Tom Fratscher: > ist momentan nicht ansprechbar <
+Heiko Christmann: > ist momentan nicht ansprechbar <
+Stefan Kämmer: > ist momentan nicht ansprechbar <
+Michael Linkamp: > ist momentan nicht ansprechbar <
+Tanja Treffler: > ist momentan nicht ansprechbar <
+Gisela Neira: 09:35 Uhr
+Gisela Neira: > ist momentan nicht ansprechbar <
+Danny Fröhlich: > ist wieder ansprechbar <
+Danny Fröhlich: > ist momentan nicht ansprechbar <
+-- 09:30
+Tom Fratscher: > ist wieder ansprechbar <
+Gisela Neira: > ist wieder ansprechbar <
+Danny Fröhlich: > ist wieder ansprechbar <
+Prince Salasi Agblevor: > ist wieder ansprechbar <
+Michael Linkamp: > ist wieder ansprechbar <
+Tanja Treffler: > ist wieder ansprechbar <
+Stefan Kämmer: > ist wieder ansprechbar <
+Heiko Christmann: > ist wieder ansprechbar <
+Tanja Treffler: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Michael Linkamp: Schalter
+Stefan Kämmer: fehler
+Prince Salasi Agblevor: fehler
+Stefan Kämmer: was genau ist ein schalter?
+-- 09:45
+Danny Fröhlich: nein
+Michael Linkamp: Ja
+Michael Linkamp: > stimmt zu <
+Danny Fröhlich: > stimmt nicht zu <
+Stefan Kämmer: > stimmt nicht zu <
+Tom Fratscher: > stimmt nicht zu <
+Tom Fratscher: > stimmt nicht zu <
+Prince Salasi Agblevor: > stimmt nicht zu <
+Tanja Treffler: > stimmt zu <
+Michael Linkamp: Der Präprozessor ersetzt ja
+Michael Linkamp: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Stefan Kämmer: > meldet sich <
+Heiko Christmann: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Stefan Kämmer: verbreitet nur chaos, oder?
+Tom Fratscher: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Michael Linkamp: > meldet sich <
+-- 10:00
+Prince Salasi Agblevor: > meldet sich <
+Stefan Kämmer: > meldet sich <
+Michael Linkamp: > stimmt zu <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Stefan Kämmer: 4
+Tom Fratscher: 4?
+Prince Salasi Agblevor: 4
+Danny Fröhlich: 4
+Michael Linkamp: 4
+Heiko Christmann: 4
+Tom Fratscher: 4
+Tanja Treffler: aus Prinzip mal nicht vier :D
+Stefan Kämmer: einzig richtige antwort @tanya
+Michael Linkamp: 25
+Michael Linkamp: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Tanja Treffler: > applaudiert <
+Heiko Christmann: Bitte nochmal erklären
+Tanja Treffler: > stimmt zu <
+Heiko Christmann: > stimmt nicht zu <
+Danny Fröhlich: warum braucht steht dort nochmal g/c
+Danny Fröhlich: > meldet sich <
+-- 10:15
+Danny Fröhlich: > meldet sich <
+Tanja Treffler: g und c sind unabhänig von a/b
+Prince Salasi Agblevor: > meldet sich <
+Tom Fratscher: Punkt vor Strich ;)
+Stefan Kämmer: ist ne eigene funktion
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Stefan Kämmer: > meldet sich <
+Tom Fratscher: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Danny Fröhlich: Der Präprozessor kennt schon klammersetzung oder?
+Michael Linkamp: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Danny Fröhlich: > ist momentan nicht ansprechbar <
+Heiko Christmann: > stimmt nicht zu <
+-- 10:30
+Heiko Christmann: > ist momentan nicht ansprechbar <
+Tanja Treffler: > ist momentan nicht ansprechbar <
+Michael Linkamp: > ist momentan nicht ansprechbar <
+Gisela Neira: 10:35 Uhr
+Gisela Neira: > ist momentan nicht ansprechbar <
+Danny Fröhlich: > ist wieder ansprechbar <
+Stefan Kämmer: > ist momentan nicht ansprechbar <
+Gisela Neira: > ist wieder ansprechbar <
+Michael Linkamp: > ist wieder ansprechbar <
+Stefan Kämmer: > ist wieder ansprechbar <
+Tanja Treffler: > ist wieder ansprechbar <
+Heiko Christmann: > ist wieder ansprechbar <
+Michael Linkamp: globale Konstante
+Stefan Kämmer: global=alle funktionen können drauf zugreifen
+Michael Linkamp: für alle bereiche verfügbar
+Michael Linkamp: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Prince Salasi Agblevor: > stimmt nicht zu <
+Stefan Kämmer: > meldet sich <
+Prince Salasi Agblevor: > stimmt zu <
+Stefan Kämmer: > meldet sich <
+Prince Salasi Agblevor: > stimmt zu <
+-- 10:45
+Tanja Treffler: > stimmt nicht zu <
+Michael Linkamp: Ja
+Stefan Kämmer: > stimmt nicht zu <
+Prince Salasi Agblevor: > stimmt nicht zu <
+Prince Salasi Agblevor: > stimmt nicht zu <
+Michael Linkamp: nein
+Heiko Christmann: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Danny Fröhlich: > meldet sich <
+Danny Fröhlich: > stimmt zu <
+-- 11:00
+Prince Salasi Agblevor: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Michael Linkamp: 0
+Danny Fröhlich: 0
+Stefan Kämmer: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Stefan Kämmer: %f aber modulo ist int?
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Danny Fröhlich: > meldet sich <
+Tanja Treffler: > meldet sich <
+Stefan Kämmer: > meldet sich <
+Michael Linkamp: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Tom Fratscher: > meldet sich <
+Michael Linkamp: 1
+Danny Fröhlich: 1
+Tom Fratscher: 1
+Tom Fratscher: 0
+Danny Fröhlich: dasstimmt nicht
+Tom Fratscher: das ist ein and
+Danny Fröhlich: sorry
+Prince Salasi Agblevor: Pause
+Prince Salasi Agblevor: > meldet sich <
+-- 11:15
+Michael Linkamp: > stimmt zu <
+Gisela Neira: 13:25 Uhr
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Danny Fröhlich: > applaudiert <
+Tom Fratscher: > stimmt zu <
+Heiko Christmann: > applaudiert <
+Stefan Kämmer: > applaudiert <
+Danny Fröhlich: > ist momentan nicht ansprechbar <
+Gisela Neira: > ist momentan nicht ansprechbar <
+Heiko Christmann: bis dann
+Tanja Treffler: > ist momentan nicht ansprechbar <
+Michael Linkamp: > ist momentan nicht ansprechbar <
+-- 11:15 -- Prince Salasi Agblevor verlässt den Raum
+-- 11:15 -- Stefan Kämmer verlässt den Raum
+-- 11:15 -- Heiko Christmann verlässt den Raum
+Tom Fratscher: > ist momentan nicht ansprechbar <
+-- 11:30
+Danny Fröhlich: > ist wieder ansprechbar <
+-- 11:45
+-- 12:00
+-- 12:15
+-- 12:30
+-- 12:45
+Tanja Treffler: > ist wieder ansprechbar <
+Tanja Treffler: > ist momentan nicht ansprechbar <
+-- 13:00
+-- 13:15
+Tom Fratscher: > ist wieder ansprechbar <
+-- 13:21 -- Heiko Christmann betritt den Raum Hauptraum
+Heiko Christmann: > ist momentan nicht ansprechbar <
+Gisela Neira: > ist wieder ansprechbar <
+Michael Linkamp: > ist wieder ansprechbar <
+Tanja Treffler: > ist wieder ansprechbar <
+Michael Linkamp: Hallo
+Tom Fratscher: Hallo
+Tanja Treffler:   Hallo:)
+Tom Fratscher: Prince
+-- 13:26 -- Stefan Kämmer betritt den Raum Hauptraum
+Stefan Kämmer: > applaudiert <
+Stefan Kämmer: war im programmieren vertieft :D
+Heiko Christmann: > ist wieder ansprechbar <
+Tom Fratscher: > meldet sich <
+Michael Linkamp: 1
+Tom Fratscher: 1
+Stefan Kämmer: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Tom Fratscher: Oder
+Danny Fröhlich: ja klar
+Stefan Kämmer: was wäre Xor?
+-- 13:30
+Stefan Kämmer: google ich später :)
+Danny Fröhlich: > ist momentan nicht ansprechbar <
+Stefan Kämmer: 1
+Danny Fröhlich: > ist wieder ansprechbar <
+Stefan Kämmer: ich hab die initiaax
+Stefan Kämmer: 1101 00001
+Michael Linkamp: cdef = 1101 und ghijk = 00111
+Danny Fröhlich: keine Ahnung
+Heiko Christmann: > hat eine Frage <
+Tom Fratscher: bin noch dabei
+Danny Fröhlich: > meldet sich <
+Danny Fröhlich: da kommt nichts raus
+Tom Fratscher: 110100010
+Tanja Treffler: 1101 ... upps bei den letzten verwecheln
+Danny Fröhlich: und wahr ist eins?
+Michael Linkamp: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+-- 13:45
+Danny Fröhlich: > meldet sich <
+Danny Fröhlich: ok
+Danny Fröhlich: > stimmt zu <
+Tom Fratscher: > meldet sich <
+Tom Fratscher: Ich habe zu k eine Frage
+Stefan Kämmer: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Michael Linkamp: Ja. 
+Tanja Treffler: > stimmt zu <
+Stefan Kämmer: true
+Stefan Kämmer: >0
+Danny Fröhlich: keine reine null
+Michael Linkamp: alles was nicht null ist ist wahr
+Tom Fratscher: > stimmt zu <
+-- 14:00
+Tom Fratscher: > hat verstanden <
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Heiko Christmann: einigermaßen verstanden
+Michael Linkamp: Schalter
+Danny Fröhlich: schalter
+Danny Fröhlich: definitiom
+Michael Linkamp: Präprozessorkonstanten
+Tom Fratscher: konstante
+Tom Fratscher: richtig Präprozessor konstante
+Tom Fratscher: > hat verstanden <
+Stefan Kämmer: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Danny Fröhlich: > hat verstanden <
+Heiko Christmann: > stimmt nicht zu <
+-- 14:15
+Tom Fratscher: zu den Kriterien der Projektarbeit
+Tom Fratscher: Singel Source Prinzip
+Tom Fratscher: > hat verstanden <
+Tom Fratscher: > applaudiert <
+-- 14:30
+Michael Linkamp: > stimmt zu <
+Michael Linkamp: > applaudiert <
+Danny Fröhlich: > stimmt zu <
+Tom Fratscher: > applaudiert <
+Danny Fröhlich: > applaudiert <
+Stefan Kämmer: > applaudiert <
+Danny Fröhlich: > stimmt zu <
+Tanja Treffler: > applaudiert <
+Danny Fröhlich: > applaudiert <
+Gisela Neira: > applaudiert <
+Heiko Christmann: Vielen Dank.
+Heiko Christmann: > applaudiert <
+Michael Linkamp: Tschüss
+-- 14:35 -- Gisela Neira verlässt den Raum
+-- 14:35 -- Stefan Kämmer verlässt den Raum
+-- 14:35 -- Heiko Christmann verlässt den Raum
+-- 14:35 -- Michael Linkamp verlässt den Raum
+-- 14:35 -- Tom Fratscher verlässt den Raum
+-- 14:36 -- Danny Fröhlich verlässt den Raum
+-- 14:37 -- Tanja Treffler verlässt den Raum

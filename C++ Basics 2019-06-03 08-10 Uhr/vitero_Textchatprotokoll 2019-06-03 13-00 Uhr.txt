@@ -1,0 +1,405 @@
+-----------------------------------------------
+Betreten des Gruppenraums "C++ Basics"
+03.06.2019 08:10 Uhr
+-----------------------------------------------
+-- 08:10 -- Tanja Treffler betritt den Raum Hauptraum
+Tanja Treffler: Guten Morgen :)
+Tanja Treffler: > ist momentan nicht ansprechbar <
+-- 08:12 -- Prince Salasi Agblevor betritt den Raum Hauptraum
+Prince Salasi Agblevor: Morgen
+-- 08:14 -- Danny Fröhlich betritt den Raum Hauptraum
+Danny Fröhlich: Guten Morgen
+-- 08:15
+-- 08:29 -- Tom Fratscher betritt den Raum Hauptraum
+Tom Fratscher: Guten Morgen
+-- 08:30
+-- 08:33 -- Michael Linkamp betritt den Raum Hauptraum
+Michael Linkamp: Guten Morgen!
+Michael Linkamp: > ist momentan nicht ansprechbar <
+-- 08:38 -- Stefan Kämmer betritt den Raum Hauptraum
+Stefan Kämmer: Morgen :)
+-- 08:45
+-- 08:48 -- Heiko Christmann betritt den Raum Hauptraum
+Gisela Neira: > ist wieder ansprechbar <
+Michael Linkamp: > ist wieder ansprechbar <
+Tanja Treffler: > ist wieder ansprechbar <
+Gisela Neira: Hat jemand Fragen?
+Heiko Christmann: Guten Morgen
+Michael Linkamp: Hallo
+Danny Fröhlich: > stimmt zu <
+Danny Fröhlich: Hier auch fast schon zu warm
+Michael Linkamp: > stimmt nicht zu <
+Heiko Christmann: > meldet sich <
+Tom Fratscher: > meldet sich <
+Stefan Kämmer: ich starte mal kurz den PC neu
+-- 08:56 -- Stefan Kämmer verlässt den Raum
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+-- 08:59 -- Stefan Kämmer betritt den Raum Hauptraum
+-- 09:00
+Tom Fratscher: > meldet sich <
+Stefan Kämmer: alles gut
+Prince Salasi Agblevor: alles  gut
+Prince Salasi Agblevor: > meldet sich <
+Tanja Treffler: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Tom Fratscher: > hat verstanden <
+Michael Linkamp: > meldet sich <
+Michael Linkamp: > stimmt zu <
+Michael Linkamp: Okay. Super
+Danny Fröhlich: > meldet sich <
+Michael Linkamp: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+-- 09:15
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Danny Fröhlich: > meldet sich <
+Gisela Neira: 4
+Michael Linkamp: > stimmt nicht zu <
+Prince Salasi Agblevor: > meldet sich <
+Danny Fröhlich: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Danny Fröhlich: > meldet sich <
+-- 09:30
+Danny Fröhlich: > meldet sich <
+Danny Fröhlich: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Michael Linkamp: > meldet sich <
+Tanja Treffler: > meldet sich <
+Prince Salasi Agblevor: > stimmt nicht zu <
+Michael Linkamp: > stimmt nicht zu <
+Danny Fröhlich: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Prince Salasi Agblevor: > meldet sich <
+Danny Fröhlich: nein
+Danny Fröhlich: > stimmt nicht zu <
+Heiko Christmann: > stimmt nicht zu <
+Tom Fratscher: ich denke ja
+Prince Salasi Agblevor: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: bei Assembler gibt es quasi keine Funktionen
+-- 09:45
+Michael Linkamp: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Tom Fratscher: > ist momentan nicht ansprechbar <
+Tom Fratscher: > ist wieder ansprechbar <
+Tom Fratscher: > ist momentan nicht ansprechbar <
+Heiko Christmann: > ist momentan nicht ansprechbar <
+Stefan Kämmer: > ist momentan nicht ansprechbar <
+Michael Linkamp: > ist momentan nicht ansprechbar <
+Gisela Neira: 09:52 Uhr
+Tanja Treffler: > ist momentan nicht ansprechbar <
+Gisela Neira: > ist momentan nicht ansprechbar <
+Gisela Neira: > ist wieder ansprechbar <
+Michael Linkamp: > ist wieder ansprechbar <
+Tom Fratscher: > ist wieder ansprechbar <
+Stefan Kämmer: > ist wieder ansprechbar <
+Tanja Treffler: > ist wieder ansprechbar <
+Heiko Christmann: > ist wieder ansprechbar <
+Michael Linkamp: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+-- 10:00
+Tom Fratscher: gibt es so etwas wie einen Vector auch C?
+Heiko Christmann: > meldet sich <
+Danny Fröhlich: > meldet sich <
+Stefan Kämmer: > meldet sich <
+Danny Fröhlich: Null idea
+Prince Salasi Agblevor: > meldet sich <
+Tom Fratscher: > meldet sich <
+-- 10:15
+Gisela Neira: > hat eine Frage <
+Gisela Neira: int foli[50]={0}
+Heiko Christmann: > meldet sich <
+Heiko Christmann: > stimmt zu <
+Michael Linkamp: das 3.
+Tom Fratscher: > meldet sich <
+Tom Fratscher: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Stefan Kämmer: in matlab
+Tom Fratscher: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Stefan Kämmer: > hat eine Frage <
+-- 10:30
+Stefan Kämmer: int zweidim[3][4] = {0}
+Stefan Kämmer: > meldet sich <
+Stefan Kämmer: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Prince Salasi Agblevor: > ist momentan nicht ansprechbar <
+Tanja Treffler: > stimmt zu <
+Danny Fröhlich: super danke
+Gisela Neira: 10:42 Uhr
+Tanja Treffler: > ist momentan nicht ansprechbar <
+Danny Fröhlich: > stimmt nicht zu <
+Heiko Christmann: > ist momentan nicht ansprechbar <
+Michael Linkamp: > ist momentan nicht ansprechbar <
+Michael Linkamp: > ist wieder ansprechbar <
+Danny Fröhlich: > ist momentan nicht ansprechbar <
+Gisela Neira: > ist momentan nicht ansprechbar <
+Michael Linkamp: > ist momentan nicht ansprechbar <
+Stefan Kämmer: > ist momentan nicht ansprechbar <
+Stefan Kämmer: > ist wieder ansprechbar <
+Michael Linkamp: > ist wieder ansprechbar <
+Tom Fratscher: > ist momentan nicht ansprechbar <
+Tom Fratscher: > ist wieder ansprechbar <
+Gisela Neira: > ist wieder ansprechbar <
+Tanja Treffler: > ist wieder ansprechbar <
+Heiko Christmann: > ist wieder ansprechbar <
+Danny Fröhlich: > ist wieder ansprechbar <
+Prince Salasi Agblevor: > ist wieder ansprechbar <
+Michael Linkamp: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+-- 10:45
+Gisela Neira: char array = string
+Gisela Neira: 0x00
+Gisela Neira: 0x0
+Gisela Neira: 0x00
+Tom Fratscher: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Danny Fröhlich: > meldet sich <
+Tom Fratscher: > stimmt zu <
+Danny Fröhlich: > meldet sich <
+Tom Fratscher: am anfang
+Danny Fröhlich: > stimmt zu <
+-- 11:00
+Michael Linkamp: Terminator
+Stefan Kämmer: terminator
+Danny Fröhlich: arni
+Michael Linkamp: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Danny Fröhlich: dann können wir nichts in der Konsole schreiben
+Michael Linkamp: Es gibt kein Terminatorzeichen?
+Tom Fratscher: überlauf
+Stefan Kämmer: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Gisela Neira: std::string
+Stefan Kämmer: 11:15 wäre die nächste
+Prince Salasi Agblevor: 2
+Danny Fröhlich: > stimmt zu <
+Danny Fröhlich: > ist momentan nicht ansprechbar <
+Prince Salasi Agblevor: > ist momentan nicht ansprechbar <
+Gisela Neira: 11:20 Uhr
+Tanja Treffler: > ist momentan nicht ansprechbar <
+Heiko Christmann: > ist momentan nicht ansprechbar <
+Stefan Kämmer: > ist momentan nicht ansprechbar <
+-- 11:15
+Gisela Neira: > ist momentan nicht ansprechbar <
+Michael Linkamp: > ist momentan nicht ansprechbar <
+Gisela Neira: > ist wieder ansprechbar <
+Danny Fröhlich: > ist wieder ansprechbar <
+Michael Linkamp: > ist wieder ansprechbar <
+Tanja Treffler: > ist wieder ansprechbar <
+Heiko Christmann: > ist wieder ansprechbar <
+Stefan Kämmer: > ist wieder ansprechbar <
+Prince Salasi Agblevor: > ist wieder ansprechbar <
+Michael Linkamp: Klassen = allgemeine Bezeichnung z.b. Lebewesen
+Tom Fratscher: Klasse : Lebewesen, Objekt : Kathrin
+Danny Fröhlich: Lebewesen Pflanze Mensch sind Klassen
+Stefan Kämmer: Klasse Orangenbaum
+Michael Linkamp: Lebewesen, Person, Familie
+Prince Salasi Agblevor: Klasse
+Danny Fröhlich: Objekt
+Tanja Treffler: Klasse
+Stefan Kämmer: Kind=Klasse
+Tom Fratscher: klasse
+Michael Linkamp: Klasse Kind
+Heiko Christmann: Klasse
+Prince Salasi Agblevor: Kathrin
+Prince Salasi Agblevor: Herr Haupt
+Tom Fratscher: Puff, Kathrin, Herr Haup, Samuel
+Michael Linkamp: Samuel, Kathrin, Puffi, Herr Haupt
+Danny Fröhlich: > meldet sich <
+Tanja Treffler: Puffi(Hund?), Herr Haupt, Kathrin, Samuel
+Heiko Christmann: Puffi, Herr Haupt, Elefant, kahtrin, Samuel
+Michael Linkamp: Aber keine bestimmte Person
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: ist ok
+Heiko Christmann: nein, ist falsch
+-- 11:30
+Stefan Kämmer: > meldet sich <
+Heiko Christmann: nein
+Danny Fröhlich: > meldet sich <
+Stefan Kämmer: an welche deiner töchter? :)
+Stefan Kämmer: > meldet sich <
+Stefan Kämmer: macht eine klasse mit nur einem objekt sinn?
+Prince Salasi Agblevor: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Prince Salasi Agblevor: > meldet sich <
+Michael Linkamp: > meldet sich <
+Stefan Kämmer: > hat verstanden <
+Prince Salasi Agblevor: > meldet sich <
+Tanja Treffler: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Michael Linkamp: > meldet sich <
+Prince Salasi Agblevor: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Michael Linkamp: > hat verstanden <
+Heiko Christmann: > hat verstanden <
+Tanja Treffler: > stimmt zu <
+Danny Fröhlich: > hat verstanden <
+Tom Fratscher: > hat verstanden <
+Tanja Treffler: > stimmt zu <
+Michael Linkamp: Fähigkeit=kann springen
+Stefan Kämmer: alles könnte eine eigenschaft sein?
+Prince Salasi Agblevor: Alter
+Michael Linkamp: Eigenschaft=ein Zustand
+Michael Linkamp: Fähigkeit
+Stefan Kämmer: > meldet sich <
+Prince Salasi Agblevor: kommt dran an
+Prince Salasi Agblevor: drauf*
+Danny Fröhlich: Aktivität = Fähigkeit
+Michael Linkamp: > meldet sich <
+Heiko Christmann: Fähigkeit
+Prince Salasi Agblevor: fähigkeit
+Danny Fröhlich: Fähigkiet
+Stefan Kämmer: eigenschaft
+Heiko Christmann: Eigenschaftg
+Michael Linkamp: Eigenschaft
+Tanja Treffler: irgendwie beides :D
+-- 11:45
+Danny Fröhlich: Das ist doch immer so
+Danny Fröhlich: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Michael Linkamp: > stimmt nicht zu <
+Michael Linkamp: > stimmt nicht zu <
+Michael Linkamp: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+-- 12:00
+Michael Linkamp: > stimmt nicht zu <
+Tanja Treffler: > stimmt nicht zu <
+Danny Fröhlich: > stimmt nicht zu <
+Heiko Christmann: > stimmt nicht zu <
+Tom Fratscher: char feld =string
+Michael Linkamp: Einzelne Werte Zuweisen
+Tom Fratscher: sie taschen zeichen aus
+Tanja Treffler: belegen
+Tom Fratscher: tauschen*
+Stefan Kämmer: manuelle wertzuweisung
+Prince Salasi Agblevor: auch string
+Danny Fröhlich: ja
+Michael Linkamp: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Michael Linkamp: > hat verstanden <
+Heiko Christmann: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Danny Fröhlich: > hat verstanden <
+Tanja Treffler: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Tanja Treffler: Schickst du die Folien? :)
+Danny Fröhlich: Können wir die Skripte haben
+Danny Fröhlich: > stimmt zu <
+Michael Linkamp: > stimmt nicht zu <
+Tom Fratscher: > stimmt nicht zu <
+Heiko Christmann: > stimmt nicht zu <
+Tom Fratscher: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Gisela Neira: > applaudiert <
+Danny Fröhlich: danke
+Tom Fratscher: > applaudiert <
+Prince Salasi Agblevor: > applaudiert <
+Stefan Kämmer: > applaudiert <
+Heiko Christmann: > applaudiert <
+Tanja Treffler: > applaudiert <
+Danny Fröhlich: Tschüs bis morgen
+Danny Fröhlich: > applaudiert <
+Michael Linkamp: Bis morgen dann!
+Tanja Treffler: BIs morgen :)
+Stefan Kämmer: tschüss :)
+Heiko Christmann: Bis Morgen
+Michael Linkamp: > applaudiert <
+Tom Fratscher: bis morgen
+-- 12:11 -- Gisela Neira verlässt den Raum
+-- 12:11 -- Stefan Kämmer verlässt den Raum
+-- 12:11 -- Heiko Christmann verlässt den Raum
+Danny Fröhlich: > ist momentan nicht ansprechbar <
+-- 12:12 -- Prince Salasi Agblevor verlässt den Raum
+-- 12:12 -- Michael Linkamp verlässt den Raum
+-- 12:12 -- Tom Fratscher verlässt den Raum
+-- 12:15
+-- 12:30
+-- 12:45
+Danny Fröhlich: > ist wieder ansprechbar <
+-- 12:48 -- Danny Fröhlich verlässt den Raum
+-- 13:00
+-- 13:00 -- Tanja Treffler verlässt den Raum
