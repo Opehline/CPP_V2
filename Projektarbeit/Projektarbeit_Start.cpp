@@ -27,8 +27,6 @@ const float tischpreis = 62.00;
 
 #define PREISBERECHNUNG(t) (t)*tischpreis
 
-#define verifikationUmbau
-
 
 /* globale Variablen (nicht konstant) */
 // Lagerbestand deklarienen
@@ -50,31 +48,7 @@ int main(int argc, char **argv){
     int tische_kundenwunsch = kundenbegruessung(); // Rückgabe: Anzahl gewünschter Tische
 
     bool kaufabschluss = bestellungsverifikation(tische_kundenwunsch);  // Bestätigung und Machbarkeitsprüfung
-    #ifndef verifikationUmbau
-    bestellungverifikation: // Label für goto-Anweisung bei Verständnisproblemen
-    std::cout << tische_kundenwunsch << " Tische also. Das kostet " << PREISBERECHNUNG(tische_kundenwunsch);
-    std::cout << " Geld. Wollen Sie diese verbindlich bestellen? \n (Ja/Nein)" << std::endl;
-    // Antworten ja, nein, ich versthe dich nicht
-    std::cin >> bestellbestaetigung;
-    std::cin.clear(); // löscht den Speicher cin
-    if (bestellbestaetigung == "Ja" || bestellbestaetigung == "JA" || bestellbestaetigung == "ja" ){
-        // Lager ausreichend gefüllt? Wenn nicht alles da, nachkaufen.
-        kaufbar = materialnachkauf(tische_kundenwunsch);
 
-        if(kaufbar){
-            std::cout << "Vielen Dank fuer die Bestellung." << std::endl;
-        }else{ // gefragte Menge zu groß -> neuer Versuch
-            goto begruessung;
-        }
-
-
-    } else  if(bestellbestaetigung == "Nein"){
-        std::cout << "Schade, dass Sie nicht bestellen. Schoenen Tag noch." << std::endl; // wenn Zeit, Preisnachlass?
-    }else {
-        std::cout << "Das war unklar, also keine Bestellung. Probier es nochmal." << std::endl; // Nochmal fragen!
-        goto bestellungverifikation;
-    }
-    #endif // verifikationUmbau
 
     if (kaufabschluss){
         // Alles da -> dann bau
