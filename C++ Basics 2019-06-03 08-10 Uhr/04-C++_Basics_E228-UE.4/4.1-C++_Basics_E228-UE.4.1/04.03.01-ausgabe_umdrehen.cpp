@@ -8,7 +8,7 @@
 #include <iostream>
 #define MAX 10
 
-//int reihenfolge(int(* flop)) 	// * richtig
+//int reihenfolge(int(* flop)) 	// * richtig -> eleganteste Variante
 int reihenfolge(int flop[MAX]) 	// * richtig
 //int reihenfolge(int flop[]) 		// * richtig
 //int reihenfolge(int &flop) 		// * falsch

@@ -28,7 +28,7 @@ int main(int argc, char **argv)
 		// * nur bis real eingetragene Werte
 		for(i=0; i<MAX; i++)
 		{
-			//if(a[i]!='\0')    // Richtig oder falsch? 	r
+			//if(a[i]!='\0')    // Richtig oder falsch? 	r -> Nicht selbstgeschriebene Nullen, werden nicht ausgegeben
 			//if(a[i]!=0)	    // Richtig oder falsch? 	r
 			//if(a[i]!=0x00)	// Richtig oder falsch? 	r
 			//if(a[i]!='0')	    // Richtig oder falsch?		f
