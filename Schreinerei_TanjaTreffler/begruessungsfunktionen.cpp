@@ -1,67 +1,8 @@
-// Tanja Treffler
-// Projekt
-//
-// Betreibsablauf in der Schreinerei
+#include "header.hpp"
 
-
-#include <iostream> // std::cout
-#include <stdio.h>  // printf()
-#include <cstdlib>
-#include <string>   // std::string
-#include <typeinfo>
-#include <utility>  // std::pair, std::make_pair
-#include <thread>         // std::this_thread::sleep_for
-#include <chrono>         // std::chrono::seconds
-
-
-#undef Materialnachkauf_V1
-#define PreislisteEinbau
-
-/* Weitere Funktionen deklarieren*/
-void startBetrieb();                      // Was noch in der Main übrig war
-void loadLagerstart();                    // Anfangsbestand für das Lager
-int  bestellungsaufnahme();               // Komplette Aufnahme der Kundenbestellung
-int kundenbegruessung();                  // Rückgabe: Anzahl gewünschter Tische
-int  bestellungsverifikation(int tisch);  // Bestätigung und Prüfung auf Machbarkeit
-// 0 = False // 1 = True // 2 = Menge war zu hoch, mach nochmal
-void verkauf(int tisch);                  // Verkauf
-void materialnachkauf(int tisch);         // Lager aufstocken, um Kundenwunsch zu erfüllen
-void tischbau(int tisch);                 // Macht aus Material Tische
-int baubaretische();                      // Wie viele Tische können derzeit maximal hergestellt werden?
-
-/* globale Konstanten */
-const float nagelpreis =  0.05;
-const float brettpreis =  1.00;
-const float tischpreis = 62.00;
-
-/* Preisliste */
-#ifdef PreislisteEinbau // http://www.cplusplus.com/reference/utility/pair/pair/
-// Pair erzeugen: z.B.
-// a) std::pair <std::string,float> product2 ("nagel",0.05);
-// b) product1 = std::make_pair(std::string("lightbulbs"),0.99);
-#if 1
-const std::pair <std::string,float> preisliste[3] = {
-    std::make_pair(std::string("nagel"),0.05),
-    std::make_pair(std::string("brett"),1.00),
-    std::make_pair(std::string("tisch"),62.00)
-};
-#endif // 1
-
-#if 0
-std::pair <std::string,float> preisn ("nagel",0.05);
-std::pair <std::string,float> preisb ("brett",1.00);
-std::pair <std::string,float> preist ("tisch",62.00);
-const std::pair <std::string,float> preisliste[3] = {preisn,preisb, preist};
-#endif // 1
-
-
-#endif // PreislisteEinbau
-
-
-
-#define PREISBERECHNUNG(t) (t)*tischpreis
-#define VERSION3
-
+/*
+ZUSÄTZLICHE FUNKTIONEN
+*/
 
 /* globale Variablen (nicht konstant) */
 // Lagerbestand deklarienen
@@ -70,29 +11,28 @@ float geld  = 0;    //
 int naegel  = 0;    // Anzahl Preis:  0.05 Geld
 int tische  = 0;    // Anzahl Preis: 62.00 Geld
 
-int main(int argc, char **argv){
-    startBetrieb();
+/* Beginne mit dem Betrieb*/
+void startBetrieb(){
 
-     /*// Lagerbestand initialisieren;
+    // Lagerbestand initialisieren;
     loadLagerstart();
 
     int tische_kundenwunsch = bestellungsaufnahme();
 
     if (tische_kundenwunsch > 0){
+        // Eine Sekunde Pause erzeugen? "Bauzeit"
+        std::this_thread::sleep_for (std::chrono::seconds(1));
+
         // Alles da -> dann bau
          tischbau(tische_kundenwunsch);
 
-        // Eine Sekunde Pause erzeugen? "Bauzeit"
+         // Eine Sekunde Pause erzeugen? "Bauzeit"
+        std::this_thread::sleep_for (std::chrono::seconds(1));
 
         // Verkauf
         verkauf(tische_kundenwunsch);
-    } */
-
+    }
 };
-
-/*
-ZUSÄTZLICHE FUNKTIONEN
-*/
 
 /* Anfangsbestand für das Lager*/
 void loadLagerstart(){
@@ -131,19 +71,19 @@ int bestellungsverifikation(int tische_kunde){
             // Lager ausreichend gefüllt? Wenn nicht alles da, nachkaufen.
             materialnachkauf(tische_kunde);
 
-            std::cout << "Vielen Dank fuer die Bestellung." << std::endl;
+            std::cout << "Vielen Dank fuer die Bestellung. \n" << std::endl;
             return 1;
 
         } else  if(bestellbestaetigung == "Nein"){
             std::cout << "Schade, dass Sie nicht bestellen. Schoenen Tag noch." << std::endl; // wenn Zeit, Preisnachlass?
         }else {
-            std::cout << "Das war unklar, also keine Bestellung. Probier es nochmal." << std::endl; // Nochmal fragen!
+            std::cout << "Das war unklar, also keine Bestellung. Probier es nochmal.\n" << std::endl; // Nochmal fragen!
             goto bestellungverifikation;
         }
     } else {
         // Bestellung nicht machbar, übersteigt Ressourcen
         std::cout << "Die Bestellung ueberfordert unseren Betrieb. Bitte nehmen Sie eine kleinere Menge ab" << std::endl;
-        std::cout << "Wir haben Ressourcen fuer " << tische_machbar << " Tische." << std::endl;
+        std::cout << "Wir haben Ressourcen fuer " << tische_machbar << " Tische.\n" << std::endl;
         // Sprung zu Begrüßung
         return 2;
     }
@@ -182,7 +122,7 @@ void verkauf(int tische_kunde){
         }
     }
 
-    std::cout << "MATERIALNACHKAUF ERFOLGT." << std::endl;
+    std::cout << "MATERIALNACHKAUF ERFOLGT.\n" << std::endl;
     //std::cout << "Im Lager sind nun " << bretter << " Bretter, " << naegel << "  Naegel und " << geld << " Geld." << std::endl;
 
 
@@ -227,8 +167,7 @@ void verkauf(int tische_kunde){
     bretter -= tische_bau* 18;
     naegel  -= tische_bau*27;
     tische  += tische_bau;
-    std::cout << tische_bau << " TISCHE GEBAUT" << std::endl;
-    std::cout << "Im Lager sind nun " << bretter << " Bretter, " << naegel << "  Naegel und " << geld << " Geld." << std::endl;
+    std::cout << tische_bau << " TISCHE GEBAUT \n" << std::endl;
  };
 
  /* wie viele Tische können mit den aktuellen Ressourcen, inkl. Geld, gefertigt werden?*/
@@ -282,25 +221,3 @@ int bestellungsaufnahme(){
         return 0;
     }
 };
-
-/* Beginne mit dem Betrieb */
-void startBetrieb(){
-
-    // Lagerbestand initialisieren;
-    loadLagerstart();
-
-    int tische_kundenwunsch = bestellungsaufnahme();
-
-    if (tische_kundenwunsch > 0){
-        // Eine Sekunde Pause erzeugen? "Bauzeit"
-        std::this_thread::sleep_for (std::chrono::seconds(1));
-        // Alles da -> dann bau
-         tischbau(tische_kundenwunsch);
-        // Eine Sekunde Pause erzeugen? "Bauzeit"
-        std::this_thread::sleep_for (std::chrono::seconds(1));
-        // Verkauf
-        verkauf(tische_kundenwunsch);
-    }
-};
-
-

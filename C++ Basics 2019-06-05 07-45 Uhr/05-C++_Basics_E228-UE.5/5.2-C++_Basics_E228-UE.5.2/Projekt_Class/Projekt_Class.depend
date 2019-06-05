@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1535017662 source:c:\users\pc\documents\ibb\c++_kurse\c++_basics-e228\5.0-c++_basics_e228-ue.5\5.2-c++_basics_e228-ue.5.2\projekt_class\05.08.01-klassen.cpp
+	"05.08.01-Header.hpp"
+	"05.08.01-Klassen.hpp"
+
+1520505013 c:\users\pc\documents\ibb\c++_kurse\c++_basics-e228\5.0-c++_basics_e228-ue.5\5.2-c++_basics_e228-ue.5.2\projekt_class\05.08.01-header.hpp
+	<iostream>
+	"05.08.01-Klassen.hpp"
+
+1535017728 c:\users\pc\documents\ibb\c++_kurse\c++_basics-e228\5.0-c++_basics_e228-ue.5\5.2-c++_basics_e228-ue.5.2\projekt_class\05.08.01-klassen.hpp
+

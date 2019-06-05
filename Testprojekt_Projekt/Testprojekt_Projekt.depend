@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1559310641 source:c:\users\ttreffler\desktop\vitero dateien\projektarbeit\projektarbeit_start.cpp
-	<iostream>
-	<cstdlib>
-	<string>
-	<typeinfo>
-

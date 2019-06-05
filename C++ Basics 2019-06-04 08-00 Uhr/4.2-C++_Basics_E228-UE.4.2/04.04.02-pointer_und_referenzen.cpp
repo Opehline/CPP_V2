@@ -7,10 +7,10 @@
 //#include <stdio.h>	// * fuer mingw
 
 
-int main(int argc, char **argv)
+int main(int argc, char **argv) // **argv = *argv[]
 {
 
-    #if 0
+    #if 1
 		// * Hier wird eine gewoehnliche Variablen mit
 		// * NULL initialisiert.
 		long double val = 0;
@@ -21,7 +21,7 @@ int main(int argc, char **argv)
 		std::cout <<"Wert von val wird ausgegeben: " << val << std::endl;
 		// * Hier wird val 100 zugewiesen durch dem Pointer pt
 
-		*pt = 100;																		// *	pt = 0x100;
+		*pt = 100;	// Dereferenzierungsoperation: Durch den Pointer wird val mit dem Wert 100 belegt (analog zu val = 100;)															// *	pt = 0x100;
 
 		std::cout <<"Wert von *pt wird ausgegeben: " << *pt << std::endl;
 
@@ -53,26 +53,30 @@ int main(int argc, char **argv)
 
 		// * Hier wird der Wert der von pointer referenzierten
 		// * Variablen -also x- um 1 erhoet.
-		*pointer = *pointer + 1;
+		*pointer = *pointer + 1;  // x = x+1
 		std::cout << "Wert von x + 1: " << x << std::endl;
     #endif
 
-    #if 0
+    #if 1
 		// * Beispiele von Pointer:
-		float* pf;	// Ein Zeiger auf float
+		float* pf;	// Ein Zeiger auf float // = beste/theoretisch richtige Schreibweise // noch besser = NULL ergänzen
 		char *pc;	// Ein Zeiger auf char
 		unsigned int*pui;	// Ein Zeiger auf unsigned int
 		// * Das ist ein Pointer auf einem Pointer auf int
-		int **a;
+		int ropi;
+		int *popi=&ropi;
+		int **a=&popi; // ARRAY IST ZEIGER + ZEIGERARITHMETIK // Zeiger auf Zeiger
+		// gleichbedeudend mit Array aus Zeigern ca. w[]=*a
+		//int ***roro = &a;
     #endif
 
     #if 1
 		// * Hier wird ein Zeiger auf einem Variablentyp definiert
 		/*int babo=3;
 		int* p=&babo;*/
-		//int* p=NULL;
-		//char *p=0;
-		double *p=0;
+        int* p=NULL;
+		//char *p=NULL;
+		//double *p=0;
 		//long double* p=0;
 
 		// * Hier wird dem Zeiger jeweils um 1, 2 und 3
@@ -89,6 +93,8 @@ int main(int argc, char **argv)
 		std::cout <<"p + 1 = " << p + 1 << std::endl;
 		std::cout <<"p + 2 = " << p + 2 << std::endl;
 		std::cout <<"p + 3 = " << p + 3 << std::endl;
+
+
     #endif
 
 return 0;

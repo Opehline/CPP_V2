@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1559743521 source:c:\users\ttreffler\desktop\ordnerfuergit\schreinerei_tanjatreffler\main.cpp
+	<iostream>
+	<thread>
+	<chrono>
+	"header.hpp"
+
+1559743301 c:\users\ttreffler\desktop\ordnerfuergit\schreinerei_tanjatreffler\header.hpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<string>
+	<typeinfo>
+	<utility>
+	<thread>
+	<chrono>
+
+1559743279 source:c:\users\ttreffler\desktop\ordnerfuergit\schreinerei_tanjatreffler\begruessungsfunktionen.cpp
+	"header.hpp"
+

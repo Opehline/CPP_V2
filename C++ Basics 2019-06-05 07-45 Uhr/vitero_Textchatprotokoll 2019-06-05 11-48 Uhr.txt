@@ -1,0 +1,332 @@
+-----------------------------------------------
+Betreten des Gruppenraums "C++ Basics"
+05.06.2019 07:45 Uhr
+-----------------------------------------------
+-- 07:45 -- Tanja Treffler betritt den Raum Hauptraum
+Tanja Treffler: > ist momentan nicht ansprechbar <
+Gisela Neira: Hallo, guten Morgen!
+Gisela Neira: > ist momentan nicht ansprechbar <
+-- 07:46 -- Michael Linkamp betritt den Raum Hauptraum
+Michael Linkamp: Guten Morgen !
+Michael Linkamp: > ist momentan nicht ansprechbar <
+-- 07:50 -- Danny Fröhlich betritt den Raum Hauptraum
+Danny Fröhlich: Guten Morgen:)
+Tanja Treffler: > ist wieder ansprechbar <
+Tanja Treffler: Guten Morgen :)
+Tanja Treffler: > ist momentan nicht ansprechbar <
+-- 07:58 -- Heiko Christmann betritt den Raum Hauptraum
+-- 07:58 -- Prince Salasi Agblevor betritt den Raum Hauptraum
+Prince Salasi Agblevor: morgen
+Heiko Christmann: Guten Morgen
+Heiko Christmann: > ist momentan nicht ansprechbar <
+Gisela Neira: > ist wieder ansprechbar <
+-- 08:00
+-- 08:00 -- Tom Fratscher betritt den Raum Hauptraum
+Tom Fratscher: guten morgen
+Michael Linkamp: > ist wieder ansprechbar <
+Tanja Treffler: > ist wieder ansprechbar <
+Michael Linkamp: Hallo
+Michael Linkamp: > meldet sich <
+Heiko Christmann: > ist wieder ansprechbar <
+-- 08:04 -- Stefan Kämmer betritt den Raum Hauptraum
+Stefan Kämmer: morgen :)
+Heiko Christmann: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Gisela Neira: .l+
+Danny Fröhlich: > meldet sich <
+Danny Fröhlich: was meinst du mit absoluter null
+Prince Salasi Agblevor: > stimmt zu <
+Danny Fröhlich: > meldet sich <
+-- 08:15
+Michael Linkamp: > stimmt nicht zu <
+Heiko Christmann: > meldet sich <
+Heiko Christmann: > stimmt zu <
+Stefan Kämmer: manuelle adresszuweisung?
+Prince Salasi Agblevor: 100
+Michael Linkamp: > meldet sich <
+Prince Salasi Agblevor: Die Datei hab ich nicht
+Prince Salasi Agblevor: ohhh sorry
+Tanja Treffler: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+-- 08:30
+Stefan Kämmer: x++
+Stefan Kämmer: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > stimmt zu <
+Prince Salasi Agblevor: verstanden
+Prince Salasi Agblevor: > meldet sich <
+-- 08:45
+Michael Linkamp: > stimmt zu <
+Prince Salasi Agblevor: kriengt man einen Fehlen wenn man ein * weglässt.
+Prince Salasi Agblevor: > hat verstanden <
+Prince Salasi Agblevor: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Danny Fröhlich: kathastrophe.cpp klingt dramatisch
+Prince Salasi Agblevor: > meldet sich <
+Danny Fröhlich: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Tom Fratscher: das hängt on der organisierung des speicher ab
+Danny Fröhlich: > meldet sich <
+Danny Fröhlich: > meldet sich <
+Danny Fröhlich: > meldet sich <
+Stefan Kämmer: > meldet sich <
+-- 09:00
+Stefan Kämmer: > meldet sich <
+Danny Fröhlich: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Heiko Christmann: > meldet sich <
+Danny Fröhlich: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Stefan Kämmer: initialisierung p=NULL
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Michael Linkamp: > stimmt zu <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > stimmt zu <
+Danny Fröhlich: ja bitte
+Danny Fröhlich: sorry
+Danny Fröhlich: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Michael Linkamp: > meldet sich <
+-- 09:15
+Tom Fratscher: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Michael Linkamp: bei toolchain?
+Heiko Christmann: Größe Pointer ist bei mir 8
+Stefan Kämmer: Code::Blocks ist eine 32bit Anwendung
+Michael Linkamp: bei mir genau gleich
+Stefan Kämmer: 4
+Michael Linkamp: auch 32bit
+Tanja Treffler: Pointergröße 4, aber bei dem Beispiel unter zählt er mit 8 hoch
+Danny Fröhlich: 4
+Heiko Christmann: Bei mir ist es 8
+Danny Fröhlich: das ist eine potenz mit der basis y
+-- 09:30
+Danny Fröhlich: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Tom Fratscher: > ist momentan nicht ansprechbar <
+Tom Fratscher: > ist wieder ansprechbar <
+Heiko Christmann: > ist momentan nicht ansprechbar <
+Gisela Neira: 09:41 Uhr
+Heiko Christmann: > ist wieder ansprechbar <
+Tom Fratscher: > ist momentan nicht ansprechbar <
+Heiko Christmann: > ist momentan nicht ansprechbar <
+Tanja Treffler: > ist momentan nicht ansprechbar <
+Prince Salasi Agblevor: > ist momentan nicht ansprechbar <
+Gisela Neira: > ist momentan nicht ansprechbar <
+Stefan Kämmer: > ist momentan nicht ansprechbar <
+Michael Linkamp: > ist momentan nicht ansprechbar <
+Danny Fröhlich: Hab meinen Fehler in der Hausaufgabe von gestern gefunden. Das Programm läuft jetzt.
+Michael Linkamp: > ist wieder ansprechbar <
+Tanja Treffler: > ist wieder ansprechbar <
+Prince Salasi Agblevor: > ist wieder ansprechbar <
+Stefan Kämmer: > ist wieder ansprechbar <
+Heiko Christmann: > ist wieder ansprechbar <
+Tom Fratscher: > ist wieder ansprechbar <
+Gisela Neira: > ist wieder ansprechbar <
+Michael Linkamp: > applaudiert <
+Tom Fratscher: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+-- 09:45
+Heiko Christmann: > stimmt nicht zu <
+Danny Fröhlich: nein
+Michael Linkamp: > stimmt nicht zu <
+Tom Fratscher: > stimmt nicht zu <
+Stefan Kämmer: ein bisschen
+Michael Linkamp: > stimmt zu <
+Danny Fröhlich: > meldet sich <
+Michael Linkamp: > meldet sich <
+Michael Linkamp: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Tom Fratscher: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Danny Fröhlich: > stimmt zu <
+Stefan Kämmer: stefan sagt: a und 
+Stefan Kämmer: > meldet sich <
+Stefan Kämmer: > stimmt zu <
+Danny Fröhlich: > stimmt nicht zu <
+Michael Linkamp: Damit die Funktionsnamen bekannt sind bevor sie aufgerufen werden können
+Tom Fratscher: damit der Präprozessor sie kennt?
+Danny Fröhlich: > meldet sich <
+Tom Fratscher: > meldet sich <
+Tom Fratscher: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Michael Linkamp: Vorwärtsdeklaration
+Prince Salasi Agblevor: > meldet sich <
+-- 10:00
+Prince Salasi Agblevor: > meldet sich <
+Stefan Kämmer: summe(x,z) wäre das
+Michael Linkamp: by value
+Prince Salasi Agblevor: value
+Danny Fröhlich: clla by value
+Michael Linkamp: nicht müde
+Stefan Kämmer: 10:25 erst 
+Michael Linkamp: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Danny Fröhlich: frei
+Prince Salasi Agblevor: die frage nochmal
+Prince Salasi Agblevor: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Gisela Neira: .cpp
+Gisela Neira: .c
+Michael Linkamp: > meldet sich <
+-- 10:15
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: > meldet sich <
+Prince Salasi Agblevor: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+-- 10:30
+Heiko Christmann: Pause?
+Tanja Treffler: > stimmt zu <
+Stefan Kämmer: > ist momentan nicht ansprechbar <
+Tanja Treffler: > ist momentan nicht ansprechbar <
+Gisela Neira: 10:36 Uhr
+Tom Fratscher: > ist momentan nicht ansprechbar <
+Michael Linkamp: > ist momentan nicht ansprechbar <
+Gisela Neira: > ist momentan nicht ansprechbar <
+Tom Fratscher: > ist wieder ansprechbar <
+Gisela Neira: > ist wieder ansprechbar <
+Michael Linkamp: > ist wieder ansprechbar <
+Stefan Kämmer: > ist wieder ansprechbar <
+Tanja Treffler: > ist wieder ansprechbar <
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Prince Salasi Agblevor: > applaudiert <
+Prince Salasi Agblevor: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Gisela Neira: main.cpp
+Gisela Neira: ZELDA.cpp
+Stefan Kämmer: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+-- 10:45
+Prince Salasi Agblevor: > stimmt zu <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Danny Fröhlich: Was füreinen Compiler soll amn auswählen
+Danny Fröhlich: > meldet sich <
+Tom Fratscher: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Heiko Christmann: Kannst du das noch für Dev-C++ zeigen?
+Michael Linkamp: > meldet sich <
+Tanja Treffler: > meldet sich <
+Heiko Christmann: ja, ich probieres es mal
+Michael Linkamp: > meldet sich <
+Tom Fratscher: > stimmt zu <
+Stefan Kämmer: > hat eine Frage <
+Tom Fratscher: > meldet sich <
+-- 11:00
+Stefan Kämmer:  #include macht nur copy+paste?
+Michael Linkamp: ersetzt
+Michael Linkamp: > hat verstanden <
+Stefan Kämmer: > meldet sich <
+Tom Fratscher: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Danny Fröhlich: > meldet sich <
+Michael Linkamp: Hat mir sehr geholfen gerade!
+Danny Fröhlich: > meldet sich <
+Stefan Kämmer: > stimmt zu <
+-- 11:15
+Danny Fröhlich: > meldet sich <
+Danny Fröhlich: > stimmt zu <
+Danny Fröhlich: > meldet sich <
+Danny Fröhlich: > meldet sich <
+Michael Linkamp: ein Objekt, eine Instanz? der Klasse
+Tom Fratscher: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Michael Linkamp: Energie
+Heiko Christmann: > stimmt nicht zu <
+Michael Linkamp: > stimmt zu <
+Danny Fröhlich: ich bin etwas müde
+Danny Fröhlich: zu viel neues
+Danny Fröhlich: > meldet sich <
+Gisela Neira: > applaudiert <
+Tom Fratscher: > applaudiert <
+Danny Fröhlich: > applaudiert <
+Danny Fröhlich: > meldet sich <
+Heiko Christmann: > applaudiert <
+Michael Linkamp: > meldet sich <
+Tanja Treffler: > meldet sich <
+Stefan Kämmer: sobald du die konsole schließt?
+Tanja Treffler: Press any key - dann kein Fehler?
+Michael Linkamp: Drück mal Enter ohne das Fenster mit X zu schließen
+Michael Linkamp: Ist bei mir auch so
+Danny Fröhlich: > hat verstanden <
+Danny Fröhlich: Danke
+Michael Linkamp: > meldet sich <
+-- 11:30
+Danny Fröhlich: > meldet sich <
+Danny Fröhlich: ok danke
+Prince Salasi Agblevor: > meldet sich <
+Stefan Kämmer: ))
+-- 11:45
+Stefan Kämmer: komma rechts voon tisch zu viel?
+Michael Linkamp: > stimmt nicht zu <
+Stefan Kämmer: > stimmt nicht zu <
+Gisela Neira: > applaudiert <
+Tanja Treffler: > applaudiert <
+Tom Fratscher: > applaudiert <
+Danny Fröhlich: > applaudiert <
+Stefan Kämmer: > applaudiert <
+Prince Salasi Agblevor: > applaudiert <
+Tanja Treffler: bis morgen :)
+Michael Linkamp: Bis morgen... Tschüss
+Michael Linkamp: > applaudiert <
+-- 11:48 -- Gisela Neira verlässt den Raum
+-- 11:48 -- Stefan Kämmer verlässt den Raum
+-- 11:48 -- Tom Fratscher verlässt den Raum
+-- 11:49 -- Tanja Treffler verlässt den Raum
