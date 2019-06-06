@@ -15,6 +15,7 @@ int Feld2D[3][2] = {{1, 2}, {3, 4}, {5, 6}}; // Klammern bedeuden Zeilen
 // std::cout << Feld2D << std::endl; // -> so nur seltsamer Zeichencode
 feldausgabe(Feld2D);
 
+
 return 0;
 
 }

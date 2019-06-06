@@ -1,0 +1,469 @@
+-----------------------------------------------
+Betreten des Gruppenraums "C++ Basics"
+06.06.2019 08:19 Uhr
+-----------------------------------------------
+-- 08:19 -- Tanja Treffler betritt den Raum Hauptraum
+Tanja Treffler: > ist momentan nicht ansprechbar <
+Tanja Treffler: > ist wieder ansprechbar <
+Tanja Treffler: Guten Morgen :)
+Tanja Treffler: > ist momentan nicht ansprechbar <
+-- 08:27 -- Gisela Neira betritt den Raum Hauptraum
+Gisela Neira: Schönen guten Morgen!
+Gisela Neira: > ist momentan nicht ansprechbar <
+Gisela Neira: > ist wieder ansprechbar <
+Gisela Neira: > ist momentan nicht ansprechbar <
+-- 08:30
+Prince Salasi Agblevor: guten morgen
+-- 08:37 -- Stefan Kämmer betritt den Raum Hauptraum
+Stefan Kämmer: morgen :)
+Stefan Kämmer: > ist momentan nicht ansprechbar <
+Stefan Kämmer: > ist wieder ansprechbar <
+Stefan Kämmer: > ist momentan nicht ansprechbar <
+-- 08:40 -- Michael Linkamp betritt den Raum Hauptraum
+Michael Linkamp: Guten Morgen!
+Michael Linkamp: > ist momentan nicht ansprechbar <
+Danny Fröhlich: Guten Morgen
+-- 08:44 -- Heiko Christmann betritt den Raum Hauptraum
+-- 08:45
+Heiko Christmann: Guten Morgen
+Heiko Christmann: > ist momentan nicht ansprechbar <
+-- 08:49 -- Tom Fratscher betritt den Raum Hauptraum
+Heiko Christmann: > ist wieder ansprechbar <
+Tanja Treffler: > ist wieder ansprechbar <
+Michael Linkamp: > ist wieder ansprechbar <
+Gisela Neira: > ist wieder ansprechbar <
+Tom Fratscher: guten morgen
+Stefan Kämmer: > ist wieder ansprechbar <
+Michael Linkamp: Hallo
+Tanja Treffler: > stimmt zu <
+Tom Fratscher: > meldet sich <
+Michael Linkamp: > stimmt nicht zu <
+Prince Salasi Agblevor: > meldet sich <
+Heiko Christmann: > meldet sich <
+Tom Fratscher: > meldet sich <
+Tanja Treffler: Jetz zu der Mail?
+Danny Fröhlich: Prinz dein Micro ist voll laut
+-- 09:00
+Heiko Christmann: > meldet sich <
+Tom Fratscher: > meldet sich <
+Michael Linkamp: Kann es vielleicht am Umlaut ä im Dateinamen liegen?
+Stefan Kämmer: Umlaut?
+Tom Fratscher: der umlaut ?
+Stefan Kämmer: war nich meine idee :D
+-- 09:15
+Prince Salasi Agblevor: > meldet sich <
+Michael Linkamp: > stimmt nicht zu <
+Stefan Kämmer: > meldet sich <
+Danny Fröhlich: > meldet sich <
+Tom Fratscher: > stimmt nicht zu <
+Heiko Christmann: Geht leider immernoch nicht
+Michael Linkamp: vielleicht kannst du was mit ternären Operationen machen anstatt mit if?
+Tom Fratscher: kannst du es mal ausführen?
+Heiko Christmann: > applaudiert <
+Tanja Treffler: > applaudiert <
+Danny Fröhlich: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Danny Fröhlich: > meldet sich <
+Heiko Christmann: Bei mir geht es
+-- 09:30
+Tom Fratscher: > stimmt zu <
+Tom Fratscher: die antwort ist ja
+Tom Fratscher: Ja
+Michael Linkamp: > meldet sich <
+Michael Linkamp: > stimmt zu <
+Michael Linkamp: > hat verstanden <
+Prince Salasi Agblevor: morgen
+Michael Linkamp: morgen geht auch
+Danny Fröhlich: morgen ist es auch ok
+Tanja Treffler: > stimmt zu <
+Prince Salasi Agblevor: und heute kommen die LEK fragen?
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: pause
+Danny Fröhlich: kurze Pause
+Tom Fratscher: > stimmt nicht zu <
+Danny Fröhlich: > ist momentan nicht ansprechbar <
+-- 09:45
+Stefan Kämmer: > ist momentan nicht ansprechbar <
+Michael Linkamp: > ist momentan nicht ansprechbar <
+Gisela Neira: 09:50 Uhr
+Heiko Christmann: > ist momentan nicht ansprechbar <
+Gisela Neira: > ist momentan nicht ansprechbar <
+Danny Fröhlich: > ist wieder ansprechbar <
+Gisela Neira: > ist wieder ansprechbar <
+Stefan Kämmer: > ist wieder ansprechbar <
+Michael Linkamp: > ist wieder ansprechbar <
+Heiko Christmann: > ist wieder ansprechbar <
+Michael Linkamp: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Tanja Treffler: Code sparen
+Michael Linkamp: > meldet sich <
+Prince Salasi Agblevor: > stimmt zu <
+Prince Salasi Agblevor: > meldet sich <
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: > meldet sich <
+Heiko Christmann: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+-- 10:00
+Michael Linkamp: > stimmt zu <
+Michael Linkamp: > hat verstanden <
+Tom Fratscher: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Tanja Treffler: das war aber nicht das aus der mail?
+Danny Fröhlich: > meldet sich <
+Tanja Treffler: > hat verstanden <
+Danny Fröhlich: > hat verstanden <
+Prince Salasi Agblevor: > hat verstanden <
+Michael Linkamp: > hat verstanden <
+Heiko Christmann: > stimmt zu <
+Stefan Kämmer: > meldet sich <
+Tanja Treffler: Danke :)
+-- 10:15
+Danny Fröhlich: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Michael Linkamp: bei a immer 15
+Prince Salasi Agblevor: 10
+Danny Fröhlich: 10
+Michael Linkamp: bei sta
+Prince Salasi Agblevor: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Michael Linkamp: > hat verstanden <
+Heiko Christmann: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Stefan Kämmer: > hat verstanden <
+Tom Fratscher: > hat verstanden <
+Tanja Treffler: > stimmt zu <
+Danny Fröhlich: > hat verstanden <
+Michael Linkamp: Eher nicht, weil ist ja local
+Stefan Kämmer: nein
+Stefan Kämmer: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Michael Linkamp: ja
+-- 10:30
+Stefan Kämmer: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Prince Salasi Agblevor: > stimmt nicht zu <
+Tanja Treffler: > stimmt zu <
+Heiko Christmann: > stimmt nicht zu <
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Tanja Treffler: > stimmt nicht zu <
+Michael Linkamp: geht nicht weil 
+Stefan Kämmer: > stimmt nicht zu <
+Prince Salasi Agblevor: > stimmt nicht zu <
+Michael Linkamp: nein
+Michael Linkamp: weil nicht in gleicher quellcodedatei definiert
+Michael Linkamp: > hat verstanden <
+Heiko Christmann: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Stefan Kämmer: > hat verstanden <
+Prince Salasi Agblevor: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Danny Fröhlich: keine ahnung
+Stefan Kämmer: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Michael Linkamp: > hat verstanden <
+Tom Fratscher: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Tanja Treffler: > meldet sich <
+Tanja Treffler: ok
+Stefan Kämmer: > meldet sich <
+Gisela Neira: 10:48 Uhr
+Heiko Christmann: > ist momentan nicht ansprechbar <
+Stefan Kämmer: ah okay
+Stefan Kämmer: > stimmt zu <
+Stefan Kämmer: > ist momentan nicht ansprechbar <
+Prince Salasi Agblevor: > meldet sich <
+-- 10:45
+Danny Fröhlich: > ist momentan nicht ansprechbar <
+Prince Salasi Agblevor: > stimmt nicht zu <
+Gisela Neira: > ist momentan nicht ansprechbar <
+Michael Linkamp: > ist momentan nicht ansprechbar <
+Michael Linkamp: > ist wieder ansprechbar <
+Heiko Christmann: > ist wieder ansprechbar <
+Danny Fröhlich: > ist wieder ansprechbar <
+Gisela Neira: > ist wieder ansprechbar <
+Stefan Kämmer: > ist wieder ansprechbar <
+Stefan Kämmer: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Tom Fratscher: > stimmt nicht zu <
+Prince Salasi Agblevor: > stimmt zu <
+-- 11:00
+Danny Fröhlich: > hat verstanden <
+Stefan Kämmer: 11:15 pause
+Tom Fratscher: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Danny Fröhlich: Kommst du eigentlich aus Spanien?
+Gisela Neira: 11:19 Uhr
+Heiko Christmann: > ist momentan nicht ansprechbar <
+Danny Fröhlich: Ohhh
+Danny Fröhlich: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+-- 11:15
+Stefan Kämmer: > ist momentan nicht ansprechbar <
+Gisela Neira: > ist momentan nicht ansprechbar <
+Michael Linkamp: > ist momentan nicht ansprechbar <
+Heiko Christmann: > ist wieder ansprechbar <
+Stefan Kämmer: > ist wieder ansprechbar <
+Gisela Neira: > ist wieder ansprechbar <
+Michael Linkamp: > ist wieder ansprechbar <
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Michael Linkamp: globales Kind
+Stefan Kämmer: global
+Tom Fratscher: global
+Michael Linkamp: Nicht sehr schön
+Heiko Christmann: > stimmt nicht zu <
+Danny Fröhlich: nö
+Danny Fröhlich: > stimmt nicht zu <
+Tom Fratscher: > stimmt nicht zu <
+Danny Fröhlich: schleife
+Stefan Kämmer: for schleife
+Tom Fratscher: array
+Michael Linkamp: Eine Funktion schreiben
+-- 11:30
+Michael Linkamp: > stimmt nicht zu <
+Michael Linkamp: > stimmt nicht zu <
+Tom Fratscher: > stimmt nicht zu <
+Michael Linkamp: Klassenobjekt
+Stefan Kämmer: ein bisschen
+Heiko Christmann: > stimmt nicht zu <
+Michael Linkamp: etwas
+Danny Fröhlich: > stimmt nicht zu <
+Danny Fröhlich: > stimmt nicht zu <
+Michael Linkamp: class ist größer als struct wegen der zusätzlichen Methode machwas
+Stefan Kämmer: class größer
+Michael Linkamp: specClass > specStruct
+Tom Fratscher: ich hätte gedachte struct ist kleiner
+Heiko Christmann: struct ist kleiner
+Danny Fröhlich: kannst du malnach unten 
+Prince Salasi Agblevor: i don't know xD
+Tanja Treffler: Klasse größer
+Tanja Treffler: mehr Inhalt
+Michael Linkamp: weil mehr Definitionen enthalten sind
+Stefan Kämmer: referenz zur funktion
+-- 11:45
+Tom Fratscher: > stimmt zu <
+Danny Fröhlich: ja
+Stefan Kämmer: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Danny Fröhlich: deine Mikro ist aus
+Tom Fratscher: > stimmt zu <
+Stefan Kämmer: > meldet sich <
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: 1
+Danny Fröhlich: 1
+Michael Linkamp: 1
+Tom Fratscher: 1
+Tom Fratscher: ?
+-- 12:00
+Danny Fröhlich: warum wird das übeschrieben
+Tom Fratscher: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Tom Fratscher: > hat verstanden <
+Heiko Christmann: > hat verstanden <
+Prince Salasi Agblevor: > stimmt zu <
+Michael Linkamp: ja aber irgendwie nicht so schön
+Danny Fröhlich: > hat verstanden <
+Danny Fröhlich: > hat verstanden <
+Danny Fröhlich: dein mikro ist aus
+Stefan Kämmer: mikro geht, liegt an dir
+Danny Fröhlich: ohh
+Danny Fröhlich: das ist alles bei mir total abgehackt oder im vorspuhmodus
+Stefan Kämmer: ganz normal bei mir
+Danny Fröhlich: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Stefan Kämmer: mehr oder weniger :D
+Heiko Christmann: > stimmt nicht zu <
+Michael Linkamp: > meldet sich <
+Tom Fratscher: > stimmt zu <
+Stefan Kämmer: > meldet sich <
+-- 12:15
+Danny Fröhlich: > meldet sich <
+Tom Fratscher: > stimmt zu <
+Tom Fratscher: > meldet sich <
+Tom Fratscher: > stimmt zu <
+Tom Fratscher: > hat verstanden <
+Michael Linkamp: > stimmt nicht zu <
+Stefan Kämmer: > stimmt nicht zu <
+Danny Fröhlich: ist das klausurrelevant?
+Danny Fröhlich: > applaudiert <
+Tanja Treffler: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Stefan Kämmer: hat gedauert :D
+Heiko Christmann: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Prince Salasi Agblevor: also istdie powerpoint ausreichend für die lek?
+Gisela Neira: > applaudiert <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > stimmt zu <
+Michael Linkamp: > applaudiert <
+Danny Fröhlich: > stimmt zu <
+Tanja Treffler: > applaudiert <
+Danny Fröhlich: > applaudiert <
+Tom Fratscher: > applaudiert <
+Stefan Kämmer: > applaudiert <
+Heiko Christmann: > applaudiert <
+Michael Linkamp: Super. Danke
+Tom Fratscher: Bis morgen
+-- 12:26 -- Gisela Neira verlässt den Raum
+Danny Fröhlich: > ist momentan nicht ansprechbar <
+-- 12:26 -- Heiko Christmann verlässt den Raum
+-- 12:26 -- Stefan Kämmer verlässt den Raum
+Tom Fratscher: > ist momentan nicht ansprechbar <
+-- 12:27 -- Michael Linkamp verlässt den Raum
+-- 12:30
+Tom Fratscher: > ist wieder ansprechbar <
+Tanja Treffler: Gucken wir heute noch über Fragen aus der Präsi?^^
+Tom Fratscher: Ich denke ja
+Tanja Treffler: So ab 1? dann ist etwas Zeit für Essen :)
+Tom Fratscher: Hast du Fragen?
+Tom Fratscher: Ok
+Tanja Treffler: > ist momentan nicht ansprechbar <
+-- 12:45
+Danny Fröhlich: > ist wieder ansprechbar <
+Tanja Treffler: > ist wieder ansprechbar <
+-- 13:00
+Tom Fratscher: bin gleich soweit
+Tanja Treffler: Keine Eile :)
+Tanja Treffler: Lässt sich ja eigentlich auch durch ausprobieren lösen
+Danny Fröhlich: Das mache ich auch die ganze Zeit :)
+Tanja Treffler: DAnny, hast du Fragen?
+Tanja Treffler: :D
+Tom Fratscher: bin soweit durch
+Tanja Treffler: FOlie 7, Mitte???
+Tom Fratscher: ich hätte fpögendes gedacht 
+Tom Fratscher: 4*5+3/(2-3)
+Tanja Treffler: Oho :D
+Tom Fratscher: ich hoffe das es richtig ist ;)
+Tanja Treffler: Ichwar bei 3/2 löschen oder aus der ersten 3 eine 0 machen
+Tom Fratscher: es kommt 17 raus
+Tanja Treffler: Aber wenn es multiple Choice ist, kann man ja nachrechen, was dort steht
+Tom Fratscher: > stimmt zu <
+Tanja Treffler: Ja, gibt sicher mehrere Varianten...
+Tanja Treffler: Wie das?
+Tom Fratscher: ja du musst die klammer setzen
+Tanja Treffler: oder +3/2 löschen :D
+Tanja Treffler: Unterschied float/double war wegen der Genaigkeit?
+Tom Fratscher: float 4 byte
+Tom Fratscher: double 8 byte
+Tom Fratscher: moment ich suche es schnell nochmal raus
+-- 13:15
+Tanja Treffler: und dann nehme ich double, für extremere ZAhlen?
+Tom Fratscher: moment ich suche es schnell nochmal raus
+Tanja Treffler: > stimmt zu <
+Tom Fratscher: Ich denke es ist immer eine Abwegungssache
+Tanja Treffler: Und Folie9?
+Tom Fratscher: Was war mnemonic?
+Tanja Treffler: google sagt "Gedankenstütze".
+Tanja Treffler: Also eher Hinweis für sie?
+Tanja Treffler: :o
+Tanja Treffler: Dann gucke ich mal in die Skripte und sonst ist das morgen ja nochmal Thema :)
+Danny Fröhlich: : war er Zuweiungsoperator oder
+Tom Fratscher: :=
+Tanja Treffler: ich dacht =
+Tom Fratscher: =
+Danny Fröhlich: ::
+Tom Fratscher: ==
+Tanja Treffler: > stimmt zu <
+Prince Salasi Agblevor: Hat jemand Lösung für die LEK, können uns austauschen.
+Prince Salasi Agblevor: Bei welcher frage seid ihr
+Tanja Treffler: Prince, wenn du eine Frage hast, stell sie einach :)
+Tanja Treffler: > stimmt zu <
+Tanja Treffler: Jede Zahl !=0 ist wahr
+Prince Salasi Agblevor: > stimmt zu <
+-- 13:30
+Tom Fratscher: float hat 38 Nachkommae stellen, double 308
+Tanja Treffler: Oh, okay... Danke
+Tom Fratscher: Hat jemand noch Fragen?
+Prince Salasi Agblevor: ja,bestimmt
+Tanja Treffler: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Tanja Treffler: sehe ich auch so
+Tom Fratscher: Ja
+Tom Fratscher: > stimmt zu <
+Prince Salasi Agblevor: speichertplatzbelegung
+Tanja Treffler: das wäre Initialisiert. 
+Tanja Treffler: deklariert wegen Speicherplatzzuweisung?
+Tanja Treffler: Deklarieren ist ja nur z.B. int k;
+Tanja Treffler: Geklärt Danny? 
+Danny Fröhlich: ja danke
+Prince Salasi Agblevor: > stimmt zu <
+Tanja Treffler: Aber nicht '0'
+Tanja Treffler: also als char '0'
+Tom Fratscher: '\0'
+-- 13:45
+Tom Fratscher: NULL
+Tanja Treffler: > stimmt zu <
+Danny Fröhlich: `\0`, NULL, `0`
+Tanja Treffler: NULL oder 0 oder '\0' oder 0x00 
+Tanja Treffler: '0' ist gerade nicht falsch wegen den Hochkommata. Das braucht den \0
+Tanja Treffler: > stimmt zu <
+Danny Fröhlich: `0`
+Tanja Treffler: Da steht bei mit '\0' falsch, '0' nicht
+Tanja Treffler: > stimmt zu <
+Tanja Treffler: Macht du noch die Präsi an?
+Danny Fröhlich: `\0`, NULL, 0, 0x00 die absoluten Nullwerte.
+Tanja Treffler: eine float 0.0 ist dann auch Null, oder?
+Tom Fratscher: > stimmt zu <
+Danny Fröhlich: ich glaube schon
+Prince Salasi Agblevor: Welche Frage
+Prince Salasi Agblevor: mnemonic?
+-- 14:00
+Tom Fratscher: Ja
+Tom Fratscher: Ich bin mal kurz weg.
+Tom Fratscher: > ist momentan nicht ansprechbar <
+Tom Fratscher: > ist wieder ansprechbar <
+Danny Fröhlich: https://www.youtube.com/watch?v=sLRln0H22oI
+Tanja Treffler: Was ist das für ein Video? lohnt es, den Link abzutippen?^^
+Danny Fröhlich: mnemonic das ist eine Abkürzung für einen Variablennamen
+Danny Fröhlich: patters of letters or word which helps in rememberring something
+-- 14:15
+Tom Fratscher: Ok ichverabschiede mich von euch heute
+Tom Fratscher: viel Erfolg morgen
+-- 14:25 -- Tom Fratscher verlässt den Raum
+-- 14:30
+-- 14:45
+-- 15:00
+-- 15:15
+-- 15:22 -- Danny Fröhlich verlässt den Raum
+-- 15:23 -- Tanja Treffler verlässt den Raum

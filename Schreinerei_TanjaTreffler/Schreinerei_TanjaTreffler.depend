@@ -5,16 +5,35 @@
 	<chrono>
 	"header.hpp"
 
-1559743301 c:\users\ttreffler\desktop\ordnerfuergit\schreinerei_tanjatreffler\header.hpp
+1559831313 c:\users\ttreffler\desktop\ordnerfuergit\schreinerei_tanjatreffler\header.hpp
 	<iostream>
 	<stdio.h>
 	<cstdlib>
 	<string>
 	<typeinfo>
-	<utility>
 	<thread>
 	<chrono>
+	<map>
+	<iterator>
 
-1559743279 source:c:\users\ttreffler\desktop\ordnerfuergit\schreinerei_tanjatreffler\begruessungsfunktionen.cpp
+1559831300 source:c:\users\ttreffler\desktop\ordnerfuergit\schreinerei_tanjatreffler\begruessungsfunktionen.cpp
 	"header.hpp"
+	"Lagerinitialisierung.hpp"
+	"HerstellungVerkauf.hpp"
+
+1559829143 c:\users\ttreffler\desktop\ordnerfuergit\schreinerei_tanjatreffler\lagerinitialisierung.hpp
+	<iostream>
+	<map>
+	<iterator>
+	<string>
+
+1559828980 source:c:\users\ttreffler\desktop\ordnerfuergit\schreinerei_tanjatreffler\lagerinitialisierung.cpp
+	"Lagerinitialisierung.hpp"
+
+1559829143 c:\users\ttreffler\desktop\ordnerfuergit\schreinerei_tanjatreffler\herstellungverkauf.hpp
+	<iostream>
+
+1559829556 source:c:\users\ttreffler\desktop\ordnerfuergit\schreinerei_tanjatreffler\herstellungverkauf.cpp
+	"Lagerinitialisierung.hpp"
+	"HerstellungVerkauf.hpp"
 
