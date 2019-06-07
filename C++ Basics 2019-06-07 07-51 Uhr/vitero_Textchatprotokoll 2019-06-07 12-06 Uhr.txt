@@ -1,0 +1,518 @@
+-----------------------------------------------
+Betreten des Gruppenraums "C++ Basics"
+07.06.2019 07:51 Uhr
+-----------------------------------------------
+-- 07:51 -- Tanja Treffler betritt den Raum
+Tanja Treffler: Guten morgen:)
+Tanja Treffler: > ist momentan nicht ansprechbar <
+-- 07:57 -- Tom Fratscher betritt den Raum Hauptraum
+Tom Fratscher: Guten Morgen
+Tom Fratscher: > ist momentan nicht ansprechbar <
+Tom Fratscher: > ist wieder ansprechbar <
+Tom Fratscher: > ist momentan nicht ansprechbar <
+-- 08:00
+-- 08:06 -- Danny Fröhlich betritt den Raum Hauptraum
+Danny Fröhlich: Guten Morgen
+Danny Fröhlich: > ist momentan nicht ansprechbar <
+-- 08:15
+-- 08:19 -- Gisela Neira betritt den Raum Hauptraum
+Tom Fratscher: > ist wieder ansprechbar <
+Gisela Neira: Hallo, schönen Morgen!
+Gisela Neira: > ist momentan nicht ansprechbar <
+Tanja Treffler: > ist wieder ansprechbar <
+Tanja Treffler: > ist momentan nicht ansprechbar <
+-- 08:30
+-- 08:30 -- Prince Salasi Agblevor betritt den Raum Hauptraum
+Prince Salasi Agblevor: guten morgen
+Tom Fratscher: > ist momentan nicht ansprechbar <
+Danny Fröhlich: > ist wieder ansprechbar <
+Tom Fratscher: > ist wieder ansprechbar <
+-- 08:45
+-- 08:48 -- Heiko Christmann betritt den Raum Hauptraum
+Heiko Christmann: Guten Morgen
+Heiko Christmann: > ist momentan nicht ansprechbar <
+Tanja Treffler: > ist wieder ansprechbar <
+-- 08:48 -- Stefan Kämmer betritt den Raum Hauptraum
+Stefan Kämmer: morgen :)
+-- 08:49 -- Michael Linkamp betritt den Raum Hauptraum
+Michael Linkamp: Guten Morgen!
+Michael Linkamp: > ist momentan nicht ansprechbar <
+Gisela Neira: > ist wieder ansprechbar <
+Michael Linkamp: > ist wieder ansprechbar <
+Michael Linkamp: Hallo
+Heiko Christmann: > ist wieder ansprechbar <
+Danny Fröhlich: Prince wie lange läuten bei dir im hintergrund immer die Glocken?
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Michael Linkamp: einzeln
+Stefan Kämmer: einzeln
+Tanja Treffler: gemischt
+Tom Fratscher: gemischt
+Michael Linkamp: Index
+Tanja Treffler: beides
+Tom Fratscher: Index
+Stefan Kämmer: a[index]
+Tanja Treffler: aber ohne Namen komme ich nicht an den Index?
+Heiko Christmann: > meldet sich <
+Stefan Kämmer: 0-10
+Prince Salasi Agblevor: 0,10
+Michael Linkamp: von 0 bis 10
+Danny Fröhlich: 0 - 10
+Tom Fratscher: 0 bis 10
+Heiko Christmann: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Michael Linkamp: Zufällige Werte
+Stefan Kämmer: zufallsmüll
+Heiko Christmann: Müll
+Tom Fratscher: zufällige  werte
+Tanja Treffler: alle von vorgegebenen DAtentyp
+Michael Linkamp: auch zufällige Werte
+Tom Fratscher: einen zufälligen wert
+Tom Fratscher: wahr
+Danny Fröhlich: wahr
+Tanja Treffler: wahr
+Stefan Kämmer: wahr
+Michael Linkamp: 567.9887 <> 0 -> wahr
+Heiko Christmann: wahr
+Prince Salasi Agblevor: > stimmt zu <
+Danny Fröhlich: `\0`, NULL, 0, 0x00 die absoluten Nullwerte.
+Heiko Christmann: absolut Null
+Stefan Kämmer: und false
+Tom Fratscher: > stimmt zu <
+Danny Fröhlich: wahr
+Tanja Treffler: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Michael Linkamp: ja
+Stefan Kämmer: 'A' ist wahr
+Michael Linkamp: Buchstaben,  Ziffern, Unterstrich
+Stefan Kämmer: Zahlen, Buchstaben, Underscore
+Heiko Christmann: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Danny Fröhlich: Nur Buchstaben, Ziffern Unterstriche
+Prince Salasi Agblevor: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Tom Fratscher: Zahlen, Buchstaben, Unterstriche 
+Michael Linkamp: um Speicherplatz zu reservieren
+Stefan Kämmer: speicherreservierung
+Tom Fratscher: damit ihnen ein Speicherplatz zugewiesen erden kann
+Heiko Christmann: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Tanja Treffler: 10
+Stefan Kämmer: 10
+Tom Fratscher: 10
+Heiko Christmann: 10
+Michael Linkamp: (int)21/(int2)=(int)10 -> 10
+Prince Salasi Agblevor: > stimmt zu <
+Danny Fröhlich: 10
+Heiko Christmann: 1
+Prince Salasi Agblevor: 1
+Stefan Kämmer: 1
+Tom Fratscher: 1
+Michael Linkamp: 1 zeichen von 256 unterschiedlichen
+Danny Fröhlich: Nur eins aus 256
+Tanja Treffler: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+-- 09:00
+Michael Linkamp: > stimmt zu <
+Danny Fröhlich: ja 
+Tanja Treffler: > stimmt zu <
+Danny Fröhlich: 1101
+Tom Fratscher: 1101
+Michael Linkamp: 1 1 0 1
+Tanja Treffler:  1 10 1
+Tom Fratscher: 1101
+Prince Salasi Agblevor: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Danny Fröhlich: ja
+Michael Linkamp: ja
+Tanja Treffler: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Heiko Christmann: ja
+Michael Linkamp: > hat eine Frage <
+Stefan Kämmer: > hat eine Frage <
+Tom Fratscher: > hat eine Frage <
+Tom Fratscher: {}
+Stefan Kämmer: {}
+Michael Linkamp: { }
+Heiko Christmann: {}
+Danny Fröhlich: > meldet sich <
+Stefan Kämmer: > hat eine Frage <
+Stefan Kämmer: (kopf){körper}
+Tom Fratscher: erhöhe um 6 
+Michael Linkamp: i = i + (3*2)
+Danny Fröhlich: > stimmt zu <
+Heiko Christmann: i = i + (3*2) --> i = i + (6)
+Stefan Kämmer: i=i+6
+Michael Linkamp: i = i + 1 oder ++i
+Stefan Kämmer: i=i+1 , ++i
+Danny Fröhlich: i=i+1 i+=1
+Heiko Christmann: = i + 1;
+Tom Fratscher: i += 1; i = i + 1
+Michael Linkamp: i += 1
+Tanja Treffler: i+=1 // i=i+1 (im SChleifenkopf ++i)
+Prince Salasi Agblevor: > stimmt zu <
+Prince Salasi Agblevor: ++i
+Gisela Neira: i=i+1;
+Gisela Neira: i=1+i;
+Gisela Neira: ++i;
+Prince Salasi Agblevor: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Prince Salasi Agblevor: frage
+Stefan Kämmer: 0,'/0',0x00,false,NULL
+Michael Linkamp: 0 immer false, sonst true
+Prince Salasi Agblevor: ++1 gilt auch als richtig?
+Prince Salasi Agblevor: > stimmt zu <
+Stefan Kämmer: i +=1
+Tom Fratscher: alle Werte die absolute Null = false, alle anderen true
+Michael Linkamp: war das bei char nicht '\0' anstatt '/0' ?
+Prince Salasi Agblevor: was sind die Möglichkeiten
+Stefan Kämmer: richtig @michael
+Stefan Kämmer: > stimmt zu <
+Tanja Treffler: 4
+Tom Fratscher: 4
+Michael Linkamp: L4
+Stefan Kämmer: nur 4
+Heiko Christmann: L4
+Danny Fröhlich: 4
+Tanja Treffler: > stimmt nicht zu <
+Stefan Kämmer: > stimmt nicht zu <
+Michael Linkamp: beides ist nicht gueltig
+Heiko Christmann: nein
+Danny Fröhlich: nein
+Prince Salasi Agblevor: > stimmt nicht zu <
+Stefan Kämmer: .
+Danny Fröhlich: Punkt
+Michael Linkamp: wegen dem . Punkt
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: 1
+Stefan Kämmer: zahl am anfang
+Danny Fröhlich: Zahl
+Michael Linkamp: zahl am anfang geht nicht
+Tom Fratscher: 1 wegen punkt, 2 wegen zahl am anfang
+Prince Salasi Agblevor: 1 am Anfang
+Michael Linkamp: 4*5+3/(2-3)
+Prince Salasi Agblevor: datentyp
+Tom Fratscher: 4*5+3/(2-3)
+Tanja Treffler: +3/2 löschen
+Stefan Kämmer: std:out und 3/2 löschen :)
+Tanja Treffler: dann aus der ersten 3 eine 0 :D
+Stefan Kämmer: std::cout?
+Tom Fratscher: > stimmt zu <
+Danny Fröhlich: ja
+Tom Fratscher: %
+Stefan Kämmer: %
+Michael Linkamp: %
+Danny Fröhlich: %
+Heiko Christmann: %
+Prince Salasi Agblevor: %
+Tanja Treffler: %
+Stefan Kämmer: double = höhrere präzision
+Michael Linkamp: double für höhere Genauigkeit
+Prince Salasi Agblevor: mehr genauigkeit doublö
+Heiko Christmann: Wenn doppelte Genauigkeit (64 Bit) gegenüber float (32 Bit) benötigt wird
+Tom Fratscher: float 4 byte nicht präzise, double 8 byte
+Danny Fröhlich: Kommt auf die Präzision an die gewünscht ist
+Tanja Treffler: > stimmt zu <
+Stefan Kämmer: float für sonstige gleitkommazahlen
+Tanja Treffler: ==
+Stefan Kämmer: ==
+Michael Linkamp: ==
+Tom Fratscher: ==
+Danny Fröhlich: ==
+Prince Salasi Agblevor: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Tom Fratscher: =
+Heiko Christmann: > stimmt zu <
+Michael Linkamp: =
+Stefan Kämmer: =
+Prince Salasi Agblevor: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Danny Fröhlich: =
+-- 09:15
+Prince Salasi Agblevor: 5 min pause
+Heiko Christmann: 5 Minuten
+Danny Fröhlich: > meldet sich <
+Tanja Treffler: 5-10?
+Tom Fratscher: 5 min
+Stefan Kämmer: > meldet sich <
+Stefan Kämmer: "0" ist ein string
+Michael Linkamp: egal
+Michael Linkamp: egal ob 5 min oder 15 pause
+Stefan Kämmer: unterunterfunktion ist 2. ebene?
+Prince Salasi Agblevor: > ist momentan nicht ansprechbar <
+Gisela Neira: 09:23 Uhr
+Stefan Kämmer: verstanden :)
+Stefan Kämmer: > stimmt zu <
+Heiko Christmann: > ist momentan nicht ansprechbar <
+Danny Fröhlich: > ist momentan nicht ansprechbar <
+Stefan Kämmer: > ist momentan nicht ansprechbar <
+Gisela Neira: > ist momentan nicht ansprechbar <
+Michael Linkamp: > ist momentan nicht ansprechbar <
+Danny Fröhlich: > ist wieder ansprechbar <
+Prince Salasi Agblevor: > ist wieder ansprechbar <
+Michael Linkamp: > ist wieder ansprechbar <
+Gisela Neira: > ist wieder ansprechbar <
+Stefan Kämmer: > ist wieder ansprechbar <
+Gisela Neira: Variable
+Heiko Christmann: > ist wieder ansprechbar <
+Danny Fröhlich: > meldet sich <
+Prince Salasi Agblevor: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Michael Linkamp: > meldet sich <
+Heiko Christmann: > meldet sich <
+Gisela Neira: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Gisela Neira: > meldet sich <
+Prince Salasi Agblevor: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Gisela Neira: > ist momentan nicht ansprechbar <
+Gisela Neira: > ist wieder ansprechbar <
+Michael Linkamp: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Heiko Christmann: > ist momentan nicht ansprechbar <
+Gisela Neira: > ist momentan nicht ansprechbar <
+Stefan Kämmer: > ist momentan nicht ansprechbar <
+-- 09:30
+Heiko Christmann: > ist wieder ansprechbar <
+Heiko Christmann: > ist momentan nicht ansprechbar <
+Heiko Christmann: > ist wieder ansprechbar <
+Michael Linkamp: fertig. jetzt auf abgeben klicken?
+Michael Linkamp: > meldet sich <
+Gisela Neira: > ist wieder ansprechbar <
+Gisela Neira: > ist momentan nicht ansprechbar <
+Tanja Treffler: > stimmt zu <
+Stefan Kämmer: > ist wieder ansprechbar <
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: fertig
+Heiko Christmann: > meldet sich <
+Gisela Neira: > ist wieder ansprechbar <
+Gisela Neira: > ist momentan nicht ansprechbar <
+Prince Salasi Agblevor: > stimmt zu <
+Prince Salasi Agblevor: fertig
+Michael Linkamp: fertig
+Heiko Christmann: fertig
+Danny Fröhlich: > stimmt zu <
+Tom Fratscher: fertig
+Danny Fröhlich: fertig
+-- 09:45
+Tanja Treffler: fertig
+Tom Fratscher: fertig, ich organisiere mir ein paar bonbons;)
+Tom Fratscher: > ist momentan nicht ansprechbar <
+Tom Fratscher: > ist wieder ansprechbar <
+Tom Fratscher: fertig
+Stefan Kämmer: > stimmt zu <
+Stefan Kämmer: > stimmt nicht zu <
+Stefan Kämmer: > stimmt zu <
+Stefan Kämmer: > stimmt nicht zu <
+Stefan Kämmer: > stimmt zu <
+Stefan Kämmer: > stimmt nicht zu <
+Stefan Kämmer: > stimmt zu <
+Stefan Kämmer: > stimmt nicht zu <
+Stefan Kämmer: > stimmt zu <
+Stefan Kämmer: > stimmt nicht zu <
+Stefan Kämmer: > stimmt zu <
+Stefan Kämmer: > stimmt nicht zu <
+Stefan Kämmer: > stimmt zu <
+Stefan Kämmer: > stimmt nicht zu <
+Stefan Kämmer: > stimmt zu <
+Gisela Neira: > ist wieder ansprechbar <
+Michael Linkamp: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Danny Fröhlich: > applaudiert <
+Heiko Christmann: > stimmt nicht zu <
+Danny Fröhlich: > stimmt zu <
+Michael Linkamp: jaaaa... ;-)
+Heiko Christmann: fertig
+Tom Fratscher: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Prince Salasi Agblevor: > meldet sich <
+Danny Fröhlich: > meldet sich <
+Stefan Kämmer: wahrscheinlich heute
+Heiko Christmann: heute
+Prince Salasi Agblevor: > meldet sich <
+Tanja Treffler: ich denke auch heute :)
+Tom Fratscher: > meldet sich <
+Prince Salasi Agblevor: > stimmt zu <
+Prince Salasi Agblevor: in der orner debug ist eine exe. datei. die löschen , dann klappt es.
+Tom Fratscher: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Tom Fratscher: > hat verstanden <
+Heiko Christmann: > meldet sich <
+Michael Linkamp: > stimmt zu <
+Michael Linkamp: > meldet sich <
+-- 10:00
+Stefan Kämmer: > stimmt zu <
+Stefan Kämmer: ok :)
+Stefan Kämmer: & statt &&
+Prince Salasi Agblevor: &&
+Michael Linkamp: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Tom Fratscher: > meldet sich <
+-- 10:15
+Prince Salasi Agblevor: > meldet sich <
+Stefan Kämmer: > meldet sich <
+Danny Fröhlich: > meldet sich <
+Michael Linkamp: kompliziert oder?
+Prince Salasi Agblevor: gibt's konstenlose Editor für C++, den Sie mir empfehlen würden.
+-- 10:30
+Danny Fröhlich: Prince in Visual Studiohast du viele möglichkeiten und ist umsonst
+Danny Fröhlich: Visual STudio community ist richtig toll und ist umsonst
+Prince Salasi Agblevor: Danke Danny.
+Heiko Christmann: > meldet sich <
+Stefan Kämmer: funt
+Stefan Kämmer: schick's an alle :)
+Stefan Kämmer: ja, gerne
+Heiko Christmann: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Michael Linkamp: Sehr gerne!
+Prince Salasi Agblevor: > stimmt zu <
+-- 10:45
+Stefan Kämmer: gut zu wissen
+Tom Fratscher: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Danny Fröhlich: > stimmt nicht zu <
+Michael Linkamp: > meldet sich <
+Tom Fratscher: > meldet sich <
+Michael Linkamp: > meldet sich <
+-- 11:00
+Stefan Kämmer: hab die option für die linie gefunden
+Michael Linkamp: > stimmt nicht zu <
+Prince Salasi Agblevor: > stimmt zu <
+Prince Salasi Agblevor: xD
+Prince Salasi Agblevor: > stimmt zu <
+Prince Salasi Agblevor: 3
+Michael Linkamp: > stimmt zu <
+Michael Linkamp: Nein
+Michael Linkamp: Ich bleibe dabei
+Tom Fratscher: > stimmt zu <
+Michael Linkamp: kein Problem
+Heiko Christmann: Option 3
+Prince Salasi Agblevor: 3
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Stefan Kämmer: ich bräuchte vorher 5min pause
+Michael Linkamp: doch doch... ist gut
+Tanja Treffler: oder 10?
+Prince Salasi Agblevor: > ist momentan nicht ansprechbar <
+Prince Salasi Agblevor: > ist wieder ansprechbar <
+Tanja Treffler: > applaudiert <
+Heiko Christmann: > ist momentan nicht ansprechbar <
+Prince Salasi Agblevor: > ist momentan nicht ansprechbar <
+Michael Linkamp: > stimmt zu <
+Gisela Neira: 11:24 Uhr
+Tom Fratscher: > stimmt zu <
+Gisela Neira: > ist momentan nicht ansprechbar <
+Michael Linkamp: > ist momentan nicht ansprechbar <
+Tom Fratscher: > ist momentan nicht ansprechbar <
+Stefan Kämmer: > ist momentan nicht ansprechbar <
+-- 11:15
+Tom Fratscher: > ist wieder ansprechbar <
+Heiko Christmann: > ist wieder ansprechbar <
+Prince Salasi Agblevor: > ist wieder ansprechbar <
+Stefan Kämmer: > ist wieder ansprechbar <
+Michael Linkamp: > ist wieder ansprechbar <
+Gisela Neira: > ist wieder ansprechbar <
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+-- 11:30
+Danny Fröhlich: > meldet sich <
+Danny Fröhlich: > meldet sich <
+Michael Linkamp: im header
+-- 11:45
+Michael Linkamp: > hat eine Frage <
+Michael Linkamp: { } anstatt ( ) ?
+Michael Linkamp: Klassenkörper
+Michael Linkamp: class Name { };
+Michael Linkamp: > hat eine Frage <
+Michael Linkamp: Aber mit { } nicht mit ( )
+Michael Linkamp: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Stefan Kämmer: so grob :)
+Prince Salasi Agblevor: > stimmt zu <
+Heiko Christmann: nicht so richtig
+Tanja Treffler: der Rest gerade nicht mehr ganz
+Tom Fratscher: > applaudiert <
+Tanja Treffler: > stimmt zu <
+Stefan Kämmer: anklicken und F2?
+Stefan Kämmer: geht in window :(
+Tanja Treffler: Ja ist besser :) danke
+Prince Salasi Agblevor: > stimmt zu <
+Danny Fröhlich: Lieber schluss machen
+Stefan Kämmer: schluss?
+Stefan Kämmer: schluss? :)
+Danny Fröhlich: > meldet sich <
+Tom Fratscher: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+-- 12:00
+Tanja Treffler: IBB interne Veranstaltung
+Michael Linkamp: IBB Hannover ist ganztätig geschlossen
+Tanja Treffler: :D
+Tanja Treffler: Fronleichnam... Aber bei uns nicht
+Stefan Kämmer: von zuhause geht's auch
+Tanja Treffler: Codeblock ist aber grais
+Stefan Kämmer: > meldet sich <
+Tanja Treffler: Codeblocks, kannst du dir ja s runterladen
+Prince Salasi Agblevor: > stimmt zu <
+Prince Salasi Agblevor: > stimmt nicht zu <
+Tanja Treffler: > applaudiert <
+Gisela Neira: > applaudiert <
+Prince Salasi Agblevor: > applaudiert <
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: > applaudiert <
+Michael Linkamp: > applaudiert <
+Tom Fratscher: > applaudiert <
+Heiko Christmann: > applaudiert <
+Danny Fröhlich: > applaudiert <
+Michael Linkamp: Schönes Wochenende ebenfalls! Bis Di.
+Stefan Kämmer: bis dienstag :)
+Heiko Christmann: Schönes Wochenende
+Danny Fröhlich: Schönes Wochenende
+-- 12:05 -- Gisela Neira verlässt den Raum
+Danny Fröhlich: > applaudiert <
+-- 12:06 -- Stefan Kämmer verlässt den Raum
+Tom Fratscher: schönes wochenende
+-- 12:06 -- Heiko Christmann verlässt den Raum
+-- 12:06 -- Tanja Treffler verlässt den Raum

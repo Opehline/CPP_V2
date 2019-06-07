@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1559770501 source:c:\users\pc\documents\ibb\c++_kurse\c++_basics-e228\5.0-c++_basics_e228-ue.5\5.2-c++_basics_e228-ue.5.2\projekt3\05.07.03-function.c
+	"05.07.03-header.h"
+
+1559814519 c:\users\pc\documents\ibb\c++_kurse\c++_basics-e228\5.0-c++_basics_e228-ue.5\5.2-c++_basics_e228-ue.5.2\projekt3\05.07.03-header.h
+	<stdio.h>
+
+1559813644 source:c:\users\pc\documents\ibb\c++_kurse\c++_basics-e228\5.0-c++_basics_e228-ue.5\5.2-c++_basics_e228-ue.5.2\projekt3\05.07.03-function2.c
+	"05.07.03-header.h"
+
+1559813527 source:c:\users\pc\documents\ibb\c++_kurse\c++_basics-e228\5.0-c++_basics_e228-ue.5\5.2-c++_basics_e228-ue.5.2\projekt3\05.07.03-main.c
+	"05.07.03-header.h"
+
