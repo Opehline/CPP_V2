@@ -28,14 +28,6 @@ struct Lager meinLager;
 
 /* Anfangsbestand für das Lager*/
 void loadLagerstart(){
-     #if 1
-     // Nagel, Brett, Tisch, Geld
+    // Nagel, Brett, Tisch, Geld
     meinLager = {300, 50, 0, 200};
-    #endif
-    #if 0
-    naegel  = 300;  // Anzahl Preis:  0.05 Geld
-    bretter =  50;  // Anzahl Preis:  1.00 Geld
-    geld    = 200;
-    tische  =   0;  // Anzahl Preis: 62.00 Geld
-    #endif // 0
 };

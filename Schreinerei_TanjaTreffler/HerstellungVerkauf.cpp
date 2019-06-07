@@ -29,8 +29,6 @@
 
         std::cout << "MATERIALNACHKAUF ERFOLGT.\n" << std::endl;
     }
-    //std::cout << "Im Lager sind nun " << bretter << " Bretter, " << naegel
-    //          << "  Naegel und " << geld << " Geld." << std::endl;
  };
 
 
@@ -43,7 +41,7 @@
      int baubar = std::min(tische_n, tische_b);
 
      // Weitere Materialien mit Geld kaufen
-     // -> Lokale, um tatsächlichen Bestand nicht zu ändern!
+     // -> Lokal, um tatsächlichen Bestand nicht zu ändern!
      // Min-baubar schonmal abziehen
      int naegel_test  = meinLager.naegel  - baubar*nagelJeTisch;
      int bretter_test = meinLager.bretter - baubar*brettJeTisch;

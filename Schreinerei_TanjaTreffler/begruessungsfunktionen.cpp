@@ -12,13 +12,6 @@
 Organisierende und kommunizierende FUNKTIONEN
 */
 
-/* globale Variablen (nicht konstant) */
-// Lagerbestand deklarienen -> Von struct übernommen
-/*int bretter = 0;    // Anzahl Preis:  1.00 Geld
-float geld  = 0;    //
-int naegel  = 0;    // Anzahl Preis:  0.05 Geld
-int tische  = 0;    // Anzahl Preis: 62.00 Geld*/
-
 /* Beginne mit dem Betrieb*/
 void startBetrieb(){
     // Testbetrieb mit n Kunden
@@ -61,10 +54,30 @@ void startBetrieb(){
 /* Rückgabe: Anzahl gewünschter Tische */
 int kundenbegruessung(){
     int tische_kundenwunsch = 0;
-    std::cout << "Hallo Kunde. Wie viele Tische willst du kaufen?" << std::endl;
+    std::cout << "Hallo Kunde. Wie viele Tische willst du kaufen?"
+        << std::endl;
+
     std::cin >> tische_kundenwunsch;
-    // Abfrage ob Zahl größer als 0, Eingabe tatsächlich ne Zahl?
+
+    // Test ob Eingabe tatsächlich int
+    if(std::cin.fail()){
+        std::cout << "Das war keine Zahl und geht so nicht." << std::endl;
+        return 0;
+    }
+
     std::cin.ignore(10000,'\n');
+
+    std::cin.clear();
+    //Abfrage ob Zahl größer als 0
+    if(tische_kundenwunsch < 0){
+        std::cout << "Wir geben keine Tische aus und zahlen dafuer. "
+                  << "Die Bestellung wird verworfen. "  << std::endl;
+        tische_kundenwunsch = 0;
+    }
+    // Bestellmenge = 0
+    if(tische_kundenwunsch==0){
+        std::cout << "0 Tische sind keine Bestellung, schade." << std::endl;
+    }
     return tische_kundenwunsch;
 };
 
@@ -96,7 +109,8 @@ int bestellungsverifikation(int tische_kunde){
             return 1;
 
         } else  if(bestellbestaetigung == "Nein"){
-            std::cout << "Schade, dass Sie nicht bestellen. Schoenen Tag noch."
+            std::cout << "Schade, dass Sie nicht bestellen. "
+                      << "Schoenen Tag noch.\n"
             << std::endl; // evtl noch Preisnachlass
         }else {
             std::cout << "Das war unklar, also keine Bestellung. "
@@ -124,14 +138,19 @@ int bestellungsaufnahme(){
     // Bestellung des Kunden annehmen
     int tische_kundenwunsch = kundenbegruessung();//Return: gewünschte Tischzahl
 
-    // Bestätigung und Machbarkeitsprüfung
-    int kaufabschluss = bestellungsverifikation(tische_kundenwunsch);
+    if(tische_kundenwunsch > 0){
+        // Bestätigung und Machbarkeitsprüfung
+        int kaufabschluss = bestellungsverifikation(tische_kundenwunsch);
 
-    if (kaufabschluss == 1){
-        return tische_kundenwunsch;
-    }else if ( kaufabschluss == 2){
-        goto begruessung;
-    } else{
+        if (kaufabschluss == 1){ // Bestellung bestätigt
+            return tische_kundenwunsch;
+        }else if ( kaufabschluss == 2){ // Bestellmenge zu groß
+            goto begruessung;
+        } else{
+            return 0;
+        }
+    }else{ // Null Tische bestellt
+        std::cout << "Es wurde kein Tisch bestellt.\n" << std::endl;
         return 0;
     }
 };
