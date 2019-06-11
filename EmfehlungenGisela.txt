@@ -1,0 +1,26 @@
+SQL -> Datenbankanbindung -> öffnet viele Türen
+Oracle
+SQL Server (Windows, Access)
+
+
+Qt  (für Oberflächen, 100% C++)
+gtk (für Oberflächen, komplett C)
+
+
+andere Programmiersprachen
+- Java -> viel Freelancer
+
+
+C/C++ eher langfristig
+
+
+Xing als Plattform, darüber Arbeit suchen
+
+
+---
+Zum selber lernen: 
+(trotz wiwi Studium)
+Tutorials machen
+
+
+ 

@@ -33,7 +33,7 @@
 
 
 /* Wie viele Tische können mit aktuellen Ressourcen (+ Geld) gefertigt werden?*/
- int baubaretische(){
+ int HerstellungVerkauf::baubaretische(){
 
     // Tische aus Materialien
      int tische_n = meinLager.naegel  / nagelJeTisch; // ohne Nachkommastellen

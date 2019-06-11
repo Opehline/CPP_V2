@@ -60,9 +60,14 @@ int kundenbegruessung(){
     std::cin >> tische_kundenwunsch;
 
     // Test ob Eingabe tatsächlich int
-    if(std::cin.fail()){
+    while(!std::cin){
         std::cout << "Das war keine Zahl und geht so nicht." << std::endl;
-        return 0;
+        std::cout << "Gib eine neue Zahl an Tischen ein: " << std::endl;
+
+        std::cin.clear();
+        std::cin.ignore(10000,'\n');
+
+        std::cin >> tische_kundenwunsch;
     }
 
     std::cin.ignore(10000,'\n');
@@ -87,7 +92,8 @@ int bestellungsverifikation(int tische_kunde){
     bestellungverifikation: //Label für goto-Anweisung bei Verständnisproblemen
 
     //machbar?
-    int tische_machbar = baubaretische();
+    HerstellungVerkauf hrstlgVrkf1;
+    int tische_machbar = hrstlgVrkf1.baubaretische();
 
     // Ja
     if(tische_machbar >= tische_kunde){

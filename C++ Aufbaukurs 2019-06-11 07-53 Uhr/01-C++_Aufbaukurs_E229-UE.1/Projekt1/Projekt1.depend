@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1540285269 source:c:\users\pc\documents\ibb\c++_kurse\c++_aufbaukurs-e229\01-c++_aufbaukurs_e229-ue.1\projekt1\main.cpp
+	<iostream>
+	"Punkt.hpp"
+	"Haus.hpp"
+
+1545131643 c:\users\pc\documents\ibb\c++_kurse\c++_aufbaukurs-e229\01-c++_aufbaukurs_e229-ue.1\projekt1\punkt.hpp
+
+1545131671 c:\users\pc\documents\ibb\c++_kurse\c++_aufbaukurs-e229\01-c++_aufbaukurs_e229-ue.1\projekt1\haus.hpp
+	"Punkt.hpp"
+
+1540284458 source:c:\users\pc\documents\ibb\c++_kurse\c++_aufbaukurs-e229\01-c++_aufbaukurs_e229-ue.1\projekt1\punkt.cpp
+	<iostream>
+	"Punkt.hpp"
+
+1545129468 source:c:\users\pc\documents\ibb\c++_kurse\c++_aufbaukurs-e229\01-c++_aufbaukurs_e229-ue.1\projekt1\haus.cpp
+	"Haus.hpp"
+	<iostream>
+
+1545133070 source:c:\users\ttreffler\desktop\ordnerfuergit\c++ aufbaukurs 2019-06-11 07-53 uhr\01-c++_aufbaukurs_e229-ue.1\projekt1\haus.cpp
+	"Haus.hpp"
+	<iostream>
+
+1560260739 c:\users\ttreffler\desktop\ordnerfuergit\c++ aufbaukurs 2019-06-11 07-53 uhr\01-c++_aufbaukurs_e229-ue.1\projekt1\haus.hpp
+	"Punkt.hpp"
+
+1545135318 c:\users\ttreffler\desktop\ordnerfuergit\c++ aufbaukurs 2019-06-11 07-53 uhr\01-c++_aufbaukurs_e229-ue.1\projekt1\punkt.hpp
+
+1540284460 source:c:\users\ttreffler\desktop\ordnerfuergit\c++ aufbaukurs 2019-06-11 07-53 uhr\01-c++_aufbaukurs_e229-ue.1\projekt1\punkt.cpp
+	<iostream>
+	"Punkt.hpp"
+
+1555400050 source:c:\users\ttreffler\desktop\ordnerfuergit\c++ aufbaukurs 2019-06-11 07-53 uhr\01-c++_aufbaukurs_e229-ue.1\projekt1\main.cpp
+	<iostream>
+	"Punkt.hpp"
+	"Haus.hpp"
+

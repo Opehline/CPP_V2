@@ -1,0 +1,477 @@
+-----------------------------------------------
+Betreten des Gruppenraums "C++ Aufbaukurs"
+11.06.2019 07:53 Uhr
+-----------------------------------------------
+-- 07:53 -- Tanja Treffler betritt den Raum
+Tanja Treffler: > ist momentan nicht ansprechbar <
+-- 08:00
+-- 08:05 -- Danny Fröhlich betritt den Raum Hauptraum
+-- 08:10 -- Prince Salasi Agblevor betritt den Raum Hauptraum
+-- 08:15
+Tanja Treffler: > ist wieder ansprechbar <
+Tanja Treffler: Guten Morgen :)
+Tanja Treffler: > ist momentan nicht ansprechbar <
+-- 08:30
+-- 08:45
+-- 09:00
+-- 09:01 -- Prince Salasi Agblevor verlässt den Raum
+-- 09:10 -- Tom Fratscher betritt den Raum Hauptraum
+Tom Fratscher: Guten Morge
+Tom Fratscher: Guten Morgen:)
+Tom Fratscher: > ist momentan nicht ansprechbar <
+-- 09:15
+-- 09:15 -- Gisela Neira betritt den Raum Hauptraum
+Gisela Neira: Hoffe schönes langes Wochenende!
+Gisela Neira: > ist momentan nicht ansprechbar <
+Gisela Neira: > ist wieder ansprechbar <
+Gisela Neira: > ist momentan nicht ansprechbar <
+-- 09:19 -- Prince Salasi Agblevor betritt den Raum Hauptraum
+Prince Salasi Agblevor: guten Morgen
+-- 09:30
+-- 09:31 -- Michael Linkamp betritt den Raum Hauptraum
+Michael Linkamp: Danke Ja, gleichfalls und guten Morgen!
+Tanja Treffler: > ist wieder ansprechbar <
+Gisela Neira: > ist wieder ansprechbar <
+Danny Fröhlich: Guten Morgen
+Michael Linkamp: Hallo
+Tanja Treffler: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Michael Linkamp: > stimmt nicht zu <
+Michael Linkamp: > stimmt zu <
+Michael Linkamp: > stimmt nicht zu <
+Danny Fröhlich: > stimmt nicht zu <
+Prince Salasi Agblevor: > stimmt nicht zu <
+Tanja Treffler: > stimmt nicht zu <
+-- 09:42 -- Heiko Christmann betritt den Raum Hauptraum
+Heiko Christmann: Guten Morgen
+Tom Fratscher: > ist wieder ansprechbar <
+Prince Salasi Agblevor: wie wird das geschrieben
+-- 09:45
+Tom Fratscher: Stefan fehlt noch
+Gisela Neira: SQL
+Gisela Neira: Oracel
+Michael Linkamp: > hat eine Frage <
+-- 09:47 -- Stefan Kämmer betritt den Raum Hauptraum
+Danny Fröhlich: > meldet sich <
+Stefan Kämmer: morgen :)
+Stefan Kämmer: > applaudiert <
+Michael Linkamp: > meldet sich <
+Gisela Neira: Xing
+Tom Fratscher: Danke für die ANmerlung bei meiner Arbeit
+Danny Fröhlich: > meldet sich <
+Tom Fratscher: Danke für die Anmerlung bei meiner Arbeit
+Tom Fratscher: Danke für die Anmerkung bei meiner Arbeit
+Prince Salasi Agblevor: Was haben Sie studiert?
+Gisela Neira: C/C++ QT
+-- 10:00
+Michael Linkamp: schwarzer Rand links und rechtrs
+Stefan Kämmer: ansonsten normal
+Michael Linkamp: sonst ok
+Stefan Kämmer: raum neu beitreten
+Prince Salasi Agblevor: > meldet sich <
+Tanja Treffler: also ich sehe nur beigen Bildschirm... aber sonst
+Prince Salasi Agblevor: > meldet sich <
+Michael Linkamp: > stimmt zu <
+Tanja Treffler: hier nicht :D
+Tanja Treffler: dann gehe ich auch mal kurz raus
+Danny Fröhlich: Ja jetzt passt der Bildschirm
+Gisela Neira: OK Danny!
+Heiko Christmann: wurde mir auch so gesagt, nur Wiederholung, kein neuer Stoff
+Stefan Kämmer: 20.06.
+Tanja Treffler: 20.6.
+Tanja Treffler: geht das sonst noch danach den Montag(24.?)
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Heiko Christmann: > meldet sich <
+Tanja Treffler: Für wen ist es überhaupt Feiertag?
+Prince Salasi Agblevor: > stimmt zu <
+Stefan Kämmer: kein feiertag
+Tanja Treffler: da steht hier "unterrichtsfrei", aber keinfeiertag
+Danny Fröhlich: IBB Veranstaltungstag
+Stefan Kämmer: wenn's geht:20.6. unterricht
+Gisela Neira: 1
+Stefan Kämmer: 2
+Danny Fröhlich: 2
+Heiko Christmann: > meldet sich <
+Michael Linkamp: 2 wäre natürlich Klasse, sonst 1
+Tanja Treffler: 2, außer es geht bei Prince und Heiko nicht
+Stefan Kämmer: 2, wenn möglich
+Prince Salasi Agblevor: wenn iches schaffe codeblocks richtig zu installieren, dann option 2.Ich gucke zu Hause und gebe morgen dann bescheid.
+-- 10:15
+Prince Salasi Agblevor: > stimmt zu <
+Tom Fratscher: @Prince du musst nur die Große Version herrunterladen
+Stefan Kämmer: ich hab mingw fortran
+Michael Linkamp: > meldet sich <
+Tom Fratscher: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Tom Fratscher: chaotisch:D
+Michael Linkamp: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Stefan Kämmer: > meldet sich <
+Stefan Kämmer: in deinen Ordnern bin ich falsch geschrieben :(
+-- 10:30
+Stefan Kämmer: safety vs security
+Michael Linkamp: Die Datenkapselung
+Danny Fröhlich: Vererbung, Hierarchie
+Michael Linkamp: Auf globale Variablen verzichten
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Danny Fröhlich: Instanz einer Klasse
+Michael Linkamp: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Prince Salasi Agblevor: geht
+-- 10:45
+Tanja Treffler: Geburtstag
+Stefan Kämmer: public?
+Tom Fratscher: public
+Prince Salasi Agblevor: private
+Tanja Treffler: public
+Michael Linkamp: mehr private als public
+Heiko Christmann: protected
+Michael Linkamp: aber ohne public kein zugriff
+Danny Fröhlich: es ist protected da es rot hinterlegt ist
+Michael Linkamp: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Stefan Kämmer: denke schon :)
+Danny Fröhlich: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+-- 11:00
+Michael Linkamp: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Gisela Neira: 11:11 Uhr
+Prince Salasi Agblevor: > ist momentan nicht ansprechbar <
+Stefan Kämmer: > ist momentan nicht ansprechbar <
+Danny Fröhlich: > ist momentan nicht ansprechbar <
+Gisela Neira: > ist momentan nicht ansprechbar <
+Tom Fratscher: > ist momentan nicht ansprechbar <
+Michael Linkamp: > ist momentan nicht ansprechbar <
+Heiko Christmann: > ist momentan nicht ansprechbar <
+Tom Fratscher: > ist wieder ansprechbar <
+Danny Fröhlich: > ist wieder ansprechbar <
+Prince Salasi Agblevor: > ist wieder ansprechbar <
+Heiko Christmann: > ist wieder ansprechbar <
+Michael Linkamp: > ist wieder ansprechbar <
+Stefan Kämmer: > ist wieder ansprechbar <
+Gisela Neira: > ist wieder ansprechbar <
+Prince Salasi Agblevor: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+-- 11:15
+-- 11:16 -- Prince Salasi Agblevor verlässt den Raum
+-- 11:18 -- Prince Salasi Agblevor betritt den Raum Hauptraum
+Tom Fratscher: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+-- 11:30
+Tom Fratscher: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Michael Linkamp: ~
+Prince Salasi Agblevor: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Danny Fröhlich: > stimmt nicht zu <
+Michael Linkamp: ein bisschen
+Tom Fratscher: > stimmt nicht zu <
+Stefan Kämmer: > stimmt nicht zu <
+Danny Fröhlich: > stimmt nicht zu <
+Heiko Christmann: > stimmt nicht zu <
+Michael Linkamp: > hat verstanden <
+Stefan Kämmer: 2min afk
+Stefan Kämmer: > ist momentan nicht ansprechbar <
+Stefan Kämmer: > ist wieder ansprechbar <
+-- 11:45
+Michael Linkamp: Speicher freigeben
+Michael Linkamp: > meldet sich <
+Michael Linkamp: Daten in einer Datei speichern 
+Michael Linkamp: eigentlich nicht
+Stefan Kämmer: freigabe des variablennamen?
+Michael Linkamp: > meldet sich <
+Tanja Treffler: in java genutzt
+Gisela Neira: gut Tania
+Gisela Neira: void
+-- 12:00
+Danny Fröhlich: Können wir die Präsentation haben
+Michael Linkamp: > stimmt zu <
+Prince Salasi Agblevor: > ist momentan nicht ansprechbar <
+Danny Fröhlich: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Prince Salasi Agblevor: > ist wieder ansprechbar <
+Tanja Treffler: > stimmt nicht zu <
+Michael Linkamp: kann auch später sein
+Prince Salasi Agblevor: > ist momentan nicht ansprechbar <
+Danny Fröhlich: > ist momentan nicht ansprechbar <
+Gisela Neira: 12:35 Uhr
+Michael Linkamp: > stimmt zu <
+Heiko Christmann: > ist momentan nicht ansprechbar <
+Gisela Neira: > ist momentan nicht ansprechbar <
+Tanja Treffler: > ist momentan nicht ansprechbar <
+Stefan Kämmer: > ist momentan nicht ansprechbar <
+Michael Linkamp: > ist momentan nicht ansprechbar <
+Tom Fratscher: > ist momentan nicht ansprechbar <
+Danny Fröhlich: > ist wieder ansprechbar <
+-- 12:15
+-- 12:30
+Gisela Neira: > ist wieder ansprechbar <
+Prince Salasi Agblevor: > ist wieder ansprechbar <
+Michael Linkamp: > ist wieder ansprechbar <
+Tanja Treffler: > ist wieder ansprechbar <
+Tom Fratscher: > ist wieder ansprechbar <
+Stefan Kämmer: > ist wieder ansprechbar <
+Michael Linkamp: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Heiko Christmann: > ist wieder ansprechbar <
+Prince Salasi Agblevor: ich  dachte private kann man nicht vererben?
+Prince Salasi Agblevor: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Michael Linkamp: kannst du bitte nochmal die drei folien zeigen
+Prince Salasi Agblevor: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+-- 12:45
+Prince Salasi Agblevor: > stimmt zu <
+Michael Linkamp: > hat verstanden <
+Prince Salasi Agblevor: > applaudiert <
+Stefan Kämmer: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Prince Salasi Agblevor: > applaudiert <
+Prince Salasi Agblevor: > stimmt zu <
+Michael Linkamp: Super Idee
+Stefan Kämmer: ist besser
+Prince Salasi Agblevor: > ist momentan nicht ansprechbar <
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Prince Salasi Agblevor: > ist wieder ansprechbar <
+Michael Linkamp: Ich glaube nicht
+Danny Fröhlich: > stimmt zu <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > stimmt zu <
+-- 13:00
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Stefan Kämmer: > meldet sich <
+Tom Fratscher: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+-- 13:15
+Prince Salasi Agblevor: würede p1._x=3454 funktionieren?
+Danny Fröhlich: > stimmt nicht zu <
+Stefan Kämmer: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Michael Linkamp: > meldet sich <
+Michael Linkamp: > meldet sich <
+Heiko Christmann: Pause?
+Stefan Kämmer: 13:20 war pause
+-- 13:30
+Michael Linkamp: setPause
+Danny Fröhlich: > stimmt zu <
+Gisela Neira: 13:35 Uhr
+Gisela Neira: > ist momentan nicht ansprechbar <
+Danny Fröhlich: getPause
+Heiko Christmann: > ist momentan nicht ansprechbar <
+Michael Linkamp: > ist momentan nicht ansprechbar <
+Danny Fröhlich: > ist momentan nicht ansprechbar <
+Stefan Kämmer: > ist momentan nicht ansprechbar <
+Danny Fröhlich: > ist wieder ansprechbar <
+Gisela Neira: > ist wieder ansprechbar <
+Michael Linkamp: > ist wieder ansprechbar <
+Stefan Kämmer: > ist wieder ansprechbar <
+Michael Linkamp: > hat eine Frage <
+Heiko Christmann: > ist wieder ansprechbar <
+Michael Linkamp: ~Pause() { }
+Tom Fratscher: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Heiko Christmann: > stimmt nicht zu <
+Michael Linkamp: Nein
+Stefan Kämmer: offensichtlich nicht :D
+Stefan Kämmer: x ist privat
+Michael Linkamp: weil private
+Prince Salasi Agblevor: Zugriff von Außen
+Michael Linkamp: > meldet sich <
+Stefan Kämmer: > meldet sich <
+-- 13:45
+Michael Linkamp: > meldet sich <
+Stefan Kämmer: ok
+Stefan Kämmer: > stimmt zu <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Stefan Kämmer: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Stefan Kämmer: 0, wenn richtig initialisiert wurde
+Michael Linkamp: Müll wenn nicht initialisiert
+Prince Salasi Agblevor: > stimmt zu <
+Stefan Kämmer: ja
+Stefan Kämmer: konstruktor
+Prince Salasi Agblevor: public
+Michael Linkamp: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+-- 14:00
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Michael Linkamp: nein
+Heiko Christmann: > stimmt nicht zu <
+Michael Linkamp: es soll aus Vater kommen
+Heiko Christmann: > meldet sich <
+Prince Salasi Agblevor: vererbung
+Michael Linkamp: > meldet sich <
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Michael Linkamp: > meldet sich <
+-- 14:15
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: pause 14:10
+Danny Fröhlich: ist genau so
+Gisela Neira: 14:27 Uhr
+Gisela Neira: > ist momentan nicht ansprechbar <
+Michael Linkamp: > ist momentan nicht ansprechbar <
+Stefan Kämmer: > ist momentan nicht ansprechbar <
+Heiko Christmann: > ist momentan nicht ansprechbar <
+Gisela Neira: > ist wieder ansprechbar <
+Stefan Kämmer: > ist wieder ansprechbar <
+Michael Linkamp: > ist wieder ansprechbar <
+Heiko Christmann: > ist wieder ansprechbar <
+-- 14:30
+Prince Salasi Agblevor: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Michael Linkamp: > stimmt nicht zu <
+Prince Salasi Agblevor: > stimmt nicht zu <
+Tom Fratscher: > stimmt nicht zu <
+Michael Linkamp: der ohne Parameter wird abgespielt
+Stefan Kämmer: nur der zweite
+Tanja Treffler: der 2.
+Danny Fröhlich: ohne Parameter läuft
+Michael Linkamp: nein
+Stefan Kämmer: nicht eindeutig
+Michael Linkamp: zweimal ohne parameter geht nicht
+Stefan Kämmer: #2
+Michael Linkamp: den 1. mit parametern
+Prince Salasi Agblevor: 2.
+Prince Salasi Agblevor: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Danny Fröhlich: > meldet sich <
+Tom Fratscher: ich denke noch drüber nach
+Tom Fratscher: > stimmt zu <
+Danny Fröhlich: > meldet sich <
+Danny Fröhlich: > meldet sich <
+Danny Fröhlich: > meldet sich <
+Michael Linkamp: geht auch nicht
+Michael Linkamp: in der anzahl
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Stefan Kämmer: tom lehnt auf der strg taste :D
+-- 14:45
+Michael Linkamp: es fehlt #include "Punkt.hpp" in "Haus.hpp"
+Michael Linkamp: weil zweimal #include punkt.hpp aufgerufen wurde?
+Danny Fröhlich: es fehlt >
+Tom Fratscher: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Stefan Kämmer: zeile 7 fehlt wa
+-- 15:00
+Tanja Treffler: > stimmt zu <
+Tom Fratscher: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Tanja Treffler: > applaudiert <
+Danny Fröhlich: > stimmt zu <
+Stefan Kämmer: > applaudiert <
+Tom Fratscher: > applaudiert <
+Danny Fröhlich: > applaudiert <
+Stefan Kämmer: 08:00
+Michael Linkamp: > stimmt zu <
+Gisela Neira: > applaudiert <
+Tom Fratscher: > applaudiert <
+Michael Linkamp: > applaudiert <
+Stefan Kämmer: > applaudiert <
+Tanja Treffler: > applaudiert <
+Prince Salasi Agblevor: > ist momentan nicht ansprechbar <
+Stefan Kämmer: ciao
+Prince Salasi Agblevor: > ist wieder ansprechbar <
+Heiko Christmann: Tschüss
+Heiko Christmann: > applaudiert <
+Danny Fröhlich: tschau
+Tom Fratscher: tschüss
+-- 15:01 -- Stefan Kämmer verlässt den Raum
+-- 15:01 -- Gisela Neira verlässt den Raum
+Tanja Treffler: scüss
+Danny Fröhlich: die folien haben wir nicht bekommen
+-- 15:02 -- Prince Salasi Agblevor verlässt den Raum
+-- 15:02 -- Heiko Christmann verlässt den Raum
+-- 15:02 -- Michael Linkamp verlässt den Raum
+-- 15:02 -- Tom Fratscher verlässt den Raum
+Tanja Treffler: waren doch inder zip?
+-- 15:02 -- Danny Fröhlich verlässt den Raum
+-- 15:03 -- Tanja Treffler verlässt den Raum
