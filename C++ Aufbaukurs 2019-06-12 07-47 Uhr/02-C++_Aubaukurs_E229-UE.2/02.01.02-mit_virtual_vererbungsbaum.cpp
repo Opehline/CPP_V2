@@ -5,7 +5,7 @@
 
 #include <iostream>
 
-class Hund
+class Hund // Basisklasse
 {
     public:
 		Hund()

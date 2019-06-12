@@ -1,0 +1,371 @@
+-----------------------------------------------
+Betreten des Gruppenraums "C++ Aufbaukurs"
+12.06.2019 07:47 Uhr
+-----------------------------------------------
+-- 07:47 -- Tanja Treffler betritt den Raum Hauptraum
+Tanja Treffler: Guten Morgen :D
+Michael Linkamp: > ist wieder ansprechbar <
+Michael Linkamp: Dito
+Michael Linkamp: Guten Morgen!
+Michael Linkamp: Guten Morgen ;-)
+Michael Linkamp: > ist momentan nicht ansprechbar <
+Michael Linkamp: > ist wieder ansprechbar <
+Michael Linkamp: Guten Morgen!
+Michael Linkamp: > ist momentan nicht ansprechbar <
+-- 07:54 -- Danny Fröhlich betritt den Raum Hauptraum
+Danny Fröhlich: Guten Morgen :)
+-- 07:57 -- Heiko Christmann betritt den Raum Hauptraum
+Heiko Christmann: Guten Morgen
+Heiko Christmann: > ist momentan nicht ansprechbar <
+-- 08:00
+Heiko Christmann: > ist wieder ansprechbar <
+-- 08:03 -- Stefan Kämmer betritt den Raum Hauptraum
+Stefan Kämmer: morgen :)
+Michael Linkamp: > ist wieder ansprechbar <
+-- 08:05 -- Prince Salasi Agblevor betritt den Raum Hauptraum
+Prince Salasi Agblevor: guten Morgen
+-- 08:15
+Danny Fröhlich: sollte es nicht heute um 8 Uhr losgehen?
+Tanja Treffler: Ja, steht so im Stundenplan
+Danny Fröhlich: Ichsag mal vorn im Büro bescheid, dass Gisela fehlt
+Danny Fröhlich: > ist momentan nicht ansprechbar <
+Stefan Kämmer: bin gespannt ob sie 08:40 einloggt
+-- 08:30
+Heiko Christmann: Ich rechne damit,d ass es 8.50 los geht
+Danny Fröhlich: > ist wieder ansprechbar <
+Danny Fröhlich: Ja gestern hat sie sich schon vertan mit der Zeit
+Stefan Kämmer: is wie in der schule, wenn die 1.stunde ausfällt :D
+Danny Fröhlich: Hab vorn bescheid gegeben
+Tanja Treffler: :D
+-- 08:31 -- Gisela Neira betritt den Raum Hauptraum
+Gisela Neira: Guten Morgen!
+Tanja Treffler: Guten Morgen :)
+Heiko Christmann: Guten Morgen
+Gisela Neira: > ist momentan nicht ansprechbar <
+Danny Fröhlich: Guten Morgen
+Stefan Kämmer: @gisela 8:00 ging's heute los :)
+-- 08:45
+Gisela Neira: > ist wieder ansprechbar <
+Michael Linkamp: Hallo
+Danny Fröhlich: Kein Problem
+Stefan Kämmer: gibt schlimmeres :)
+Michael Linkamp: kein Problem
+Michael Linkamp: > stimmt nicht zu <
+Stefan Kämmer: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Michael Linkamp: vielleicht weil n nicht initialisiert wurde?
+Danny Fröhlich: > meldet sich <
+Tanja Treffler: wäre das nicht get?
+-- 09:00
+Michael Linkamp: > stimmt nicht zu <
+Michael Linkamp: > stimmt nicht zu <
+Michael Linkamp: nein
+Danny Fröhlich: > stimmt nicht zu <
+Prince Salasi Agblevor: > stimmt zu <
+Stefan Kämmer: bin mir unsicher
+Tanja Treffler: nur mit verschiedenen Parametern?
+Prince Salasi Agblevor: > stimmt zu <
+Tanja Treffler: Konstruktor
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+-- 09:15
+Stefan Kämmer: > stimmt zu <
+Michael Linkamp: > hat verstanden <
+Tanja Treffler: > stimmt zu <
+Danny Fröhlich: > stimmt nicht zu <
+Heiko Christmann: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+-- 09:30
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: so in etwa
+Tanja Treffler: kurz Pause?
+Danny Fröhlich: > meldet sich <
+Gisela Neira: 09:40 Uhr
+Prince Salasi Agblevor: > ist momentan nicht ansprechbar <
+Stefan Kämmer: > ist momentan nicht ansprechbar <
+Heiko Christmann: > ist momentan nicht ansprechbar <
+Prince Salasi Agblevor: > ist wieder ansprechbar <
+Stefan Kämmer: > ist wieder ansprechbar <
+Danny Fröhlich: > ist momentan nicht ansprechbar <
+Heiko Christmann: > ist wieder ansprechbar <
+Danny Fröhlich: > ist wieder ansprechbar <
+-- 09:43 -- Stefan Kämmer verlässt den Raum
+Prince Salasi Agblevor: > meldet sich <
+-- 09:45
+Danny Fröhlich: > meldet sich <
+-- 09:47 -- Stefan Kämmer betritt den Raum Hauptraum
+Tanja Treffler: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+-- 09:52 -- Michael Linkamp verlässt den Raum
+-- 09:52 -- Michael Linkamp betritt den Raum Hauptraum
+Stefan Kämmer: funktion der elternklasse
+Michael Linkamp: Das ist von der Klasse Hund, oder?
+-- 10:00
+Danny Fröhlich: Kindklasse
+Danny Fröhlich: Ich verstehe es aber immer noch nicht
+Stefan Kämmer: > meldet sich <
+Danny Fröhlich: > stimmt zu <
+Stefan Kämmer: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+-- 10:15
+Danny Fröhlich: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Prince Salasi Agblevor: joa etwa
+Heiko Christmann: > stimmt nicht zu <
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+-- 10:30
+Heiko Christmann: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Stefan Kämmer: pause
+Tanja Treffler: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Gisela Neira: 10:36 Uhr
+Stefan Kämmer: > ist momentan nicht ansprechbar <
+Michael Linkamp: > ist momentan nicht ansprechbar <
+Gisela Neira: > ist momentan nicht ansprechbar <
+Heiko Christmann: > ist momentan nicht ansprechbar <
+Tanja Treffler: > ist momentan nicht ansprechbar <
+Gisela Neira: > ist wieder ansprechbar <
+Gisela Neira: Vielleicht wenige Minuten später. Rufe an Anbieter an. (10:36 Uhr)
+Gisela Neira: > ist momentan nicht ansprechbar <
+Michael Linkamp: > ist wieder ansprechbar <
+Michael Linkamp: > stimmt zu <
+Michael Linkamp: > ist momentan nicht ansprechbar <
+Michael Linkamp: > ist wieder ansprechbar <
+Michael Linkamp: > ist momentan nicht ansprechbar <
+Tanja Treffler: > ist wieder ansprechbar <
+Gisela Neira: > ist wieder ansprechbar <
+Heiko Christmann: > ist wieder ansprechbar <
+Michael Linkamp: > ist wieder ansprechbar <
+Stefan Kämmer: > ist wieder ansprechbar <
+Michael Linkamp: > stimmt zu <
+Michael Linkamp: > meldet sich <
+Michael Linkamp: ok...
+Michael Linkamp: gerne
+Danny Fröhlich: > ist momentan nicht ansprechbar <
+Danny Fröhlich: > ist wieder ansprechbar <
+Michael Linkamp: > hat verstanden <
+Stefan Kämmer: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Danny Fröhlich: Ich hab einen Anruf vom Amt bekommen
+-- 10:45
+Michael Linkamp: nein
+Stefan Kämmer: > stimmt nicht zu <
+Heiko Christmann: > stimmt nicht zu <
+Michael Linkamp: der getter ist nichtimplementiert
+Michael Linkamp: also fehler, oder?
+Tanja Treffler: > stimmt zu <
+Danny Fröhlich: Keine Ahnung
+Stefan Kämmer: > stimmt zu <
+Michael Linkamp: geldautomaten erbt von automaten den getter
+Michael Linkamp: aber der getter ist nicht implementiert
+Michael Linkamp: > hat verstanden <
+-- 11:00
+Heiko Christmann: > meldet sich <
+Stefan Kämmer: normal
+Michael Linkamp: fliessend
+Heiko Christmann: fliessend
+Stefan Kämmer: heiko abgehackt
+Heiko Christmann: > hat verstanden <
+Stefan Kämmer: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Michael Linkamp: ja. setter und getter wird doch vererbt
+Heiko Christmann: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Prince Salasi Agblevor: Pause xD
+-- 11:15
+Michael Linkamp: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Gisela Neira: 11:21 Uhr
+Danny Fröhlich: > ist momentan nicht ansprechbar <
+Gisela Neira: 11:21 Uhr
+Gisela Neira: > ist momentan nicht ansprechbar <
+Michael Linkamp: > ist momentan nicht ansprechbar <
+Stefan Kämmer: > ist momentan nicht ansprechbar <
+Tanja Treffler: > ist momentan nicht ansprechbar <
+Heiko Christmann: > ist momentan nicht ansprechbar <
+Danny Fröhlich: > ist wieder ansprechbar <
+Gisela Neira: > ist wieder ansprechbar <
+Stefan Kämmer: > ist wieder ansprechbar <
+Michael Linkamp: > ist wieder ansprechbar <
+Gisela Neira: 12:35 Uhr
+Gisela Neira: Wir haben eigentlich die große Pause...!
+Heiko Christmann: > ist wieder ansprechbar <
+Stefan Kämmer: ich glaube tanja
+Michael Linkamp: Also bist 12:35?
+Prince Salasi Agblevor: > stimmt zu <
+Michael Linkamp: Ok
+Michael Linkamp: Danke
+Gisela Neira: 12:35 Uhr
+Tanja Treffler: > ist wieder ansprechbar <
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Stefan Kämmer: wäre besser
+Michael Linkamp: wäre super
+Danny Fröhlich: > stimmt zu <
+Tanja Treffler: für mich ja :D
+Prince Salasi Agblevor: > stimmt zu <
+Michael Linkamp: > stimmt nicht zu <
+Prince Salasi Agblevor: double
+Danny Fröhlich: das gleiche
+-- 11:30
+Stefan Kämmer: float?
+Prince Salasi Agblevor: float
+Tanja Treffler: float, double oder error
+Prince Salasi Agblevor: nein
+Stefan Kämmer: kein problem
+Michael Linkamp: da nicht unbedingt, weil es ja eindeutig ist, oder?
+Heiko Christmann: nein
+Michael Linkamp: standardmäßig signed int?
+Stefan Kämmer: sind unterschiedliche datentypen
+Stefan Kämmer: > meldet sich <
+Danny Fröhlich: ja es brennt
+Michael Linkamp: noch gehts gut ;-)
+Stefan Kämmer: geht so :)
+Prince Salasi Agblevor: > stimmt nicht zu <
+Danny Fröhlich: > stimmt nicht zu <
+Heiko Christmann: na ja
+Michael Linkamp: dann später vielleicht
+Michael Linkamp: > stimmt zu <
+Danny Fröhlich: > stimmt nicht zu <
+Michael Linkamp: > stimmt nicht zu <
+Stefan Kämmer: > stimmt zu <
+Stefan Kämmer: matlab
+Tanja Treffler: gesehen. kam immer von allein^^
+Prince Salasi Agblevor: > stimmt nicht zu <
+Prince Salasi Agblevor: > stimmt nicht zu <
+Danny Fröhlich: > stimmt nicht zu <
+Heiko Christmann: viel
+Prince Salasi Agblevor: > stimmt nicht zu <
+Michael Linkamp: gut aber umfangreich in der praxis vermutlich
+Danny Fröhlich: undurchsichtig
+Stefan Kämmer: eher unübersichtlich als schwer
+Tanja Treffler: komplex
+Prince Salasi Agblevor: genau unübersichtlich
+Stefan Kämmer: > meldet sich <
+-- 11:45
+Stefan Kämmer: out of bounds
+Michael Linkamp: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+-- 11:59 -- Prince Salasi Agblevor verlässt den Raum
+-- 12:00
+-- 12:00 -- Prince Salasi Agblevor betritt den Raum Hauptraum
+Prince Salasi Agblevor: Datei bitte nochmal schicken.
+Stefan Kämmer: das 2.mal beim datei schicken
+Danny Fröhlich: er wurde beim throw rausgeschmissen :)
+Michael Linkamp: eine klasse
+Michael Linkamp: ein objekt
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Danny Fröhlich: char e
+Stefan Kämmer: im else bereich
+Prince Salasi Agblevor: e.what
+-- 12:15
+Danny Fröhlich: > hat verstanden <
+Danny Fröhlich: > hat verstanden <
+Danny Fröhlich: zeile 37
+Michael Linkamp: default
+Tanja Treffler: ...
+Stefan Kämmer: ...
+Tanja Treffler: ohne attribute
+Danny Fröhlich: keine Objekte
+Michael Linkamp: keine Variablen
+Michael Linkamp: objekt benutzerHeinz
+Prince Salasi Agblevor: objekt
+Prince Salasi Agblevor: getline
+Tanja Treffler: getchar
+Danny Fröhlich: du bist nicht zu hören
+Danny Fröhlich: > stimmt zu <
+Stefan Kämmer: besser
+Prince Salasi Agblevor: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Heiko Christmann: besser
+Michael Linkamp: > stimmt zu <
+Michael Linkamp: > meldet sich <
+Stefan Kämmer: Matlab's try/catch ist ganz anders
+Michael Linkamp: > stimmt nicht zu <
+-- 12:30
+Stefan Kämmer: 1 oder 2 LEKs?
+Danny Fröhlich: > stimmt zu <
+Danny Fröhlich: Eine LEK wäre mir lieber
+Stefan Kämmer: 1 LEK reicht
+Prince Salasi Agblevor: 1
+Michael Linkamp: dann lieber eine
+Tanja Treffler: bei der Werbung - eine :D
+Heiko Christmann: 1
+Gisela Neira: > applaudiert <
+Heiko Christmann: > applaudiert <
+Tanja Treffler: > applaudiert <
+Danny Fröhlich: > meldet sich <
+Stefan Kämmer: > meldet sich <
+Michael Linkamp: tschüss bis morgen
+Michael Linkamp: > applaudiert <
+Danny Fröhlich: > applaudiert <
+Prince Salasi Agblevor: muss neu einfügen
+Prince Salasi Agblevor: > stimmt zu <
+Stefan Kämmer: ö kann probleme machen
+Tanja Treffler: da stand doch was von class im Titel?
+Stefan Kämmer: tanja hat recht
+-- 12:45
+Prince Salasi Agblevor: > stimmt nicht zu <
+Heiko Christmann: > stimmt nicht zu <
+Michael Linkamp: > stimmt zu <
+Tanja Treffler: > applaudiert <
+Gisela Neira: > applaudiert <
+Michael Linkamp: > applaudiert <
+Stefan Kämmer: > applaudiert <
+Heiko Christmann: Tschüss
+Tanja Treffler: bis morgen :)
+Prince Salasi Agblevor: > ist momentan nicht ansprechbar <
+-- 12:48 -- Gisela Neira verlässt den Raum
+-- 12:48 -- Stefan Kämmer verlässt den Raum
+-- 12:48 -- Heiko Christmann verlässt den Raum
+-- 12:48 -- Michael Linkamp verlässt den Raum
+-- 12:48 -- Tanja Treffler verlässt den Raum

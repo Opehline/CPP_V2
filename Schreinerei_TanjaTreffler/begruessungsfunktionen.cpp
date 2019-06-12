@@ -28,18 +28,20 @@ void startBetrieb(){
         // Kunden begrüßen, Bestellung aufnehmen
         int tische_kundenwunsch = bestellungsaufnahme();
 
+        HerstellungVerkauf verkauf_kunde(tische_kundenwunsch);
+
         if (tische_kundenwunsch > 0){
             // Eine Sekunde Pause: "Bauzeit"
             std::this_thread::sleep_for (std::chrono::seconds(1));
 
             // Alles da -> dann bau
-            tischbau(tische_kundenwunsch);
+            verkauf_kunde.tischbau(tische_kundenwunsch);
 
             // Eine Sekunde Pause: "Lieferung"
             std::this_thread::sleep_for (std::chrono::seconds(1));
 
             // Verkauf
-            verkauf(tische_kundenwunsch);
+            verkauf_kunde.verkauf(tische_kundenwunsch);
 
             auftragsbuch[i] = tische_kundenwunsch;
         }else{
@@ -92,7 +94,7 @@ int bestellungsverifikation(int tische_kunde){
     bestellungverifikation: //Label für goto-Anweisung bei Verständnisproblemen
 
     //machbar?
-    HerstellungVerkauf hrstlgVrkf1;
+    HerstellungVerkauf hrstlgVrkf1(tische_kunde);
     int tische_machbar = hrstlgVrkf1.baubaretische();
 
     // Ja
@@ -110,7 +112,7 @@ int bestellungsverifikation(int tische_kunde){
             std::cout << "Vielen Dank fuer die Bestellung. \n" << std::endl;
 
             // Lager ausreichend gefüllt? Ggf. nachkaufen.
-            materialnachkauf(tische_kunde);
+            hrstlgVrkf1.materialnachkauf(tische_kunde);
 
             return 1;
 

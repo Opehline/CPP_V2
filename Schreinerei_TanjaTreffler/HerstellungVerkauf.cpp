@@ -5,9 +5,18 @@
 #include "Lagerinitialisierung.hpp"
 #include "HerstellungVerkauf.hpp"
 
+/* Konstruktor */
+HerstellungVerkauf::HerstellungVerkauf(int tische_kunde){
+    this->anzahltische = tische_kunde;
+}
+
+/* Get-Anzahl Tische */
+HerstellungVerkauf::getTische(){
+    return anzahltische;
+}
 
 /* Nachkauf von Brettern und Nägeln */
- void materialnachkauf(int tische_kunde){
+ void HerstellungVerkauf::materialnachkauf(int tische_kunde){
     // Prüfung, ob machbar bereits in anderer Funktion
     // Lager ausreichend gefüllt? Wenn nicht genug da -> nachkaufen.
 
@@ -72,7 +81,7 @@
  }
 
 /* Setzt aus Brettern und Nägeln Tische zusammen */
- void tischbau(int tische_bau){
+ void HerstellungVerkauf::tischbau(int tische_bau){
     // Lagerkorrektur nach Bestellung
     // Ein Tisch verbraucht 18 Bretter und 27 Nägel
     meinLager.bretter -= tische_bau* brettJeTisch;
@@ -82,7 +91,7 @@
  };
 
 /* Verkauf, Warenausgabe */
-void verkauf(int tische_kunde){
+void HerstellungVerkauf::verkauf(int tische_kunde){
     meinLager.geld    += tische_kunde * preise["tisch"];
     meinLager.tische  -= tische_kunde;
     std::cout << "Dem Kunden wurden die Waren zugestellt." << std::endl;

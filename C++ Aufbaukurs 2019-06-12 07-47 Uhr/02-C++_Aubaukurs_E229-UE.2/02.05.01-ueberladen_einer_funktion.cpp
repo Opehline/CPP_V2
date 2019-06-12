@@ -79,17 +79,19 @@ int main()
     int i_b=0;
 
 	// * Ein- und Auskommentieren
-	std::cout << fufi.Bellen(2.54857963254) << std::endl;
+	std::cout << fufi.Bellen(2.54857963254) << std::endl; // -> ruft Fkt mit double auf
 	std::cout << fufi.Bellen(1.589) << std::endl; // * Was passiert hier?
+	// -> wird auch double-Variante. Kommazahl ist immer erstmal double
+	// für floatZahl: fufi.Bellen(1.589f) => float
 
 	// * Ein- und Auskommentieren
     fufi.Bellen('#');
-	fufi.Bellen(128.87, 9);
+	fufi.Bellen(128.87, 9); // -> geht so, da keine double-Alternative implementiert
 	fufi.Bellen(5, 328.87);
 
 	// * Ein- und Auskommentieren
 	//fufi.Bellen(-128);
-	//fufi.Bellen(128); // Was passiert hier
+	//fufi.Bellen(128); // Was passiert hier // wird immer als signed angenommen
 	fufi.Bellen(ui_a);
 	fufi.Bellen(i_b);
 	std::cout << fufi.Bellen("Das ist ja supper!") << std::endl;
