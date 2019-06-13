@@ -6,25 +6,27 @@
 
 class HerstellungVerkauf{
 
-// Konstruktor
+// Konstruktor, Destruktor
 public:
     HerstellungVerkauf(int tische);
-// Get-Tische
+    virtual ~HerstellungVerkauf();
+// Get-Tische und set-Tische
     int getTische();
+    void setTische(int tische);
 
 // Attribute
 private:
-    int anzahltische;
+    int anzahltische; // vom Kunden bestellte Tische
 
 
 // Methoden
 public:
     // Lager aufstocken, um Kundenwunsch zu erfüllen
-    void materialnachkauf(int tisch);
+    void materialnachkauf();
     // Wie viele Tische können derzeit maximal hergestellt werden?
     int baubaretische();
-    void tischbau(int tisch);         // Macht aus Material Tische
-    void verkauf(int tisch);          // Verkauf
+    void tischbau();         // Macht aus Material Tische
+    void verkauf();          // Verkauf
 
 };
 

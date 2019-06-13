@@ -8,26 +8,50 @@
 
 #define Testkunden 5 // Wie viele Kunden werden bedient?
 
-/*
-Organisierende und kommunizierende FUNKTIONEN
+
+/* Konstruktor */
+Begruessungsfunktionen::Begruessungsfunktionen(){}
+
+/*Begruessungsfunktionen::Begruessungsfunktionen(Lagern _lager){
+    lager = _lager;
+}
+
+// get set
+Lagern Begruessungsfunktionen::getLager(){
+    return lager;
+};
+void Begruessungsfunktionen::setLager(Lagern _lager){
+    lager = _lager;
+};
 */
 
+/* Organisierende und kommunizierende FUNKTIONEN */
+
 /* Beginne mit dem Betrieb*/
-void startBetrieb(){
+void Begruessungsfunktionen::startBetrieb(){
     // Testbetrieb mit n Kunden
     int n = Testkunden;
     int auftragsbuch[n]={};
 
+    // Lager-Randbedingungen = Ein Lager erzeugen
+    Lager lager1;
+    //this.setLager(lager1);
+
     // Lagerbestand initialisieren, Preise festlegen
     loadLagerstart();
+
+    // Objekt von diesem Datentyp - Besser später mit this?
+    //Begruessungsfunktionen begruessungsobjekt();
 
     // Mehrere Kunden dürfen Bestellen
     for(int i = 0; i<Testkunden; i++){
         std::cout << "Kunde " << i+1 << std::endl;
 
         // Kunden begrüßen, Bestellung aufnehmen
+        // int tische_kundenwunsch = begruessungsobjekt();
         int tische_kundenwunsch = bestellungsaufnahme();
 
+        // Objekt von HerstellungVerkauf erzeugen, damit Funktionsaufruf machbar
         HerstellungVerkauf verkauf_kunde(tische_kundenwunsch);
 
         if (tische_kundenwunsch > 0){
@@ -35,13 +59,13 @@ void startBetrieb(){
             std::this_thread::sleep_for (std::chrono::seconds(1));
 
             // Alles da -> dann bau
-            verkauf_kunde.tischbau(tische_kundenwunsch);
+            verkauf_kunde.tischbau();
 
             // Eine Sekunde Pause: "Lieferung"
             std::this_thread::sleep_for (std::chrono::seconds(1));
 
             // Verkauf
-            verkauf_kunde.verkauf(tische_kundenwunsch);
+            verkauf_kunde.verkauf();
 
             auftragsbuch[i] = tische_kundenwunsch;
         }else{
@@ -54,7 +78,7 @@ void startBetrieb(){
 };
 
 /* Rückgabe: Anzahl gewünschter Tische */
-int kundenbegruessung(){
+int Begruessungsfunktionen::kundenbegruessung(){
     int tische_kundenwunsch = 0;
     std::cout << "Hallo Kunde. Wie viele Tische willst du kaufen?"
         << std::endl;
@@ -89,7 +113,7 @@ int kundenbegruessung(){
 };
 
 /* Bestellüberprüfung */
-int bestellungsverifikation(int tische_kunde){
+int Begruessungsfunktionen::bestellungsverifikation(int tische_kunde){
 
     bestellungverifikation: //Label für goto-Anweisung bei Verständnisproblemen
 
@@ -112,7 +136,7 @@ int bestellungsverifikation(int tische_kunde){
             std::cout << "Vielen Dank fuer die Bestellung. \n" << std::endl;
 
             // Lager ausreichend gefüllt? Ggf. nachkaufen.
-            hrstlgVrkf1.materialnachkauf(tische_kunde);
+            hrstlgVrkf1.materialnachkauf();
 
             return 1;
 
@@ -140,7 +164,7 @@ int bestellungsverifikation(int tische_kunde){
 };
 
 /* Zusammenfassung der Besllungsaufnahme */
-int bestellungsaufnahme(){
+int Begruessungsfunktionen::bestellungsaufnahme(){
 
     begruessung:
     // Bestellung des Kunden annehmen
@@ -165,9 +189,9 @@ int bestellungsaufnahme(){
 
 
 /* Ausgabe Auftragsbuch */
-void bilanzausgabe(int* auftraege){
+void Begruessungsfunktionen::bilanzausgabe(int* auftraege){
     for(int i = 0; i<Testkunden; i++){
-        std::cout << "Kunde " << i << " hat " << *(auftraege+i)
+        std::cout << "Kunde " << i+1 << " hat " << *(auftraege+i)
                   << " Tische gekauft." << std::endl;
     }
 }

@@ -7,11 +7,25 @@
 #include <iterator>
 #include <string>
 
-/* globale Variablen*/
-extern int NAGELKAUFEINHEIT;
-extern int BRETTKAUFEINHEIT;
-extern int nagelJeTisch;
-extern int brettJeTisch;
+class Lagern{
+
+// Konstruktoren
+public:
+    Lagern();
+    Lagern(int NAGELKAUFEINHEIT, int BRETTKAUFEINHEIT, int nagelJeTisch,
+           int brettJeTisch);
+
+// Attribute
+public: /* globale Variablen*/ // besser priavte, weil nicht änderbar!
+    // erstmal public, bis wieder fehlerfrei compilierbar
+    int NAGELKAUFEINHEIT;
+    int BRETTKAUFEINHEIT;
+    int nagelJeTisch;
+    int brettJeTisch;
+
+
+};
+
 
 // Lagerbestand deklarienen
 struct Lager{

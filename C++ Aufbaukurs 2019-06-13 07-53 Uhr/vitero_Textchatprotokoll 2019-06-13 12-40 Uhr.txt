@@ -1,0 +1,382 @@
+-----------------------------------------------
+Betreten des Gruppenraums "C++ Aufbaukurs"
+13.06.2019 07:53 Uhr
+-----------------------------------------------
+-- 07:53 -- Tanja Treffler betritt den Raum Hauptraum
+Michael Linkamp: Schönen Guten Morgen auch!
+Michael Linkamp: > ist momentan nicht ansprechbar <
+Tanja Treffler: Guten Morgen :)
+Gisela Neira: > ist wieder ansprechbar <
+-- 07:57 -- Heiko Christmann betritt den Raum Hauptraum
+Heiko Christmann: Guten Morgen
+Michael Linkamp: > ist wieder ansprechbar <
+-- 08:00
+Michael Linkamp: Hallo
+Heiko Christmann: > stimmt zu <
+Michael Linkamp: > stimmt nicht zu <
+Danny Fröhlich: > meldet sich <
+Heiko Christmann: > meldet sich <
+-- 08:05 -- Prince Salasi Agblevor betritt den Raum Hauptraum
+Prince Salasi Agblevor: guten Morgen
+-- 08:15
+Prince Salasi Agblevor: > meldet sich <
+Michael Linkamp: > stimmt zu <
+Michael Linkamp: Okay. War etwas spät von mir
+-- 08:22 -- Stefan Kämmer betritt den Raum Hauptraum
+Stefan Kämmer: morgen :)
+-- 08:30
+Stefan Kämmer: deklaration zu viel
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Tanja Treffler: warum steht da 2x vorname = ..?
+Tanja Treffler: 42/43
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+-- 08:45
+Stefan Kämmer: > meldet sich <
+Stefan Kämmer: > meldet sich <
+-- 09:00
+Michael Linkamp: > meldet sich <
+-- 09:15
+Danny Fröhlich: Kurze Pause
+Danny Fröhlich: 2 reichen
+Michael Linkamp: egal
+Tanja Treffler: 7? :D
+Heiko Christmann: > stimmt zu <
+Stefan Kämmer: 5
+Prince Salasi Agblevor: 5
+Danny Fröhlich: 5
+Danny Fröhlich: > ist momentan nicht ansprechbar <
+Heiko Christmann: > ist momentan nicht ansprechbar <
+Stefan Kämmer: > ist momentan nicht ansprechbar <
+Gisela Neira: 09:32 Uhr
+Gisela Neira: > ist momentan nicht ansprechbar <
+-- 09:30
+Danny Fröhlich: > ist wieder ansprechbar <
+Gisela Neira: > ist wieder ansprechbar <
+Michael Linkamp: > ist momentan nicht ansprechbar <
+Michael Linkamp: > ist wieder ansprechbar <
+Heiko Christmann: > ist wieder ansprechbar <
+Stefan Kämmer: > ist wieder ansprechbar <
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Michael Linkamp: > meldet sich <
+Michael Linkamp: Also brauchen wir sowas wie goto
+Michael Linkamp: nein
+Stefan Kämmer: in wertEingeben()
+Michael Linkamp: in wert eingeben?
+Prince Salasi Agblevor: steht bestimmt in werteingaben
+Danny Fröhlich: was ist mit wertEingabe
+Danny Fröhlich: warum?
+Danny Fröhlich: achso
+Danny Fröhlich: > hat verstanden <
+-- 09:45
+Danny Fröhlich: nein
+Michael Linkamp: Unübersichtlichkeit
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > stimmt zu <
+Stefan Kämmer: würde ich auch sagen
+Danny Fröhlich: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Heiko Christmann: noch unsicher
+Tanja Treffler: ohne try nirgends?
+Stefan Kämmer: gar nicht
+Michael Linkamp: zu Zeile 68, oder?
+Danny Fröhlich: was steht in der main?
+-- 10:00
+Michael Linkamp: es gibt dazu kein try oder?
+Michael Linkamp: nein
+Michael Linkamp: kein try
+Michael Linkamp: > hat verstanden <
+Danny Fröhlich: > stimmt zu <
+Danny Fröhlich: > hat verstanden <
+Michael Linkamp: > hat verstanden <
+Heiko Christmann: > stimmt zu <
+Stefan Kämmer: > meldet sich <
+Prince Salasi Agblevor: was bring mir dann dieses try in der main?Wann wird das gebraucht?
+Stefan Kämmer: > meldet sich <
+Stefan Kämmer: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Heiko Christmann: > stimmt nicht zu <
+Tanja Treffler: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > hat verstanden <
+Prince Salasi Agblevor: > hat verstanden <
+Prince Salasi Agblevor: > hat verstanden <
+Prince Salasi Agblevor: > hat verstanden <
+Prince Salasi Agblevor: > hat verstanden <
+Prince Salasi Agblevor: > hat verstanden <
+Prince Salasi Agblevor: > hat verstanden <
+Prince Salasi Agblevor: > hat verstanden <
+Prince Salasi Agblevor: > hat verstanden <
+Prince Salasi Agblevor: > hat verstanden <
+Prince Salasi Agblevor: > hat verstanden <
+Prince Salasi Agblevor: > hat verstanden <
+Prince Salasi Agblevor: > hat verstanden <
+Prince Salasi Agblevor: > hat verstanden <
+Prince Salasi Agblevor: > hat verstanden <
+Prince Salasi Agblevor: > hat verstanden <
+Prince Salasi Agblevor: > hat verstanden <
+Prince Salasi Agblevor: > hat verstanden <
+Prince Salasi Agblevor: > hat verstanden <
+Prince Salasi Agblevor: > hat verstanden <
+Prince Salasi Agblevor: > hat verstanden <
+Prince Salasi Agblevor: > hat verstanden <
+Prince Salasi Agblevor: > hat verstanden <
+Prince Salasi Agblevor: > hat verstanden <
+Prince Salasi Agblevor: > hat verstanden <
+Prince Salasi Agblevor: > hat verstanden <
+Prince Salasi Agblevor: > hat verstanden <
+Prince Salasi Agblevor: > hat verstanden <
+Prince Salasi Agblevor: > hat verstanden <
+Prince Salasi Agblevor: > hat verstanden <
+Prince Salasi Agblevor: ohne variablen
+Heiko Christmann: ohne eigene Variablen
+-- 10:15
+Michael Linkamp: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Danny Fröhlich: nein
+Michael Linkamp: Uhh... zu voll
+Prince Salasi Agblevor: nicht leer :D
+Danny Fröhlich: mainly voll
+Michael Linkamp: ja
+Heiko Christmann: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Danny Fröhlich: ja
+Stefan Kämmer: was macht cin.fail() nochmal?
+Prince Salasi Agblevor: > meldet sich <
+Stefan Kämmer: > stimmt zu <
+Prince Salasi Agblevor: > meldet sich <
+Tanja Treffler: > stimmt zu <
+Michael Linkamp: sieht gut aus
+Danny Fröhlich: > stimmt zu <
+Michael Linkamp: > meldet sich <
+-- 10:30
+Tanja Treffler: Konstruktor
+Prince Salasi Agblevor: knstruktor
+Michael Linkamp: > meldet sich <
+Stefan Kämmer: > meldet sich <
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Stefan Kämmer: pause?
+Tanja Treffler: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Danny Fröhlich: > ist momentan nicht ansprechbar <
+Tanja Treffler: > ist momentan nicht ansprechbar <
+Gisela Neira: 10:51 Uhr
+Stefan Kämmer: > ist momentan nicht ansprechbar <
+Gisela Neira: > ist momentan nicht ansprechbar <
+Heiko Christmann: > ist momentan nicht ansprechbar <
+Michael Linkamp: > ist momentan nicht ansprechbar <
+-- 10:45
+Danny Fröhlich: > ist wieder ansprechbar <
+Gisela Neira: > ist wieder ansprechbar <
+Michael Linkamp: > ist wieder ansprechbar <
+Heiko Christmann: > ist wieder ansprechbar <
+Stefan Kämmer: > ist wieder ansprechbar <
+Tanja Treffler: > ist wieder ansprechbar <
+Michael Linkamp: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Michael Linkamp: gerne
+Danny Fröhlich: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: > meldet sich <
+Prince Salasi Agblevor: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Heiko Christmann: > meldet sich <
+Prince Salasi Agblevor: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Stefan Kämmer: na gut
+Stefan Kämmer: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+-- 11:00
+Stefan Kämmer: 1 try, 1 catch
+Michael Linkamp: gleicher Parametertyp
+Michael Linkamp: gleiche Parametersignatur
+Stefan Kämmer: 1,2,3 sind alles int
+Michael Linkamp: > stimmt nicht zu <
+Michael Linkamp: gar nix
+Stefan Kämmer: > stimmt nicht zu <
+Prince Salasi Agblevor: > meldet sich <
+Heiko Christmann: > stimmt nicht zu <
+-- 11:15
+Michael Linkamp: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Michael Linkamp: eigentlich nicht
+Prince Salasi Agblevor: > stimmt zu <
+Tanja Treffler: aber freundlich :D
+Michael Linkamp: > stimmt nicht zu <
+Stefan Kämmer: unübersichtlich :D
+Heiko Christmann: noch etwas verwirrend
+Danny Fröhlich: es ist irgendwie immer unübersichtlich
+Tanja Treffler: joa so mittel
+Prince Salasi Agblevor: gut, aber unübersichtlich
+Michael Linkamp: gut aber ebenfalls bewöhnungsbedürftig
+Prince Salasi Agblevor: gut aber unübersichtlicht
+Tanja Treffler: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Danny Fröhlich: > ist momentan nicht ansprechbar <
+Tanja Treffler: > ist momentan nicht ansprechbar <
+Stefan Kämmer: > ist momentan nicht ansprechbar <
+Heiko Christmann: > ist momentan nicht ansprechbar <
+Gisela Neira: 11:32 Uhr
+Michael Linkamp: > ist momentan nicht ansprechbar <
+Gisela Neira: > ist momentan nicht ansprechbar <
+Gisela Neira: > ist wieder ansprechbar <
+Gisela Neira: > ist momentan nicht ansprechbar <
+Danny Fröhlich: > ist wieder ansprechbar <
+-- 11:30
+Heiko Christmann: > ist wieder ansprechbar <
+Gisela Neira: > ist wieder ansprechbar <
+Michael Linkamp: > ist wieder ansprechbar <
+Tanja Treffler: > ist wieder ansprechbar <
+Stefan Kämmer: > ist wieder ansprechbar <
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Danny Fröhlich: > stimmt nicht zu <
+Prince Salasi Agblevor: > stimmt zu <
+Gisela Neira: T
+-- 11:45
+Michael Linkamp: > meldet sich <
+Stefan Kämmer: z=0
+Danny Fröhlich: ja stimmt
+Danny Fröhlich: das ergebnis ist int
+Danny Fröhlich: > meldet sich <
+Michael Linkamp: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Danny Fröhlich: > meldet sich <
+Danny Fröhlich: > meldet sich <
+-- 12:00
+Michael Linkamp: sehr unschön
+Danny Fröhlich: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Tanja Treffler: > meldet sich <
+Michael Linkamp: > stimmt nicht zu <
+Heiko Christmann: > meldet sich <
+Tanja Treffler: nagut
+Tanja Treffler: > stimmt zu <
+Danny Fröhlich: r ist double
+Danny Fröhlich: > meldet sich <
+Danny Fröhlich: > meldet sich <
+Danny Fröhlich: > meldet sich <
+Danny Fröhlich: > meldet sich <
+Stefan Kämmer: > stimmt zu <
+Prince Salasi Agblevor: die 15 min anschließen xD
+Stefan Kämmer: result wird in r gecastet
+Michael Linkamp: > stimmt zu <
+Tanja Treffler: > ist momentan nicht ansprechbar <
+Gisela Neira: 12:17 Uhr
+Heiko Christmann: > ist momentan nicht ansprechbar <
+Stefan Kämmer: > ist momentan nicht ansprechbar <
+Gisela Neira: > ist momentan nicht ansprechbar <
+Michael Linkamp: > ist momentan nicht ansprechbar <
+-- 12:15
+Danny Fröhlich: > ist momentan nicht ansprechbar <
+Tanja Treffler: > ist wieder ansprechbar <
+Stefan Kämmer: > ist wieder ansprechbar <
+Danny Fröhlich: > ist wieder ansprechbar <
+Heiko Christmann: > ist wieder ansprechbar <
+Gisela Neira: > ist wieder ansprechbar <
+Michael Linkamp: > ist wieder ansprechbar <
+Danny Fröhlich: sieht aus wie ein vektor
+Danny Fröhlich: > meldet sich <
+Michael Linkamp: funktionstemplate?
+Prince Salasi Agblevor: template
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Tanja Treffler: open end:D
+Prince Salasi Agblevor: schon lange xD
+Prince Salasi Agblevor: ok :D
+Danny Fröhlich: ja leider
+Gisela Neira: > stimmt zu <
+Stefan Kämmer: etwas :(
+Heiko Christmann: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+-- 12:30
+Prince Salasi Agblevor: Kopf macht nicht mehr mit
+Stefan Kämmer: > meldet sich <
+Danny Fröhlich: wann gehts am montag los?
+Danny Fröhlich: danke
+Gisela Neira: > applaudiert <
+Michael Linkamp: > applaudiert <
+Stefan Kämmer: > applaudiert <
+Tanja Treffler: > applaudiert <
+Heiko Christmann: > applaudiert <
+Stefan Kämmer: tschüss
+Tanja Treffler: bis montag
+Michael Linkamp: tschüss
+Heiko Christmann: Tschüss
+Danny Fröhlich: Schönes Wochenende
+Danny Fröhlich: > applaudiert <
+-- 12:40 -- Gisela Neira verlässt den Raum
+-- 12:40 -- Heiko Christmann verlässt den Raum
+-- 12:40 -- Stefan Kämmer verlässt den Raum
+-- 12:40 -- Danny Fröhlich verlässt den Raum
+-- 12:40 -- Tanja Treffler verlässt den Raum

@@ -14,13 +14,33 @@
 #include <map>            // std::map
 #include <iterator>
 
-/* Funktionen deklarieren*/
-int bestellungsaufnahme();              // Komplette Aufnahme der Bestellung
-int kundenbegruessung();                // Rückgabe: Anzahl gewünschter Tische
-int bestellungsverifikation(int tisch); // Bestätigung und Machbarkeitsprüfung
-// 0 = False // 1 = True // 2 = Menge war zu hoch, mach nochmal
-void startBetrieb();                    // Beginne mit dem Betrieb
-void bilanzausgabe(int* auftraege);     // Wie viel wurde jedem verkauft?
+
+class Begruessungsfunktionen{
+
+// Standardkonstruktor
+public:
+    Begruessungsfunktionen();
+    //Begruessungsfunktionen(Lagern lager);
+
+// Attribute
+/*private:
+    Lagern lager;
+
+// get-Set
+public:
+    void setLager(Lagern lager);
+    Lagern getLager();*/
+
+// Methoden
+public:
+    void startBetrieb();                 // Beginne mit dem Betrieb
+    int bestellungsaufnahme();           // Komplette Aufnahme der Bestellung
+    int kundenbegruessung();             // Rückgabe: Anzahl gewünschter Tische
+    int bestellungsverifikation(int tisch); // Bestätigung + Machbarkeitsprüfung
+    // 0 = False // 1 = True // 2 = Menge war zu hoch, mach nochmal
+    void bilanzausgabe(int* auftraege);  // Wie viel wurde jedem verkauft?
+
+};
 
 #define PREISBERECHNUNG(t) (t) * preise["tisch"]
 

@@ -4,13 +4,18 @@
 
 #include <iostream>
 
-#include "begruessungsfunktionen.hpp"
+#include "Lagerinitialisierung.hpp"
+#include "Begruessungsfunktionen.hpp"
 
 using namespace std;
 
 int main()
 {
-    startBetrieb();
+
+    //Lagern startlager;
+    Begruessungsfunktionen hilfsvariable; //Keine Klammern, weil keine Parameter
+    hilfsvariable.startBetrieb();
+
 
     return 0;
 }

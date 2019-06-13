@@ -32,12 +32,12 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="Begruessungsfunktionen.cpp" />
+		<Unit filename="Begruessungsfunktionen.hpp" />
 		<Unit filename="HerstellungVerkauf.cpp" />
 		<Unit filename="HerstellungVerkauf.hpp" />
 		<Unit filename="Lagerinitialisierung.cpp" />
 		<Unit filename="Lagerinitialisierung.hpp" />
-		<Unit filename="begruessungsfunktionen.cpp" />
-		<Unit filename="begruessungsfunktionen.hpp" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />
