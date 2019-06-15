@@ -1,5 +1,5 @@
 // Tanja Treffler
-//   Projekt für C++ Basiskurs
+//   Projekt für C++ Aufbaukurs
 //   Schreinerei vereinfacht abbilden
 
 #include <iostream>
@@ -11,9 +11,13 @@ using namespace std;
 
 int main()
 {
-
-    //Lagern startlager;
+    #if 0
+    Lagern startlager;
+    Begruessungsfunktionen hilfsvariable(startlager);
+    #else
     Begruessungsfunktionen hilfsvariable; //Keine Klammern, weil keine Parameter
+    // Lager erst in später setzen/ laden
+    #endif // 1
     hilfsvariable.startBetrieb();
 
 

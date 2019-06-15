@@ -1,9 +1,9 @@
 // Tanja Treffler
-//   Projekt für C++ Basiskurs
+//   Projekt für C++ Aufbaukurs
 //   Schreinerei vereinfacht abbilden
 
 #include "begruessungsfunktionen.hpp"
-#include "Lagerinitialisierung.hpp"
+//#include "Lagerinitialisierung.hpp" // steht schon in eigener hpp
 #include "HerstellungVerkauf.hpp"
 
 #define Testkunden 5 // Wie viele Kunden werden bedient?
@@ -12,18 +12,18 @@
 /* Konstruktor */
 Begruessungsfunktionen::Begruessungsfunktionen(){}
 
-/*Begruessungsfunktionen::Begruessungsfunktionen(Lagern _lager){
-    lager = _lager;
-}
-
+Begruessungsfunktionen::Begruessungsfunktionen(Lagern _lager){
+    myLagern = _lager;
+}/*
+*/
 // get set
 Lagern Begruessungsfunktionen::getLager(){
-    return lager;
+    return myLagern;
 };
 void Begruessungsfunktionen::setLager(Lagern _lager){
-    lager = _lager;
+    myLagern = _lager;
 };
-*/
+
 
 /* Organisierende und kommunizierende FUNKTIONEN */
 
@@ -34,14 +34,14 @@ void Begruessungsfunktionen::startBetrieb(){
     int auftragsbuch[n]={};
 
     // Lager-Randbedingungen = Ein Lager erzeugen
-    Lager lager1;
-    //this.setLager(lager1);
+    #if 1
+    Lagern lager1;
+    setLager(lager1);
+    #endif // 0
 
     // Lagerbestand initialisieren, Preise festlegen
-    loadLagerstart();
+    getLager().loadLagerstart();
 
-    // Objekt von diesem Datentyp - Besser später mit this?
-    //Begruessungsfunktionen begruessungsobjekt();
 
     // Mehrere Kunden dürfen Bestellen
     for(int i = 0; i<Testkunden; i++){
@@ -52,7 +52,12 @@ void Begruessungsfunktionen::startBetrieb(){
         int tische_kundenwunsch = bestellungsaufnahme();
 
         // Objekt von HerstellungVerkauf erzeugen, damit Funktionsaufruf machbar
+        # if 1
         HerstellungVerkauf verkauf_kunde(tische_kundenwunsch);
+        # else
+        // aktuelles Objekt als Attribut bergen
+        HerstellungVerkauf verkauf_kunde(tische_kundenwunsch, this)
+        # endif
 
         if (tische_kundenwunsch > 0){
             // Eine Sekunde Pause: "Bauzeit"
@@ -123,8 +128,13 @@ int Begruessungsfunktionen::bestellungsverifikation(int tische_kunde){
 
     // Ja
     if(tische_machbar >= tische_kunde){
+        # if 0 // Makro PREISBERECHNUNG anpassen oder unnötig?
         std::cout << tische_kunde << " Tische also. "
                   << "Das kostet " << PREISBERECHNUNG(tische_kunde) <<" Geld. ";
+        #else
+        std::cout << tische_kunde << " Tische also. " << "Das kostet "
+                  << tische_kunde*getLager().getPreise()["tisch"] <<" Geld. ";
+        #endif // 0
         std::cout << "Wollen Sie diese verbindlich bestellen? \n (Ja/Nein)"
         << std::endl;
         // Antworten: ja, nein, ich versthe dich nicht

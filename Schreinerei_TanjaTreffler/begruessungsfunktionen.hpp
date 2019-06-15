@@ -1,5 +1,5 @@
 // Tanja Treffler
-//   Projekt für C++ Basiskurs
+//   Projekt für C++ Aufbaukurs
 //   Schreinerei vereinfacht abbilden
 
 
@@ -14,24 +14,26 @@
 #include <map>            // std::map
 #include <iterator>
 
+#include "Lagerinitialisierung.hpp"
 
+#ifndef begruessung_H
+#define begruessung_H
 class Begruessungsfunktionen{
 
-// Standardkonstruktor
+/* Attribute */
+private:
+    Lagern myLagern;
+
+
 public:
+    // Konstruktoren
     Begruessungsfunktionen();
-    //Begruessungsfunktionen(Lagern lager);
-
-// Attribute
-/*private:
-    Lagern lager;
-
-// get-Set
-public:
+    Begruessungsfunktionen(Lagern lager);
+    // get-Set
     void setLager(Lagern lager);
-    Lagern getLager();*/
+    Lagern getLager();
 
-// Methoden
+/* Weitere Methoden */
 public:
     void startBetrieb();                 // Beginne mit dem Betrieb
     int bestellungsaufnahme();           // Komplette Aufnahme der Bestellung
@@ -41,8 +43,9 @@ public:
     void bilanzausgabe(int* auftraege);  // Wie viel wurde jedem verkauft?
 
 };
+#endif // begruessung_H
 
-#define PREISBERECHNUNG(t) (t) * preise["tisch"]
+#define PREISBERECHNUNG(t) (t) * getLager().getPreise()["tisch"]
 
 
 

@@ -1,25 +1,30 @@
 // Tanja Treffler
-//   Projekt für C++ Basiskurs
+//   Projekt für C++ Aufbaukurs
 //   Schreinerei vereinfacht abbilden
 
 #include <iostream>
 
-class HerstellungVerkauf{
+#include "Begruessungsfunktionen.hpp"
 
-// Konstruktor, Destruktor
-public:
-    HerstellungVerkauf(int tische);
-    virtual ~HerstellungVerkauf();
-// Get-Tische und set-Tische
-    int getTische();
-    void setTische(int tische);
+class HerstellungVerkauf{
 
 // Attribute
 private:
     int anzahltische; // vom Kunden bestellte Tische
+    Begruessungsfunktionen betrieb;
 
+// Konstruktoren, Destruktor
+public:
+    HerstellungVerkauf(int tische);
+    HerstellungVerkauf(int tische, Begruessungsfunktionen betrieb);
+    virtual ~HerstellungVerkauf();
+/* Get-set-Methoden */
+    int getTische();
+    void setTische(int tische);
+    Begruessungsfunktionen getBetrieb();
+    void setBetrieb(Begruessungsfunktionen betrieb);
 
-// Methoden
+/* Weitere Methoden */
 public:
     // Lager aufstocken, um Kundenwunsch zu erfüllen
     void materialnachkauf();
