@@ -23,6 +23,7 @@ class Begruessungsfunktionen{
 /* Attribute */
 private:
     Lagern myLagern;
+    int n;     // Anzahl Testkunden
 
 
 public:

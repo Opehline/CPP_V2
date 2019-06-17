@@ -10,12 +10,15 @@
 
 
 /* Konstruktor */
-Begruessungsfunktionen::Begruessungsfunktionen(){}
+Begruessungsfunktionen::Begruessungsfunktionen(){
+    n = Testkunden;
+}
 
 Begruessungsfunktionen::Begruessungsfunktionen(Lagern _lager){
+    n = Testkunden;
     myLagern = _lager;
-}/*
-*/
+}
+
 // get set
 Lagern Begruessungsfunktionen::getLager(){
     return myLagern;
@@ -30,7 +33,6 @@ void Begruessungsfunktionen::setLager(Lagern _lager){
 /* Beginne mit dem Betrieb*/
 void Begruessungsfunktionen::startBetrieb(){
     // Testbetrieb mit n Kunden
-    int n = Testkunden;
     int auftragsbuch[n]={};
 
     // Lager-Randbedingungen = Ein Lager erzeugen
@@ -52,12 +54,16 @@ void Begruessungsfunktionen::startBetrieb(){
         int tische_kundenwunsch = bestellungsaufnahme();
 
         // Objekt von HerstellungVerkauf erzeugen, damit Funktionsaufruf machbar
-        # if 1
+        # if 0
         HerstellungVerkauf verkauf_kunde(tische_kundenwunsch);
-        # else
+        # elif 0
         // aktuelles Objekt als Attribut bergen
-        HerstellungVerkauf verkauf_kunde(tische_kundenwunsch, this)
+        HerstellungVerkauf verkauf_kunde(tische_kundenwunsch, this);
+        # else
+        // Lager als Pointer mitübergeben
+        HerstellungVerkauf verkauf_kunde(tische_kundenwunsch, &myLagern);
         # endif
+
 
         if (tische_kundenwunsch > 0){
             // Eine Sekunde Pause: "Bauzeit"
@@ -123,7 +129,7 @@ int Begruessungsfunktionen::bestellungsverifikation(int tische_kunde){
     bestellungverifikation: //Label für goto-Anweisung bei Verständnisproblemen
 
     //machbar?
-    HerstellungVerkauf hrstlgVrkf1(tische_kunde);
+    HerstellungVerkauf hrstlgVrkf1(tische_kunde, &myLagern);
     int tische_machbar = hrstlgVrkf1.baubaretische();
 
     // Ja

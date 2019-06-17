@@ -33,7 +33,7 @@ Lagern::Lagern(int _NAGELKAUFEINHEIT, int _BRETTKAUFEINHEIT, int _nagelJeTisch,
 };
 
 /* Get-Methoden */
-int Lagern::getNagelkaufeineheit(){
+int Lagern::getNagelkaufeinheit(){
     return NAGELKAUFEINHEIT;
 }
 int Lagern::getBrettkaufeinheit(){

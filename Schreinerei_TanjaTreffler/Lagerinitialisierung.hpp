@@ -27,7 +27,7 @@ private: /* globale Konstanten: priavte, weil nicht änderbar*/
 
 // Get-Methoden
 public:
-    int getNagelkaufeineheit();
+    int getNagelkaufeinheit();
     int getBrettkaufeinheit();
     int getNagelJeTisch();
     int getBrettJeTisch();
