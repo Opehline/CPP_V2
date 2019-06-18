@@ -15,6 +15,11 @@
 #include <iterator>
 
 #include "Lagerinitialisierung.hpp"
+#include "Ausnahmefallbehandlung.hpp"
+
+#define Testkunden 5 // Wie viele Kunden werden bedient?
+
+#define PREISBERECHNUNG(t) (t) * getLager().getPreise()["tisch"]
 
 #ifndef begruessung_H
 #define begruessung_H
@@ -27,6 +32,8 @@ private:
 
 
 public:
+    // Attribut für Ausnahmefallbehandlung
+    Ausnahmefallbehandlung ausnahmen;
     // Konstruktoren
     Begruessungsfunktionen();
     Begruessungsfunktionen(Lagern lager);
@@ -46,7 +53,7 @@ public:
 };
 #endif // begruessung_H
 
-#define PREISBERECHNUNG(t) (t) * getLager().getPreise()["tisch"]
+
 
 
 

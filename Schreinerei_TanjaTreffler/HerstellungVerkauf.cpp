@@ -56,18 +56,22 @@ void HerstellungVerkauf::setLager(Lagern* p_Lager){
     //int bedarf_n = tische_kunde * nagelJeTisch;
     //int bedarf_b = tische_kunde * brettJeTisch;
 
-    while(meinLager.bretter<bedarf_b || meinLager.naegel<bedarf_n){
+    while(p_myLager->meinInventar.bretter<bedarf_b ||
+          p_myLager->meinInventar.naegel<bedarf_n){
         // Was fehlt gleich kaufen
         // Nägel
-        if(meinLager.naegel<bedarf_n){// Nägel fehlen
-            meinLager.naegel+= p_myLager->getNagelkaufeinheit(); // Eine Einheit addieren
+        if(p_myLager->meinInventar.naegel<bedarf_n){// Nägel fehlen
+            // Eine Einheit addieren
+            p_myLager->meinInventar.naegel+= p_myLager->getNagelkaufeinheit();
             // bezahlen
-            meinLager.geld  -= p_myLager->getNagelkaufeinheit()*p_myLager->getPreise()["nagel"];
+            p_myLager->meinInventar.geld  -= p_myLager->getNagelkaufeinheit()*
+                                              p_myLager->getPreise()["nagel"];
         }
         // Bretter
-        if(meinLager.bretter<bedarf_b){ // Bretter fehlen
-            meinLager.bretter+= p_myLager->getBrettkaufeinheit();
-            meinLager.geld   -= p_myLager->getBrettkaufeinheit()*p_myLager->getPreise()["brett"];
+        if(p_myLager->meinInventar.bretter<bedarf_b){ // Bretter fehlen
+            p_myLager->meinInventar.bretter+= p_myLager->getBrettkaufeinheit();
+            p_myLager->meinInventar.geld   -= p_myLager->getBrettkaufeinheit()*
+                                               p_myLager->getPreise()["brett"];
         }
 
         std::cout << "MATERIALNACHKAUF ERFOLGT.\n" << std::endl;
@@ -79,16 +83,16 @@ void HerstellungVerkauf::setLager(Lagern* p_Lager){
  int HerstellungVerkauf::baubaretische(){
 
      // Tische aus Materialien         // ohne Nachkommastellen
-     int tische_n = meinLager.naegel  / p_myLager->getNagelJeTisch();
-     int tische_b = meinLager.bretter / p_myLager->getBrettJeTisch();
+     int tische_n = p_myLager->meinInventar.naegel  / p_myLager->getNagelJeTisch();
+     int tische_b = p_myLager->meinInventar.bretter / p_myLager->getBrettJeTisch();
      int baubar = std::min(tische_n, tische_b);
 
      // Weitere Materialien mit Geld kaufen
      // -> Lokal, um tatsächlichen Bestand nicht zu ändern!
      // Min-baubar schonmal abziehen
-     int naegel_test  = meinLager.naegel  - baubar*p_myLager->getNagelJeTisch();
-     int bretter_test = meinLager.bretter - baubar*p_myLager->getBrettJeTisch();
-     float geld_test  = meinLager.geld;
+     int naegel_test  = p_myLager->meinInventar.naegel  - baubar*p_myLager->getNagelJeTisch();
+     int bretter_test = p_myLager->meinInventar.bretter - baubar*p_myLager->getBrettJeTisch();
+     float geld_test  = p_myLager->meinInventar.geld;
 
      // Solange genug Geld  da ist (für 1x Bretter, 1x Nägel)
      // Beides, um nicht auf den letzten Cent zu spekulieren.
@@ -102,12 +106,13 @@ void HerstellungVerkauf::setLager(Lagern* p_Lager){
         if (naegel_test < p_myLager->getNagelJeTisch()){
             // Kauf neue Nägel
             naegel_test += p_myLager->getNagelkaufeinheit();
-            geld_test   -= p_myLager->getNagelkaufeinheit()*p_myLager->getPreise()["nagel"];
+            geld_test   -= p_myLager->getNagelkaufeinheit() *
+                           p_myLager->getPreise()["nagel"];
         }
         if (bretter_test < p_myLager->getBrettJeTisch()){
             bretter_test += p_myLager->getBrettkaufeinheit();
             geld_test    -= (p_myLager->getPreise()["brett"]) *
-                    p_myLager->getBrettkaufeinheit();
+                             p_myLager->getBrettkaufeinheit();
         }
         //pseudo-bauen
         bretter_test -= p_myLager->getBrettJeTisch();
@@ -121,25 +126,20 @@ void HerstellungVerkauf::setLager(Lagern* p_Lager){
  void HerstellungVerkauf::tischbau(){
     // Lagerkorrektur nach Bestellung
     // Ein Tisch verbraucht 18 Bretter und 27 Nägel
-    // getTische statt Funktionsvariable  int tische_bau
-    #if 0 // Lagertest
-    std::cout << "Testlagerpointer " << p_myLager->getBrettJeTisch() << std::endl;
-    std::cout << "Testlagerpointer " << p_myLager->getPreise()["tisch"] << std::endl;
-    #endif // 1
-    // meinLager ist noch struct, nicht in Klasse
-    meinLager.bretter -= getTische()* p_myLager->getBrettJeTisch();
-    meinLager.naegel  -= getTische()* p_myLager->getNagelJeTisch();
-    meinLager.tische  += getTische();
-    std::cout << getTische() << " TISCHE GEBAUT \n" << std::endl;
+    p_myLager->meinInventar.bretter -= getTische()*p_myLager->getBrettJeTisch();
+    p_myLager->meinInventar.naegel  -= getTische()*p_myLager->getNagelJeTisch();
+    p_myLager->meinInventar.tische  += getTische();
+    std::cout << anzahltische << " TISCHE GEBAUT \n" << std::endl;
  };
 
 /* Verkauf, Warenausgabe */
 void HerstellungVerkauf::verkauf(){
     //getTische() nicht nötig, eher anzahltische?
-    meinLager.geld    += getTische() * p_myLager->getPreise()["tisch"];
-    meinLager.tische  -= getTische();
+    p_myLager->meinInventar.geld += getTische()*p_myLager->getPreise()["tisch"];
+    p_myLager->meinInventar.tische -= getTische();
     std::cout << "Dem Kunden wurden die Waren zugestellt." << std::endl;
-    std::cout << "Im Lager sind nun " << meinLager.bretter << " Bretter, "
-              << meinLager.naegel << "  Naegel und "
-              << meinLager.geld << " Geld.\n" << std::endl;
+    std::cout << "Im Lager sind nun " << p_myLager->meinInventar.bretter
+              << " Bretter, "
+              << p_myLager->meinInventar.naegel << "  Naegel und "
+              << p_myLager->meinInventar.geld << " Geld.\n" << std::endl;
 };

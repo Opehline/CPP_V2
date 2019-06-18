@@ -6,9 +6,6 @@
 //#include "Lagerinitialisierung.hpp" // steht schon in eigener hpp
 #include "HerstellungVerkauf.hpp"
 
-#define Testkunden 5 // Wie viele Kunden werden bedient?
-
-
 /* Konstruktor */
 Begruessungsfunktionen::Begruessungsfunktionen(){
     n = Testkunden;
@@ -42,7 +39,8 @@ void Begruessungsfunktionen::startBetrieb(){
     #endif // 0
 
     // Lagerbestand initialisieren, Preise festlegen
-    getLager().loadLagerstart();
+    // nixht mehr, weil schon im Lager-Konstruktor erledigt
+    //getLager().loadLagerstart();
 
 
     // Mehrere Kunden dürfen Bestellen
@@ -95,6 +93,12 @@ int Begruessungsfunktionen::kundenbegruessung(){
         << std::endl;
 
     std::cin >> tische_kundenwunsch;
+
+    // try-catch, zum testen, ob Eingabe eine gültige Zahl
+    #if 1
+    int bsp = ausnahmen.testeingabe();
+    std::cout << bsp << " Testausgabe " << std::endl;
+    #endif // 1
 
     // Test ob Eingabe tatsächlich int
     while(!std::cin){

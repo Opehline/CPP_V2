@@ -1,0 +1,334 @@
+-----------------------------------------------
+Betreten des Gruppenraums "C++ Aufbaukurs"
+18.06.2019 08:15 Uhr
+-----------------------------------------------
+-- 08:15 -- Tanja Treffler betritt den Raum Hauptraum
+Tanja Treffler: Guten Morgen :)
+Tanja Treffler: > ist momentan nicht ansprechbar <
+Danny Fröhlich: Guten Morgen
+-- 08:30
+-- 08:36 -- Prince Salasi Agblevor betritt den Raum Hauptraum
+Prince Salasi Agblevor: guten Morgrn
+-- 08:42 -- Stefan Kämmer betritt den Raum Hauptraum
+Stefan Kämmer: morgen :)
+-- 08:45
+-- 08:45 -- Heiko Christmann betritt den Raum Hauptraum
+Heiko Christmann: Guten Morgen
+Heiko Christmann: > ist momentan nicht ansprechbar <
+Heiko Christmann: > ist wieder ansprechbar <
+Tanja Treffler: > ist wieder ansprechbar <
+-- 08:52 -- Michael Linkamp betritt den Raum Hauptraum
+Michael Linkamp: Guten Morgen!
+Gisela Neira: > ist wieder ansprechbar <
+Michael Linkamp: Hallo
+Tanja Treffler: > meldet sich <
+Heiko Christmann: > meldet sich <
+Tanja Treffler: Guten Morgen :)
+-- 09:00
+Stefan Kämmer: inventar
+Stefan Kämmer: inventar falsch geschrieben
+-- 09:15
+Danny Fröhlich: > stimmt zu <
+Heiko Christmann: > meldet sich <
+-- 09:30
+-- 09:45
+Tanja Treffler: wie letztes Mal die DAten löschen?
+Michael Linkamp: > stimmt nicht zu <
+Michael Linkamp: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Michael Linkamp: > meldet sich <
+-- 10:00
+Michael Linkamp: keine Vererbung
+Tanja Treffler: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Michael Linkamp: Über Zeiger
+Danny Fröhlich: this pointer
+Tanja Treffler: als Attribut
+Stefan Kämmer: public bereich
+Heiko Christmann: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Michael Linkamp: 33 und 34
+Prince Salasi Agblevor: 33,34
+Heiko Christmann: 33,34
+Prince Salasi Agblevor: 33,34 sorry
+Danny Fröhlich: 33 34 würde ich auch sagen
+Stefan Kämmer: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Michael Linkamp: säubern
+Danny Fröhlich: speichplatz löschen
+Stefan Kämmer: löschen des pointers
+Danny Fröhlich: heap aufräumen
+Danny Fröhlich: > meldet sich <
+Michael Linkamp: alles public?
+Tanja Treffler: zu viel in der main?
+Michael Linkamp: fehlende initialisierung des pointers?
+-- 10:15
+Michael Linkamp: > stimmt nicht zu <
+Stefan Kämmer: > meldet sich <
+Stefan Kämmer: > stimmt zu <
+Danny Fröhlich: > meldet sich <
+Michael Linkamp: mehrfachvererbung
+Stefan Kämmer: pause
+Danny Fröhlich: Pause
+Gisela Neira: 10:32 Uhr
+Heiko Christmann: > ist momentan nicht ansprechbar <
+Michael Linkamp: > ist momentan nicht ansprechbar <
+Stefan Kämmer: > ist momentan nicht ansprechbar <
+Gisela Neira: > ist momentan nicht ansprechbar <
+Prince Salasi Agblevor: > ist momentan nicht ansprechbar <
+-- 10:30
+Gisela Neira: > ist wieder ansprechbar <
+Michael Linkamp: > ist wieder ansprechbar <
+Stefan Kämmer: > ist wieder ansprechbar <
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Heiko Christmann: > ist wieder ansprechbar <
+Stefan Kämmer: leere klassen
+Danny Fröhlich: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Danny Fröhlich: kleine Methoden
+Michael Linkamp: keine Variablen
+Stefan Kämmer: keine attribute
+Heiko Christmann: > stimmt zu <
+Danny Fröhlich: achso stimmt hatten wir ja gestern schon
+Stefan Kämmer: 1 byte (pointer)?
+Michael Linkamp: 0 byte?
+Stefan Kämmer: was steht in dem byte?
+Stefan Kämmer: > meldet sich <
+Danny Fröhlich: nein
+Stefan Kämmer: ja
+Stefan Kämmer: default ctor
+Heiko Christmann: Konstruktor wird vererbert
+Michael Linkamp: ja. wird ja ausgegeben
+Prince Salasi Agblevor: > ist wieder ansprechbar <
+Stefan Kämmer: ups :)
+-- 10:45
+Michael Linkamp: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Stefan Kämmer: > meldet sich <
+Danny Fröhlich: die gleiche
+Heiko Christmann: gleich
+Prince Salasi Agblevor: gleich
+Stefan Kämmer: gleich, aber bin nicht 100%ig sicher
+Prince Salasi Agblevor: aber unsicher
+Michael Linkamp: unterschiedliche adressen
+Tanja Treffler: gegen die Mehrheit: anders :D
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Danny Fröhlich: nicht so 
+Danny Fröhlich: ja bitte
+Danny Fröhlich: > stimmt zu <
+Prince Salasi Agblevor: bei mir ist gerade richtig laut..alle sind am reden und ich kriege nix mit :D
+Danny Fröhlich: > stimmt zu <
+Danny Fröhlich: ich habs verstanden
+Stefan Kämmer: fehler in 22
+-- 11:00
+Danny Fröhlich: 1byte
+Danny Fröhlich: ein vielfaches von der ersten Klasse
+Tanja Treffler: ca die Hälfte kleiner
+Michael Linkamp: kleiner, weil private vererbung
+Danny Fröhlich: warum
+Tanja Treffler: private wird nicht vererbt
+Stefan Kämmer: > meldet sich <
+Danny Fröhlich: > meldet sich <
+Stefan Kämmer: > meldet sich <
+Danny Fröhlich: achso dann ist es doch die hälfte
+Heiko Christmann: kleiner
+Stefan Kämmer: 1/2
+Michael Linkamp: genauso gross würde ich sagen
+Prince Salasi Agblevor: kleinier oder gleich
+Prince Salasi Agblevor: > meldet sich <
+Danny Fröhlich: hälfte +1byte
+Prince Salasi Agblevor: Juhuuuu
+Michael Linkamp: > hat eine Frage <
+Danny Fröhlich: ohh nein
+Danny Fröhlich: warum
+Stefan Kämmer: > hat eine Frage <
+Danny Fröhlich: > meldet sich <
+Danny Fröhlich: > meldet sich <
+Michael Linkamp: Ist das gut so?
+Michael Linkamp: Ok. Dann ist das gut so
+-- 11:15
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: > meldet sich <
+Prince Salasi Agblevor: Pause?
+Prince Salasi Agblevor: Pause?
+Prince Salasi Agblevor: Können auch später machen
+Danny Fröhlich: > ist momentan nicht ansprechbar <
+Prince Salasi Agblevor: wir wollen alle zuhören xD
+Gisela Neira: 11: 35 Uhr
+Heiko Christmann: > ist momentan nicht ansprechbar <
+Prince Salasi Agblevor: ok...
+Stefan Kämmer: die frage ist eine andere
+Danny Fröhlich: > ist wieder ansprechbar <
+Gisela Neira: > ist momentan nicht ansprechbar <
+Gisela Neira: > ist wieder ansprechbar <
+Stefan Kämmer: okay, danke :)
+-- 11:30
+Stefan Kämmer: > stimmt zu <
+Heiko Christmann: > ist wieder ansprechbar <
+Michael Linkamp: > meldet sich <
+Danny Fröhlich: das frage ich michauch
+Danny Fröhlich: :)
+Stefan Kämmer: > meldet sich <
+Michael Linkamp: > meldet sich <
+-- 11:45
+Stefan Kämmer: jetzt bin ich noch mehr verwirrt :(
+Stefan Kämmer: das ändert nichts 
+Stefan Kämmer: > meldet sich <
+Stefan Kämmer: muss ich wohl so hinnehmen 
+Stefan Kämmer: ¯\_(ツ)_/¯
+Michael Linkamp: > stimmt nicht zu <
+Michael Linkamp: war schon gut so
+Stefan Kämmer: besser so als anders
+Tanja Treffler: schon nicht verkehrt :)
+Danny Fröhlich: > stimmt zu <
+Danny Fröhlich: namensraum?
+-- 12:00
+Stefan Kämmer: 02 folie 47
+Stefan Kämmer: Strg+F :D
+Danny Fröhlich: > meldet sich <
+Tanja Treffler: Mittagspausenzeit :D
+Stefan Kämmer: pause
+Tanja Treffler: > ist momentan nicht ansprechbar <
+Stefan Kämmer: > ist momentan nicht ansprechbar <
+Danny Fröhlich: > ist momentan nicht ansprechbar <
+Gisela Neira: 12:35 Uhr
+Michael Linkamp: > ist momentan nicht ansprechbar <
+-- 12:15
+-- 12:30
+Danny Fröhlich: > ist wieder ansprechbar <
+Michael Linkamp: > ist wieder ansprechbar <
+Stefan Kämmer: > ist wieder ansprechbar <
+Tanja Treffler: > ist wieder ansprechbar <
+Stefan Kämmer: ah okay
+Tanja Treffler: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Stefan Kämmer: zuordenbar
+-- 12:45
+Stefan Kämmer: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Stefan Kämmer: ja
+Stefan Kämmer: > meldet sich <
+Michael Linkamp: jetzt ist es unklar. nicht eindeutig
+Danny Fröhlich: namespace
+Stefan Kämmer: katze::
+Danny Fröhlich: operator
+Stefan Kämmer: > stimmt zu <
+Michael Linkamp: ein Objekt
+Michael Linkamp: > meldet sich <
+Danny Fröhlich: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Michael Linkamp: > meldet sich <
+Tanja Treffler: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Prince Salasi Agblevor: > meldet sich <
+-- 13:00
+Stefan Kämmer: Z 23 +++++++
+Stefan Kämmer: zeile 23
+Stefan Kämmer: ++++++++++++
+Stefan Kämmer: das letzte
+Michael Linkamp: ist das nicht gemischt c und c++ ?
+Prince Salasi Agblevor: alle sind const :D
+Stefan Kämmer: const funktion
+Danny Fröhlich: das erste und letzte kenne ich nicht
+Prince Salasi Agblevor: das lewtze haben wir gestern gemacht
+Danny Fröhlich: > meldet sich <
+Michael Linkamp: auf das ergebnis
+Michael Linkamp: den rückgabewert
+Michael Linkamp: Nein. b ist doch const, oder?
+Danny Fröhlich: nein
+Danny Fröhlich: das geht
+Danny Fröhlich: > meldet sich <
+Michael Linkamp: in der Klasse
+Stefan Kämmer: im ctor
+Michael Linkamp: im Konstruktor
+Prince Salasi Agblevor: Das ist ei
+Prince Salasi Agblevor: auch
+Prince Salasi Agblevor: nein
+Michael Linkamp: > stimmt zu <
+Prince Salasi Agblevor: ja
+Stefan Kämmer: > stimmt nicht zu <
+Danny Fröhlich: > stimmt nicht zu <
+-- 13:15
+Danny Fröhlich: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Michael Linkamp: geht nicht weil wasWas konst.
+Prince Salasi Agblevor: > meldet sich <
+Danny Fröhlich: ich würde nein sagen
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Stefan Kämmer: > meldet sich <
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Michael Linkamp: ich muss leider wieder um 13:40 los
+Michael Linkamp: aber kein Problem...
+Michael Linkamp: macht ruhig nochweiter dann
+Michael Linkamp: > stimmt zu <
+-- 13:30
+Prince Salasi Agblevor: semikolon
+Michael Linkamp: > stimmt nicht zu <
+Danny Fröhlich: ja
+Prince Salasi Agblevor: kommentare xD
+Stefan Kämmer: > stimmt nicht zu <
+Danny Fröhlich: > meldet sich <
+Danny Fröhlich: > stimmt zu <
+Stefan Kämmer: "radio" ist spanisch? :)
+Tanja Treffler: mir gefällt auch Radio :D
+Michael Linkamp: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Michael Linkamp: Danke schön!
+Danny Fröhlich: > applaudiert <
+Michael Linkamp: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Gisela Neira: > applaudiert <
+Michael Linkamp: > applaudiert <
+Tanja Treffler: > applaudiert <
+Stefan Kämmer: > applaudiert <
+Danny Fröhlich: > applaudiert <
+Tanja Treffler: bis morgen
+-- 13:40 -- Stefan Kämmer verlässt den Raum
+-- 13:40 -- Michael Linkamp verlässt den Raum
+-- 13:40 -- Danny Fröhlich verlässt den Raum
+-- 13:40 -- Gisela Neira verlässt den Raum
+-- 13:40 -- Tanja Treffler verlässt den Raum

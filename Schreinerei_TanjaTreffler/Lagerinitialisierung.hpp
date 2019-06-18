@@ -7,6 +7,7 @@
 #include <iterator>
 #include <string>
 
+
 #ifndef Lager_C_H
 #define Lager_C_H
 class Lagern{
@@ -16,9 +17,18 @@ public:
     Lagern();
     Lagern(int NAGELKAUFEINHEIT, int BRETTKAUFEINHEIT, int nagelJeTisch,
            int brettJeTisch, std::map<std::string, float> preise);
-
+    // Struct
+    struct Inventar{
+        int naegel;
+        int bretter;
+        int tische;
+        float geld;
+    };
+    Inventar meinInventar;
 // Attribute
 private: /* globale Konstanten: priavte, weil nicht änderbar*/
+    // Lagerbestand deklarienen
+
     int NAGELKAUFEINHEIT;
     int BRETTKAUFEINHEIT;
     int nagelJeTisch;
@@ -39,16 +49,5 @@ public:
 #endif // Lager_C_H
 
 
-// Lagerbestand deklarienen
-#ifndef Lagerstruct_H
-#define Lagerstruct_H
-struct Lager{
-    int naegel;
-    int bretter;
-    int tische;
-    float geld;
-};
-extern struct Lager meinLager;
-#endif // Lagerstruct_H
 
 

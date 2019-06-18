@@ -15,28 +15,28 @@
 	<map>
 	<iterator>
 
-1560779028 source:c:\users\ttreffler\desktop\ordnerfuergit\schreinerei_tanjatreffler\begruessungsfunktionen.cpp
+1560863893 source:c:\users\ttreffler\desktop\ordnerfuergit\schreinerei_tanjatreffler\begruessungsfunktionen.cpp
 	"begruessungsfunktionen.hpp"
 	"HerstellungVerkauf.hpp"
 
-1560758362 c:\users\ttreffler\desktop\ordnerfuergit\schreinerei_tanjatreffler\lagerinitialisierung.hpp
+1560843781 c:\users\ttreffler\desktop\ordnerfuergit\schreinerei_tanjatreffler\lagerinitialisierung.hpp
 	<iostream>
 	<map>
 	<iterator>
 	<string>
 
-1560758362 source:c:\users\ttreffler\desktop\ordnerfuergit\schreinerei_tanjatreffler\lagerinitialisierung.cpp
+1560864063 source:c:\users\ttreffler\desktop\ordnerfuergit\schreinerei_tanjatreffler\lagerinitialisierung.cpp
 	"Lagerinitialisierung.hpp"
 
-1560755198 c:\users\ttreffler\desktop\ordnerfuergit\schreinerei_tanjatreffler\herstellungverkauf.hpp
+1560842755 c:\users\ttreffler\desktop\ordnerfuergit\schreinerei_tanjatreffler\herstellungverkauf.hpp
 	<iostream>
 	"Begruessungsfunktionen.hpp"
 	"Lagerinitialisierung.hpp"
 
-1560767083 source:c:\users\ttreffler\desktop\ordnerfuergit\schreinerei_tanjatreffler\herstellungverkauf.cpp
+1560863849 source:c:\users\ttreffler\desktop\ordnerfuergit\schreinerei_tanjatreffler\herstellungverkauf.cpp
 	"HerstellungVerkauf.hpp"
 
-1560779007 c:\users\ttreffler\desktop\ordnerfuergit\schreinerei_tanjatreffler\begruessungsfunktionen.hpp
+1560864517 c:\users\ttreffler\desktop\ordnerfuergit\schreinerei_tanjatreffler\begruessungsfunktionen.hpp
 	<iostream>
 	<stdio.h>
 	<cstdlib>
@@ -47,6 +47,7 @@
 	<map>
 	<iterator>
 	"Lagerinitialisierung.hpp"
+	"Ausnahmefallbehandlung.hpp"
 
 1560526181 source:c:\users\tanja\desktop\cpp_ibb_material\schreinerei_tanjatreffler\begruessungsfunktionen.cpp
 	"begruessungsfunktionen.hpp"
@@ -85,4 +86,10 @@
 	<iostream>
 	"Lagerinitialisierung.hpp"
 	"Begruessungsfunktionen.hpp"
+
+1560863006 source:c:\users\ttreffler\desktop\ordnerfuergit\schreinerei_tanjatreffler\ausnahmefallbehandlung.cpp
+	"Ausnahmefallbehandlung.hpp"
+
+1560866547 c:\users\ttreffler\desktop\ordnerfuergit\schreinerei_tanjatreffler\ausnahmefallbehandlung.hpp
+	<iostream>
 

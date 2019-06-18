@@ -20,6 +20,8 @@ Lagern::Lagern(){
     {"brett", 1.00},
     {"tisch", 62.00}
     };
+
+    meinInventar = {300, 50, 0, 200}; // Nagel, Brett, Tisch, Geld
 };
 Lagern::Lagern(int _NAGELKAUFEINHEIT, int _BRETTKAUFEINHEIT, int _nagelJeTisch,
            int _brettJeTisch, std::map<std::string, float> _preise){
@@ -53,10 +55,6 @@ std::map<std::string, float> Lagern::getPreise(){
 /* Anfangsbestand für das Lager*/
 void Lagern::loadLagerstart(){
     // Nagel, Brett, Tisch, Geld
-    meinLager = {300, 50, 0, 200};
+    meinInventar = {300, 50, 0, 200};
 };
 
-#ifndef Lager_H
-#define Lager_H
-struct Lager meinLager;
-#endif // Lager_H
