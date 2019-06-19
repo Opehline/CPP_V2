@@ -2,7 +2,6 @@
 //   Projekt für C++ Aufbaukurs
 //   Schreinerei vereinfacht abbilden
 
-
 #include <iostream> // std::cout
 #include <stdio.h>  // printf()
 #include <cstdlib>
@@ -17,12 +16,14 @@
 #include "Lagerinitialisierung.hpp"
 #include "Ausnahmefallbehandlung.hpp"
 
+// Präprozessorkonstanten
 #define Testkunden 5 // Wie viele Kunden werden bedient?
 
 #define AUSNAHME_NaN     1
 #define AUSNAHME_ZuKlein 2
 #define AUSNAHME_Null    3
 
+// Makro noch sinnvoll?
 #define PREISBERECHNUNG(t) (t) * getLager().getPreise()["tisch"]
 
 #ifndef begruessung_H
@@ -33,11 +34,13 @@ class Begruessungsfunktionen{
 private:
     Lagern myLagern;
     int n;     // Anzahl Testkunden
+    int tische;
+    std::string bestellbestaetigung;
 
 
 public:
     // Attribut für Ausnahmefallbehandlung
-    //Ausnahmefallbehandlung ausnahmen;
+    Ausnahmefallbehandlung ausnahmen;
     // Konstruktoren
     Begruessungsfunktionen();
     Begruessungsfunktionen(Lagern lager);
@@ -47,13 +50,13 @@ public:
 
 /* Weitere Methoden */
 public:
-    void startBetrieb();                 // Beginne mit dem Betrieb
-    int bestellungsaufnahme();           // Komplette Aufnahme der Bestellung
-    int kundenbegruessung();             // Rückgabe: Anzahl gewünschter Tische
-    int bestellungsverifikation(int tisch); // Bestätigung + Machbarkeitsprüfung
+    void startBetrieb();               // Beginne mit dem Betrieb
+    void bestellungsaufnahme();        // Komplette Aufnahme der Bestellung
+    void kundenbegruessung();          // Erste Begruessung, Abfrage
+    int bestellungsverifikation();     // Bestätigung + Machbarkeitsprüfung
     // 0 = False // 1 = True // 2 = Menge war zu hoch, mach nochmal
-    void bilanzausgabe(int* auftraege);  // Wie viel wurde jedem verkauft?
-    void gueltigerBereich(int tisch);  // Bestellmenge in logischem Bereich? >0
+    void bilanzausgabe(int* auftraege);// Wie viel wurde jedem verkauft?
+    void gueltigerBereich();           // Bestellmenge in logischem Bereich? >0
 
 };
 #endif // begruessung_H

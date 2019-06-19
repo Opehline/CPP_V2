@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1514144174 source:c:\users\ttreffler\desktop\ordnerfuergit\schreinerei_alex\main.cpp
+	<iostream>
+
+1560951604 source:c:\users\ttreffler\desktop\ordnerfuergit\schreinerei_alex\src\lager.cpp
+	"Lager.h"
+
+1560951736 c:\users\ttreffler\desktop\ordnerfuergit\schreinerei_alex\include\lager.h
+	<map>
+	<iterator>
+	<string>
+
+1560951689 source:c:\users\ttreffler\desktop\ordnerfuergit\schreinerei_alex\src\werkstatt.cpp
+	"Werkstatt.h"
+
+1560951804 c:\users\ttreffler\desktop\ordnerfuergit\schreinerei_alex\include\werkstatt.h
+	<iostream>
+	"Lager.h"
+
+1560952036 source:c:\users\ttreffler\desktop\ordnerfuergit\schreinerei_alex\src\moebelstueck.cpp
+	"Moebelstueck.h"
+
+1560952076 c:\users\ttreffler\desktop\ordnerfuergit\schreinerei_alex\include\moebelstueck.h
+

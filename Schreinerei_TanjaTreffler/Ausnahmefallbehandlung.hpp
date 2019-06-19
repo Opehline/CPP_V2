@@ -19,6 +19,8 @@ class Ausnahmefallbehandlung
         virtual ~Ausnahmefallbehandlung();
         // Funktion, wo Fehler auftreten könnte
         int testeingabe();
+        int test_bestellungsaufnahme(int e, int tische);
+        void test_bestellungsaufnahme(int e);
 
     protected:
 

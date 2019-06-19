@@ -3,17 +3,21 @@
 //   Schreinerei vereinfacht abbilden
 
 #include "begruessungsfunktionen.hpp"
-//#include "Lagerinitialisierung.hpp" // steht schon in eigener hpp
 #include "HerstellungVerkauf.hpp"
 
-/* Konstruktor */
+/* Konstruktoren */
 Begruessungsfunktionen::Begruessungsfunktionen(){
     n = Testkunden;
+    tische = 0;
+    bestellbestaetigung = "";
+    //startBetrieb();
 }
 
 Begruessungsfunktionen::Begruessungsfunktionen(Lagern _lager){
     n = Testkunden;
     myLagern = _lager;
+    tische = 0;
+    bestellbestaetigung = "";
 }
 
 // get set
@@ -39,7 +43,7 @@ void Begruessungsfunktionen::startBetrieb(){
     #endif // 0
 
     // Lagerbestand initialisieren, Preise festlegen
-    // nixht mehr, weil schon im Lager-Konstruktor erledigt
+    // nicht mehr, weil schon im Lager-Konstruktor erledigt
     //getLager().loadLagerstart();
 
 
@@ -48,22 +52,13 @@ void Begruessungsfunktionen::startBetrieb(){
         std::cout << "Kunde " << i+1 << std::endl;
 
         // Kunden begrüßen, Bestellung aufnehmen
-        // int tische_kundenwunsch = begruessungsobjekt();
-        int tische_kundenwunsch = bestellungsaufnahme();
+        bestellungsaufnahme();
 
         // Objekt von HerstellungVerkauf erzeugen, damit Funktionsaufruf machbar
-        # if 0
-        HerstellungVerkauf verkauf_kunde(tische_kundenwunsch);
-        # elif 0
-        // aktuelles Objekt als Attribut bergen
-        HerstellungVerkauf verkauf_kunde(tische_kundenwunsch, this);
-        # else
-        // Lager als Pointer mitübergeben
-        HerstellungVerkauf verkauf_kunde(tische_kundenwunsch, &myLagern);
-        # endif
+        HerstellungVerkauf verkauf_kunde(tische, &myLagern);
 
 
-        if (tische_kundenwunsch > 0){
+        if (tische > 0){
             // Eine Sekunde Pause: "Bauzeit"
             std::this_thread::sleep_for (std::chrono::seconds(1));
 
@@ -76,7 +71,7 @@ void Begruessungsfunktionen::startBetrieb(){
             // Verkauf
             verkauf_kunde.verkauf();
 
-            auftragsbuch[i] = tische_kundenwunsch;
+            auftragsbuch[i] = tische;
         }else{
             auftragsbuch[i] = 0;
         }
@@ -87,83 +82,54 @@ void Begruessungsfunktionen::startBetrieb(){
 };
 
 /* Rückgabe: Anzahl gewünschter Tische */
-int Begruessungsfunktionen::kundenbegruessung(){
-    int tische_kundenwunsch = 0;
+void Begruessungsfunktionen::kundenbegruessung(){
+
     try{
         std::cout << "Hallo Kunde. Wie viele Tische willst du kaufen?"
                   << std::endl;
-        std::cin >> tische_kundenwunsch;
+        std::cin >> tische;
         // Test ob Eingabe tatsächlich int
         if(!std::cin){
             throw AUSNAHME_NaN;
         }
     }
     catch(int e){
-        while(!std::cin){
-            std::cout << "Das war keine Zahl und geht so nicht." << std::endl;
-            std::cout << "Gib eine neue Zahl an Tischen ein: " << std::endl;
-
-            std::cin.clear();
-            std::cin.ignore(10000,'\n');
-
-            std::cin >> tische_kundenwunsch;
-        }
-        return tische_kundenwunsch;
+        tische = ausnahmen.test_bestellungsaufnahme(e, tische);
     }
-
-    // try-catch, zum testen, ob Eingabe eine gültige Zahl
-    #if 1
-    Ausnahmefallbehandlung ausnahmen;
-    int bsp = ausnahmen.testeingabe();
-    std::cout << bsp << " Testausgabe " << std::endl;
-    #endif // 1
-
 
     std::cin.ignore(10000,'\n');
     std::cin.clear();
 
     // Gültigkeitsbereich testen
     try{
-        gueltigerBereich(tische_kundenwunsch);
+        gueltigerBereich();
     }
     catch(int e){
-        if(e == AUSNAHME_ZuKlein){
-            // <0
-            std::cout << "Wir geben keine Tische aus und zahlen dafuer. "
-                      << "Die Bestellung wird verworfen. "  << std::endl;
-        }
-        else if(e == AUSNAHME_Null){
-            // = 0
-            std::cout << "0 Tische sind keine Bestellung, schade." << std::endl;
-        }
+        ausnahmen.test_bestellungsaufnahme(e);
     }
-
-
-    return tische_kundenwunsch;
 };
 
 /* Bestellüberprüfung */
-int Begruessungsfunktionen::bestellungsverifikation(int tische_kunde){
+int Begruessungsfunktionen::bestellungsverifikation(){
 
     bestellungverifikation: //Label für goto-Anweisung bei Verständnisproblemen
 
     //machbar?
-    HerstellungVerkauf hrstlgVrkf1(tische_kunde, &myLagern);
+    HerstellungVerkauf hrstlgVrkf1(tische, &myLagern);
     int tische_machbar = hrstlgVrkf1.baubaretische();
 
     // Ja
-    if(tische_machbar >= tische_kunde){
+    if(tische_machbar >= tische){
         # if 0 // Makro PREISBERECHNUNG anpassen oder unnötig?
-        std::cout << tische_kunde << " Tische also. "
-                  << "Das kostet " << PREISBERECHNUNG(tische_kunde) <<" Geld. ";
+        std::cout << tische << " Tische also. " << "Das kostet "
+                  << PREISBERECHNUNG(tische) <<" Geld. ";
         #else
-        std::cout << tische_kunde << " Tische also. " << "Das kostet "
-                  << tische_kunde*getLager().getPreise()["tisch"] <<" Geld. ";
+        std::cout << tische << " Tische also. " << "Das kostet "
+                  << tische*getLager().getPreise()["tisch"] <<" Geld. ";
         #endif // 0
         std::cout << "Wollen Sie diese verbindlich bestellen? \n (Ja/Nein)"
         << std::endl;
         // Antworten: ja, nein, ich versthe dich nicht
-        std::string bestellbestaetigung = "";
         std::cin >> bestellbestaetigung;
         std::cin.clear(); // löscht den Speicher cin
         if (bestellbestaetigung == "Ja" || bestellbestaetigung == "JA"
@@ -179,6 +145,7 @@ int Begruessungsfunktionen::bestellungsverifikation(int tische_kunde){
             std::cout << "Schade, dass Sie nicht bestellen. "
                       << "Schoenen Tag noch.\n"
             << std::endl; // evtl noch Preisnachlass
+            tische = 0;
         }else {
             std::cout << "Das war unklar, also keine Bestellung. "
             << "Probier es nochmal.\n" << std::endl; // Nochmal fragen!
@@ -199,26 +166,24 @@ int Begruessungsfunktionen::bestellungsverifikation(int tische_kunde){
 };
 
 /* Zusammenfassung der Besllungsaufnahme */
-int Begruessungsfunktionen::bestellungsaufnahme(){
+void Begruessungsfunktionen::bestellungsaufnahme(){
 
     begruessung:
     // Bestellung des Kunden annehmen
-    int tische_kundenwunsch = kundenbegruessung();//Return: gewünschte Tischzahl
+    kundenbegruessung();
 
-    if(tische_kundenwunsch > 0){
+    if(tische > 0){
         // Bestätigung und Machbarkeitsprüfung
-        int kaufabschluss = bestellungsverifikation(tische_kundenwunsch);
-
-        if (kaufabschluss == 1){ // Bestellung bestätigt
-            return tische_kundenwunsch;
-        }else if ( kaufabschluss == 2){ // Bestellmenge zu groß
+        int kaufabschluss = bestellungsverifikation();
+        // 0: Bestellung wurde nicht bestätigt, beendet
+        // 1: Bestellung bestätigt
+        // 2: Bestellmenge zu groß
+        if ( kaufabschluss == 2){
             goto begruessung;
-        } else{
-            return 0;
         }
     }else{ // Null Tische bestellt
         std::cout << "Es wurde kein Tisch bestellt.\n" << std::endl;
-        return 0;
+        tische = 0;
     }
 };
 
@@ -231,9 +196,7 @@ void Begruessungsfunktionen::bilanzausgabe(int* auftraege){
     }
 }
 
-void Begruessungsfunktionen::gueltigerBereich(int tische){
-    // Test
-    std::cout << " Bla bla " << std::endl;
+void Begruessungsfunktionen::gueltigerBereich(){
     //Abfrage ob Zahl größer als 0
     if(tische < 0){
         throw AUSNAHME_ZuKlein;

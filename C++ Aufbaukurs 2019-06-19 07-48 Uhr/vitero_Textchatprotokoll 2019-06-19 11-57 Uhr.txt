@@ -1,0 +1,345 @@
+-----------------------------------------------
+Betreten des Gruppenraums "C++ Aufbaukurs"
+19.06.2019 07:48 Uhr
+-----------------------------------------------
+-- 07:48 -- Tanja Treffler betritt den Raum
+Tanja Treffler: > ist momentan nicht ansprechbar <
+Tanja Treffler: > ist wieder ansprechbar <
+Tanja Treffler: GutenMorgen :D
+Tanja Treffler: > ist momentan nicht ansprechbar <
+-- 07:52 -- Michael Linkamp betritt den Raum Hauptraum
+Michael Linkamp: Guten Morgen!
+Michael Linkamp: > ist momentan nicht ansprechbar <
+-- 07:58 -- Heiko Christmann betritt den Raum Hauptraum
+Heiko Christmann: Guten Morgen
+-- 07:59 -- Gisela Neira betritt den Raum Hauptraum
+Michael Linkamp: > ist wieder ansprechbar <
+Tanja Treffler: > ist wieder ansprechbar <
+Tanja Treffler: > applaudiert <
+Michael Linkamp: Keine Panik. Du bist zu früh.
+-- 08:00
+Michael Linkamp: > stimmt zu <
+Michael Linkamp: Okay.
+Heiko Christmann: > meldet sich <
+-- 08:04 -- Gisela Neira verlässt den Raum
+Tanja Treffler: oh nein :/
+Michael Linkamp: Ja. Das ist echt Pech mit dem Internet
+-- 08:06 -- Stefan Kämmer betritt den Raum Hauptraum
+Stefan Kämmer: moin :)
+Heiko Christmann: Moin, Gisela hat schon wieder Internet-Probleme und ist eben raus geflogen
+Stefan Kämmer: jo, sie hatte ne mail geschrieben
+Tanja Treffler: aber sie war gerade schon kurz da
+Stefan Kämmer: ah, alles klar
+-- 08:12 -- Gisela Neira betritt den Raum Hauptraum
+Stefan Kämmer: > applaudiert <
+Tanja Treffler: > applaudiert <
+Michael Linkamp: Hallo zurück!
+Stefan Kämmer: gisela wieder weg?
+Heiko Christmann: glaube ich fast
+Tanja Treffler: zumindest nicht hörbar
+-- 08:14 -- Gisela Neira verlässt den Raum
+Stefan Kämmer: arme gisela
+-- 08:15 -- Gisela Neira betritt den Raum Hauptraum
+-- 08:15
+-- 08:16 -- Gisela Neira verlässt den Raum
+Heiko Christmann: Hat Gisela gestern Dateien geschickt?
+Stefan Kämmer: ich glaube nicht
+Tanja Treffler: Nee, da haben wir nur Skripte angeguckt
+Stefan Kämmer: war noch die 5.0, ne?
+Heiko Christmann: Gut, danke
+Heiko Christmann: ja
+Tanja Treffler: ja genau, kam alles schon montag
+-- 08:27 -- Gisela Neira betritt den Raum Hauptraum
+Michael Linkamp: Du hast aber echt Pech heute.
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: verstanden
+Stefan Kämmer: erhalten
+Stefan Kämmer: > stimmt zu <
+Heiko Christmann: erhalten
+-- 08:30
+Tanja Treffler: schicken hat geklappt
+Michael Linkamp: erhalten
+Michael Linkamp: PowerPoint-Folie erhalten ;-)
+Michael Linkamp: ja
+Gisela Neira: 
+Michael Linkamp: > stimmt nicht zu <
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: was ist mit danny?
+Stefan Kämmer: danny war das, glaube ich
+Michael Linkamp: > meldet sich <
+Michael Linkamp: Eine Klasse
+Stefan Kämmer: keine klasse :P
+Michael Linkamp: Ein Klassen-Template?
+-- 08:45
+Gisela Neira: #include <array>
+Stefan Kämmer: objektname?
+Michael Linkamp: Die Größe des Arrays
+Stefan Kämmer: ctor parameter?
+Michael Linkamp: bzw. die größe des Vectors
+Stefan Kämmer: template
+Michael Linkamp: den Datentyp
+Stefan Kämmer: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Gisela Neira: for(int i=0,...,...)
+-- 09:00
+Tanja Treffler: pop_back? nicht push_front?
+Gisela Neira: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+-- 09:15
+Michael Linkamp: call by ref
+Stefan Kämmer: referenz
+Stefan Kämmer: pause erst in 15min
+Michael Linkamp: > stimmt zu <
+Tanja Treffler: ab 9.35
+Michael Linkamp: unser objekt
+Stefan Kämmer: objekt
+Michael Linkamp: > stimmt zu <
+Heiko Christmann: > stimmt nicht zu <
+Stefan Kämmer: > stimmt nicht zu <
+Tanja Treffler: > stimmt nicht zu <
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+-- 09:30
+Stefan Kämmer: > meldet sich <
+Stefan Kämmer: ok :)
+Stefan Kämmer: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+-- 09:34 -- Prince Salasi Agblevor betritt den Raum Hauptraum
+Heiko Christmann: Pause
+Prince Salasi Agblevor: > meldet sich <
+Heiko Christmann: > ist momentan nicht ansprechbar <
+Stefan Kämmer: 5min?
+Stefan Kämmer: > ist momentan nicht ansprechbar <
+Gisela Neira: 09:46 Uhr
+-- 09:45
+Stefan Kämmer: > ist wieder ansprechbar <
+Heiko Christmann: > ist wieder ansprechbar <
+Prince Salasi Agblevor: > applaudiert <
+Stefan Kämmer: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Prince Salasi Agblevor: so lala
+Heiko Christmann: > hat eine Frage <
+Prince Salasi Agblevor: > meldet sich <
+Michael Linkamp: > stimmt zu <
+-- 09:57 -- Danny Fröhlich betritt den Raum Hauptraum
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > applaudiert <
+-- 10:00
+Danny Fröhlich: Kannst du mir das schicken?
+Danny Fröhlich: > stimmt zu <
+Danny Fröhlich: 0
+Stefan Kämmer: [0]
+Stefan Kämmer: 1 element
+Tanja Treffler: 1
+Prince Salasi Agblevor: > stimmt nicht zu <
+Tanja Treffler: > stimmt nicht zu <
+Michael Linkamp: > stimmt nicht zu <
+Danny Fröhlich: 4
+Danny Fröhlich: sorry
+Danny Fröhlich: nein
+Stefan Kämmer: exception
+Prince Salasi Agblevor: nein
+Danny Fröhlich: wie weit seid ihr auf den Folien gekommen
+Stefan Kämmer: alle @danny
+Tanja Treffler: die geschickten alle geguckt
+Danny Fröhlich: > stimmt zu <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: ist das dann ein 1x1 Matrix?
+Tanja Treffler: eher x10?
+Prince Salasi Agblevor: ahh ja sorry 1x10
+Stefan Kämmer: > meldet sich <
+Tanja Treffler: > stimmt zu <
+-- 10:15
+Stefan Kämmer: 10x1
+Prince Salasi Agblevor: > stimmt zu <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > hat verstanden <
+Stefan Kämmer: 10:25 ist pause
+Tanja Treffler: 10:25
+Prince Salasi Agblevor: Pause
+Prince Salasi Agblevor: > stimmt zu <
+Michael Linkamp: eher nicht, das wäre ja wahlfrei
+Heiko Christmann: > stimmt nicht zu <
+Stefan Kämmer: wahrscheinlich nicht?
+Prince Salasi Agblevor: > ist momentan nicht ansprechbar <
+Prince Salasi Agblevor: > ist wieder ansprechbar <
+Gisela Neira: 10:31 Uhr
+Prince Salasi Agblevor: > ist momentan nicht ansprechbar <
+Stefan Kämmer: > ist momentan nicht ansprechbar <
+Tanja Treffler: > ist momentan nicht ansprechbar <
+Heiko Christmann: > ist momentan nicht ansprechbar <
+-- 10:30
+Prince Salasi Agblevor: > ist wieder ansprechbar <
+Heiko Christmann: > ist wieder ansprechbar <
+Stefan Kämmer: > ist wieder ansprechbar <
+Danny Fröhlich: dankeschön
+Tanja Treffler: > ist wieder ansprechbar <
+Michael Linkamp: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Prince Salasi Agblevor: und push between? :D
+Prince Salasi Agblevor: 1
+Stefan Kämmer: rbegin=end
+-- 10:45
+Stefan Kämmer: das sind 6 Nullen :D
+Michael Linkamp: 1
+Stefan Kämmer: 6
+Prince Salasi Agblevor: 5
+Stefan Kämmer: 5+1=6
+Michael Linkamp: ups 
+Michael Linkamp: stimmt... wir haben ja schon 6
+Prince Salasi Agblevor: ahh 6
+Prince Salasi Agblevor: 22
+Stefan Kämmer: 5+2=7
+Stefan Kämmer: 2*5=10?
+Stefan Kämmer: > meldet sich <
+Michael Linkamp: > meldet sich <
+Michael Linkamp: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Gisela Neira: Stefan, bist Du da?
+Michael Linkamp: > meldet sich <
+Stefan Kämmer: bin wieder da
+Stefan Kämmer: netzwerkproblem
+Michael Linkamp: > meldet sich <
+Stefan Kämmer: size=anzahl elemente
+-- 11:00
+Stefan Kämmer: > meldet sich <
+Stefan Kämmer: 11:15
+Prince Salasi Agblevor: keine mehr
+Tanja Treffler: 11:15 wäre Ende
+Michael Linkamp: ja...
+Stefan Kämmer: include <>
+Michael Linkamp: mit #include eingebunden
+Gisela Neira: cin.fail();
+Gisela Neira: >>
+Gisela Neira: <<
+-- 11:15
+Tanja Treffler: theoretisch wäre jetzt Feierabend
+Tanja Treffler: > stimmt zu <
+Stefan Kämmer: sind vorher 5 min pause möglich?
+Michael Linkamp: > stimmt zu <
+Heiko Christmann: > meldet sich <
+Gisela Neira: 11:21 Uhr
+Prince Salasi Agblevor: wie logge ich mich von zu hause ein.Also die Seite
+Prince Salasi Agblevor: bzw. Link
+Stefan Kämmer: https://class-staging.viona24.com/vitero/download/viona.exe
+Stefan Kämmer: zuhause einfach die exe ausführen. fertig.
+Gisela Neira: 11:25 Uhr
+Stefan Kämmer: > ist momentan nicht ansprechbar <
+Michael Linkamp: > ist momentan nicht ansprechbar <
+Gisela Neira: > ist momentan nicht ansprechbar <
+Prince Salasi Agblevor: Muss ich die exe datei runterladen?Ich dachte man kann das online mitmachen, ohne irgenetwas zu installieren.
+Prince Salasi Agblevor: > ist momentan nicht ansprechbar <
+Gisela Neira: > ist wieder ansprechbar <
+Michael Linkamp: > ist wieder ansprechbar <
+Stefan Kämmer: > ist wieder ansprechbar <
+Prince Salasi Agblevor: > ist wieder ansprechbar <
+Stefan Kämmer: is wirklich super easy
+Stefan Kämmer: heikooo? :D
+Tanja Treffler: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Prince Salasi Agblevor: Ja, ich will halt nichts auf meinen Rechner installieren. @Stefan
+Stefan Kämmer: musst du zum glück auch nicht
+Prince Salasi Agblevor: Danke @Stefan
+-- 11:30
+Prince Salasi Agblevor: und Morgen?WIe ist der Ablauf?
+Danny Fröhlich: Ich hab wenig Zeit am Freitag
+Stefan Kämmer: 25 fragen, steht im bewertung.xlsx
+Stefan Kämmer: er ist noch da
+Danny Fröhlich: er ist noch da
+Heiko Christmann: ergänzt
+Tanja Treffler: ich hoffe ergänzt
+Prince Salasi Agblevor: gleich initialisiert
+Stefan Kämmer: dateiname an ctor übergeben
+Danny Fröhlich: gleich
+-- 11:45
+Prince Salasi Agblevor: cpp
+Stefan Kämmer: exception class
+Prince Salasi Agblevor: ok
+Stefan Kämmer: > meldet sich <
+Stefan Kämmer: ist close() einfach der dtor?
+Stefan Kämmer: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: 08:50
+Michael Linkamp: > stimmt nicht zu <
+Stefan Kämmer: > stimmt nicht zu <
+Heiko Christmann: > meldet sich <
+Michael Linkamp: > stimmt nicht zu <
+Danny Fröhlich: > applaudiert <
+Stefan Kämmer: > applaudiert <
+Tanja Treffler: > applaudiert <
+Gisela Neira: > applaudiert <
+Michael Linkamp: > applaudiert <
+Heiko Christmann: > applaudiert <
+Prince Salasi Agblevor: > applaudiert <
+Heiko Christmann: Tschüss
+-- 11:57 -- Gisela Neira verlässt den Raum
+-- 11:57 -- Danny Fröhlich verlässt den Raum
+-- 11:57 -- Michael Linkamp verlässt den Raum
+-- 11:57 -- Stefan Kämmer verlässt den Raum
+-- 11:57 -- Tanja Treffler verlässt den Raum
