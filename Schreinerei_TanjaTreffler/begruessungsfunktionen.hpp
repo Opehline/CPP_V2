@@ -19,6 +19,10 @@
 
 #define Testkunden 5 // Wie viele Kunden werden bedient?
 
+#define AUSNAHME_NaN     1
+#define AUSNAHME_ZuKlein 2
+#define AUSNAHME_Null    3
+
 #define PREISBERECHNUNG(t) (t) * getLager().getPreise()["tisch"]
 
 #ifndef begruessung_H
@@ -33,7 +37,7 @@ private:
 
 public:
     // Attribut für Ausnahmefallbehandlung
-    Ausnahmefallbehandlung ausnahmen;
+    //Ausnahmefallbehandlung ausnahmen;
     // Konstruktoren
     Begruessungsfunktionen();
     Begruessungsfunktionen(Lagern lager);
@@ -49,6 +53,7 @@ public:
     int bestellungsverifikation(int tisch); // Bestätigung + Machbarkeitsprüfung
     // 0 = False // 1 = True // 2 = Menge war zu hoch, mach nochmal
     void bilanzausgabe(int* auftraege);  // Wie viel wurde jedem verkauft?
+    void gueltigerBereich(int tisch);  // Bestellmenge in logischem Bereich? >0
 
 };
 #endif // begruessung_H

@@ -4,7 +4,7 @@
 
 #include <iostream>
 
-
+//#include "Begruessungsfunktionen.hpp"
 
 #ifndef AUSNAHMEFALLBEHANDLUNG_H
 #define AUSNAHMEFALLBEHANDLUNG_H

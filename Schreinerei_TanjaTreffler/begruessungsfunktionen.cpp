@@ -89,41 +89,56 @@ void Begruessungsfunktionen::startBetrieb(){
 /* Rückgabe: Anzahl gewünschter Tische */
 int Begruessungsfunktionen::kundenbegruessung(){
     int tische_kundenwunsch = 0;
-    std::cout << "Hallo Kunde. Wie viele Tische willst du kaufen?"
-        << std::endl;
+    try{
+        std::cout << "Hallo Kunde. Wie viele Tische willst du kaufen?"
+                  << std::endl;
+        std::cin >> tische_kundenwunsch;
+        // Test ob Eingabe tatsächlich int
+        if(!std::cin){
+            throw AUSNAHME_NaN;
+        }
+    }
+    catch(int e){
+        while(!std::cin){
+            std::cout << "Das war keine Zahl und geht so nicht." << std::endl;
+            std::cout << "Gib eine neue Zahl an Tischen ein: " << std::endl;
 
-    std::cin >> tische_kundenwunsch;
+            std::cin.clear();
+            std::cin.ignore(10000,'\n');
+
+            std::cin >> tische_kundenwunsch;
+        }
+        return tische_kundenwunsch;
+    }
 
     // try-catch, zum testen, ob Eingabe eine gültige Zahl
     #if 1
+    Ausnahmefallbehandlung ausnahmen;
     int bsp = ausnahmen.testeingabe();
     std::cout << bsp << " Testausgabe " << std::endl;
     #endif // 1
 
-    // Test ob Eingabe tatsächlich int
-    while(!std::cin){
-        std::cout << "Das war keine Zahl und geht so nicht." << std::endl;
-        std::cout << "Gib eine neue Zahl an Tischen ein: " << std::endl;
-
-        std::cin.clear();
-        std::cin.ignore(10000,'\n');
-
-        std::cin >> tische_kundenwunsch;
-    }
 
     std::cin.ignore(10000,'\n');
-
     std::cin.clear();
-    //Abfrage ob Zahl größer als 0
-    if(tische_kundenwunsch < 0){
-        std::cout << "Wir geben keine Tische aus und zahlen dafuer. "
-                  << "Die Bestellung wird verworfen. "  << std::endl;
-        tische_kundenwunsch = 0;
+
+    // Gültigkeitsbereich testen
+    try{
+        gueltigerBereich(tische_kundenwunsch);
     }
-    // Bestellmenge = 0
-    if(tische_kundenwunsch==0){
-        std::cout << "0 Tische sind keine Bestellung, schade." << std::endl;
+    catch(int e){
+        if(e == AUSNAHME_ZuKlein){
+            // <0
+            std::cout << "Wir geben keine Tische aus und zahlen dafuer. "
+                      << "Die Bestellung wird verworfen. "  << std::endl;
+        }
+        else if(e == AUSNAHME_Null){
+            // = 0
+            std::cout << "0 Tische sind keine Bestellung, schade." << std::endl;
+        }
     }
+
+
     return tische_kundenwunsch;
 };
 
@@ -213,6 +228,19 @@ void Begruessungsfunktionen::bilanzausgabe(int* auftraege){
     for(int i = 0; i<Testkunden; i++){
         std::cout << "Kunde " << i+1 << " hat " << *(auftraege+i)
                   << " Tische gekauft." << std::endl;
+    }
+}
+
+void Begruessungsfunktionen::gueltigerBereich(int tische){
+    // Test
+    std::cout << " Bla bla " << std::endl;
+    //Abfrage ob Zahl größer als 0
+    if(tische < 0){
+        throw AUSNAHME_ZuKlein;
+    }
+    // Bestellmenge = 0
+    if(tische == 0){
+        throw AUSNAHME_Null;
     }
 }
 
