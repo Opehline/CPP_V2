@@ -33,12 +33,16 @@ class Begruessungsfunktionen{
 /* Attribute */
 private:
     Lagern myLagern;
-    int n;     // Anzahl Testkunden
     int tische;
+    int tische_machbar;
     std::string bestellbestaetigung;
+    int kaufabschluss;
+    // Testbetrieb mit n Kunden
+    int auftragsbuch[Testkunden];
 
 
 public:
+    int i; // Schleifenparameter
     // Attribut für Ausnahmefallbehandlung
     Ausnahmefallbehandlung ausnahmen;
     // Konstruktoren

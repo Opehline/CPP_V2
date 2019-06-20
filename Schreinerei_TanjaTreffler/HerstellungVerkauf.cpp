@@ -5,18 +5,45 @@
 //#include "Lagerinitialisierung.hpp"
 #include "HerstellungVerkauf.hpp"
 
-/* Konstruktor */
+/* Konstruktoren, Destruktor */
 HerstellungVerkauf::HerstellungVerkauf(int tische_kunde){
     anzahltische = tische_kunde;
+    // Funktionsinterne Parameter
+    bedarf_n = 0;
+    bedarf_b = 0;
+    tische_n = 0;
+    tische_b = 0;
+    baubar = 0;
+    naegel_test = 0;
+    bretter_test = 0;
+    geld_test = 0.;
 }
 HerstellungVerkauf::HerstellungVerkauf(int tische_kunde,
                                        Begruessungsfunktionen _betrieb){
     anzahltische = tische_kunde;
     betrieb = betrieb;
+    // Funktionsinterne Parameter
+    bedarf_n = 0;
+    bedarf_b = 0;
+    tische_n = 0;
+    tische_b = 0;
+    baubar = 0;
+    naegel_test = 0;
+    bretter_test = 0;
+    geld_test = 0.;
 }
 HerstellungVerkauf::HerstellungVerkauf(int tische_kunde, Lagern* p_lager){
     anzahltische = tische_kunde;
     p_myLager = p_lager;
+    // Funktionsinterne Parameter
+    bedarf_n = 0;
+    bedarf_b = 0;
+    tische_n = 0;
+    tische_b = 0;
+    baubar = 0;
+    naegel_test = 0;
+    bretter_test = 0;
+    geld_test = 0.;
 }
 HerstellungVerkauf::~HerstellungVerkauf(){
     //std::cout << "HerstellungVerkauf-Objekt beseitigt" << std::endl;
@@ -50,11 +77,8 @@ void HerstellungVerkauf::setLager(Lagern* p_Lager){
     // Prüfung, ob machbar bereits in anderer Funktion
     // Lager ausreichend gefüllt? Wenn nicht genug da -> nachkaufen.
 
-    // getTische() statt Funktionsparameter (int tische_kunde)
-    int bedarf_n = getTische() * p_myLager->getNagelJeTisch();
-    int bedarf_b = getTische() * p_myLager->getBrettJeTisch();
-    //int bedarf_n = tische_kunde * nagelJeTisch;
-    //int bedarf_b = tische_kunde * brettJeTisch;
+    bedarf_n = getTische() * p_myLager->getNagelJeTisch();
+    bedarf_b = getTische() * p_myLager->getBrettJeTisch();
 
     while(p_myLager->meinInventar.bretter<bedarf_b ||
           p_myLager->meinInventar.naegel<bedarf_n){
@@ -83,16 +107,18 @@ void HerstellungVerkauf::setLager(Lagern* p_Lager){
  int HerstellungVerkauf::baubaretische(){
 
      // Tische aus Materialien         // ohne Nachkommastellen
-     int tische_n = p_myLager->meinInventar.naegel  / p_myLager->getNagelJeTisch();
-     int tische_b = p_myLager->meinInventar.bretter / p_myLager->getBrettJeTisch();
-     int baubar = std::min(tische_n, tische_b);
+     tische_n = p_myLager->meinInventar.naegel  / p_myLager->getNagelJeTisch();
+     tische_b = p_myLager->meinInventar.bretter / p_myLager->getBrettJeTisch();
+     baubar = std::min(tische_n, tische_b);
 
      // Weitere Materialien mit Geld kaufen
      // -> Lokal, um tatsächlichen Bestand nicht zu ändern!
      // Min-baubar schonmal abziehen
-     int naegel_test  = p_myLager->meinInventar.naegel  - baubar*p_myLager->getNagelJeTisch();
-     int bretter_test = p_myLager->meinInventar.bretter - baubar*p_myLager->getBrettJeTisch();
-     float geld_test  = p_myLager->meinInventar.geld;
+     naegel_test  = p_myLager->meinInventar.naegel  -
+                    baubar*p_myLager->getNagelJeTisch();
+     bretter_test = p_myLager->meinInventar.bretter -
+                    baubar*p_myLager->getBrettJeTisch();
+     geld_test    = p_myLager->meinInventar.geld;
 
      // Solange genug Geld  da ist (für 1x Bretter, 1x Nägel)
      // Beides, um nicht auf den letzten Cent zu spekulieren.

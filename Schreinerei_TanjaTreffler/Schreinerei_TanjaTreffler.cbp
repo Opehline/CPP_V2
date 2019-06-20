@@ -42,6 +42,10 @@
 		<Unit filename="HerstellungVerkauf.hpp" />
 		<Unit filename="Lagerinitialisierung.cpp" />
 		<Unit filename="Lagerinitialisierung.hpp" />
+		<Unit filename="Moebelstueck.cpp" />
+		<Unit filename="Moebelstueck.hpp" />
+		<Unit filename="Tisch.cpp" />
+		<Unit filename="Tisch.hpp" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />

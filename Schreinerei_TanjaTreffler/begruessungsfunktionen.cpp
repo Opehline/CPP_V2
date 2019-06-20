@@ -7,17 +7,25 @@
 
 /* Konstruktoren */
 Begruessungsfunktionen::Begruessungsfunktionen(){
-    n = Testkunden;
     tische = 0;
+    tische_machbar = 0;
     bestellbestaetigung = "";
+    kaufabschluss = 0;
+    i = 0;
+    // Testbetrieb mit n Kunden
+    auftragsbuch[Testkunden]={};
     //startBetrieb();
 }
 
 Begruessungsfunktionen::Begruessungsfunktionen(Lagern _lager){
-    n = Testkunden;
     myLagern = _lager;
     tische = 0;
+    tische_machbar =0;
     bestellbestaetigung = "";
+    kaufabschluss = 0;
+    i = 0;
+    // Testbetrieb mit n Kunden
+    auftragsbuch[Testkunden]={};
 }
 
 // get set
@@ -33,8 +41,6 @@ void Begruessungsfunktionen::setLager(Lagern _lager){
 
 /* Beginne mit dem Betrieb*/
 void Begruessungsfunktionen::startBetrieb(){
-    // Testbetrieb mit n Kunden
-    int auftragsbuch[n]={};
 
     // Lager-Randbedingungen = Ein Lager erzeugen
     #if 1
@@ -112,11 +118,11 @@ void Begruessungsfunktionen::kundenbegruessung(){
 /* Bestellüberprüfung */
 int Begruessungsfunktionen::bestellungsverifikation(){
 
-    bestellungverifikation: //Label für goto-Anweisung bei Verständnisproblemen
+    bestellungverifikation: //Label für goto-Anweisung bei Verständnisproblem
 
-    //machbar?
+    // machbar?
     HerstellungVerkauf hrstlgVrkf1(tische, &myLagern);
-    int tische_machbar = hrstlgVrkf1.baubaretische();
+    tische_machbar = hrstlgVrkf1.baubaretische();
 
     // Ja
     if(tische_machbar >= tische){
@@ -174,7 +180,7 @@ void Begruessungsfunktionen::bestellungsaufnahme(){
 
     if(tische > 0){
         // Bestätigung und Machbarkeitsprüfung
-        int kaufabschluss = bestellungsverifikation();
+        kaufabschluss = bestellungsverifikation();
         // 0: Bestellung wurde nicht bestätigt, beendet
         // 1: Bestellung bestätigt
         // 2: Bestellmenge zu groß
@@ -190,12 +196,13 @@ void Begruessungsfunktionen::bestellungsaufnahme(){
 
 /* Ausgabe Auftragsbuch */
 void Begruessungsfunktionen::bilanzausgabe(int* auftraege){
-    for(int i = 0; i<Testkunden; i++){
+    for(i = 0; i<Testkunden; i++){
         std::cout << "Kunde " << i+1 << " hat " << *(auftraege+i)
                   << " Tische gekauft." << std::endl;
     }
 }
 
+/* Gültigkeitsbereich der Bestellung prüfen */
 void Begruessungsfunktionen::gueltigerBereich(){
     //Abfrage ob Zahl größer als 0
     if(tische < 0){

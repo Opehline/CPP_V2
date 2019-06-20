@@ -13,7 +13,11 @@ class Ausnahmefallbehandlung
 {
     public:
         // Attribut
+        /* geht nicht: Fehlermeldung
+        a) Attrribut einkommentieren, include hpp in cpp -> does not Name a typ
+        b) include hpp hier -> nested too deeply
         //Begruessungsfunktionen einBetrieb;
+        */
 
         Ausnahmefallbehandlung();
         virtual ~Ausnahmefallbehandlung();
