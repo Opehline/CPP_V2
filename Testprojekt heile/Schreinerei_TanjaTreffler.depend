@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1561010169 source:c:\users\ttreffler\desktop\testprojekt\ausnahmefallbehandlung.cpp
+	"Begruessungsfunktionen.hpp"
+	"Ausnahmefallbehandlung.hpp"
+
+1561122778 c:\users\ttreffler\desktop\testprojekt\begruessungsfunktionen.hpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<string>
+	<typeinfo>
+	<thread>
+	<chrono>
+	<map>
+	<iterator>
+	"Tisch.hpp"
+	"Lagerinitialisierung.hpp"
+	"Ausnahmefallbehandlung.hpp"
+
+1561121776 c:\users\ttreffler\desktop\testprojekt\tisch.hpp
+	<iostream>
+	"Moebelstueck.hpp"
+
+1561121737 c:\users\ttreffler\desktop\testprojekt\moebelstueck.hpp
+	<iostream>
+
+1561125064 c:\users\ttreffler\desktop\testprojekt\lagerinitialisierung.hpp
+	<iostream>
+	<map>
+	<iterator>
+	<string>
+
+1561010337 c:\users\ttreffler\desktop\testprojekt\ausnahmefallbehandlung.hpp
+	<iostream>
+
+1561125636 source:c:\users\ttreffler\desktop\testprojekt\begruessungsfunktionen.cpp
+	"begruessungsfunktionen.hpp"
+	"HerstellungVerkauf.hpp"
+
+1561122778 c:\users\ttreffler\desktop\testprojekt\herstellungverkauf.hpp
+	<iostream>
+	"Begruessungsfunktionen.hpp"
+	"Lagerinitialisierung.hpp"
+	"Tisch.hpp"
+
+1561123668 source:c:\users\ttreffler\desktop\testprojekt\herstellungverkauf.cpp
+	"HerstellungVerkauf.hpp"
+
+1561125057 source:c:\users\ttreffler\desktop\testprojekt\lagerinitialisierung.cpp
+	"Lagerinitialisierung.hpp"
+
+1560947638 source:c:\users\ttreffler\desktop\testprojekt\main.cpp
+	<iostream>
+	"Lagerinitialisierung.hpp"
+	"Begruessungsfunktionen.hpp"
+
+1561014001 source:c:\users\ttreffler\desktop\testprojekt\moebelstueck.cpp
+	"Moebelstueck.hpp"
+
+1561122561 source:c:\users\ttreffler\desktop\testprojekt\schrank.cpp
+	"Schrank.hpp"
+
+1561122314 c:\users\ttreffler\desktop\testprojekt\schrank.hpp
+	"Moebelstueck.hpp"
+
+1561121521 source:c:\users\ttreffler\desktop\testprojekt\tisch.cpp
+	"Tisch.hpp"
+

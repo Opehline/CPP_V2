@@ -129,12 +129,22 @@ int Begruessungsfunktionen::bestellungsverifikation(){
 
     // Ja
     if(tische_machbar >= tische){
+
+        #if 0
+        std::cout << tisch.getPreis() << " Tischpreis " << std::endl;
+        std::cout << tische << " bestellte Tische  " << std::endl;
+        std::cout << tische * tisch.getPreis() << " Multiplikation\n"<<std::endl;
+        #endif // 0
+
+        std::cout << tische << " Tische also. " << "Das kostet "
+                  << tische * tisch.getPreis() <<" Geld. \n";
+
         # if 0 // Makro PREISBERECHNUNG anpassen oder unnötig?
         std::cout << tische << " Tische also. " << "Das kostet "
                   << PREISBERECHNUNG(tische) <<" Geld. ";
         #elseif 1 // Tisch als Attribut
         std::cout << tische << " Tische also. " << "Das kostet "
-                  << tische* tisch.getPreis() <<" Geld. ";
+                  << tische * tisch.getPreis() <<" Geld. ";
         #else
         std::cout << tische << " Tische also. " << "Das kostet "
                   << tische*getLager().getPreise()["tisch"] <<" Geld. ";

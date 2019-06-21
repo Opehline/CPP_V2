@@ -1,0 +1,568 @@
+-----------------------------------------------
+Betreten des Gruppenraums "C++ Aufbaukurs"
+21.06.2019 08:24 Uhr
+-----------------------------------------------
+-- 08:24 -- Tanja Treffler betritt den Raum Hauptraum
+Tanja Treffler: > ist momentan nicht ansprechbar <
+Prince Salasi Agblevor: > ist wieder ansprechbar <
+-- 08:30
+-- 08:44 -- Michael Linkamp betritt den Raum Hauptraum
+Michael Linkamp: Schönen guten Morgen ;-)
+-- 08:45
+Michael Linkamp: > ist momentan nicht ansprechbar <
+-- 08:46 -- Heiko Christmann betritt den Raum Hauptraum
+Heiko Christmann: Guten Morgen
+Heiko Christmann: > ist momentan nicht ansprechbar <
+Gisela Neira: > ist wieder ansprechbar <
+Heiko Christmann: > ist wieder ansprechbar <
+Michael Linkamp: > ist wieder ansprechbar <
+Tanja Treffler: > ist wieder ansprechbar <
+Tanja Treffler: Guten Morgen :)
+-- 08:49 -- Stefan Kämmer betritt den Raum Hauptraum
+Stefan Kämmer: morgen :)
+Gisela Neira: Schönen guten Morgen!
+Michael Linkamp: Hallo
+Tanja Treffler: > stimmt zu <
+Danny Fröhlich: Guten Morgen
+Danny Fröhlich: > stimmt zu <
+Danny Fröhlich: > meldet sich <
+Heiko Christmann: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Prince Salasi Agblevor: > meldet sich <
+Tanja Treffler: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Heiko Christmann: zum Teil ja
+Michael Linkamp: ~
+Danny Fröhlich: ja zum teil
+Tanja Treffler: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Stefan Kämmer: QT fände ich gut
+Tanja Treffler: > stimmt zu <
+Heiko Christmann: gute Idee
+Michael Linkamp: . *. :: ? : und sizeof
+Stefan Kämmer: . *.  ::  ?:  sizeof
+Danny Fröhlich: . .* :: sizeof ?:
+Tanja Treffler: .  *. :: ?: sizeof
+Danny Fröhlich: alle anderen
+Tanja Treffler: alle anderen
+Stefan Kämmer: protected, public
+Michael Linkamp: protected und public
+Heiko Christmann: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Tanja Treffler: sollten wir deinen Bildschirm sehen?
+Danny Fröhlich: sehen wir auch
+Michael Linkamp: > stimmt zu <
+Tanja Treffler: oh
+Tanja Treffler: einmal Viona klein machen hat geholfen
+Stefan Kämmer: Alle Operatoren werden vererbt, = ist die Ausnahme
+-- 09:00
+Stefan Kämmer: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Michael Linkamp: copy-konstruktor
+Michael Linkamp: wie beim array
+Tanja Treffler: setter
+Danny Fröhlich: objekt initialisierung
+Prince Salasi Agblevor: adressen
+Michael Linkamp: > stimmt zu <
+Danny Fröhlich: > stimmt nicht zu <
+Tanja Treffler: wäre "setter" eine falsche Antwort?
+Stefan Kämmer: objekt erstellen
+Tanja Treffler: erzeugung?
+Heiko Christmann: Objekt anlegen
+Prince Salasi Agblevor: zuweisung von objekt
+Michael Linkamp: Speicher reservieren
+Prince Salasi Agblevor: zuweisung
+Stefan Kämmer: dass den variablen werte zugewiesen werden
+Tanja Treffler: num 1. Mal mit Wert belegen
+-- 09:15
+Tanja Treffler: ja, kann ich mit leben
+Danny Fröhlich: also einfach nur int a=0;
+Tanja Treffler: joa :D
+Prince Salasi Agblevor: emm
+Tanja Treffler: > stimmt zu <
+Prince Salasi Agblevor: w
+Stefan Kämmer: die frage ist zweideutig
+Michael Linkamp: Ja.
+Stefan Kämmer: > meldet sich <
+Prince Salasi Agblevor: ja
+Heiko Christmann: Ja
+Tanja Treffler: ja
+Danny Fröhlich: ja poer defauklt
+Danny Fröhlich: dann machts der compiler
+Stefan Kämmer: aso, ja. bin noch müde :D
+Stefan Kämmer: compiler
+Stefan Kämmer: ja, außer dtor
+Michael Linkamp: Ja
+Tanja Treffler: destruktor nicht
+Danny Fröhlich: wenn der Parametertyp übereinstimmt
+Stefan Kämmer: ctor ja, dtor nein
+Danny Fröhlich: > meldet sich <
+Tanja Treffler: weil keine parameter
+Prince Salasi Agblevor: keine rückgabenwert
+Stefan Kämmer: unterschiedliche input args
+Michael Linkamp: die unterschiedliche Parametersignatur
+Danny Fröhlich: nein
+Heiko Christmann: Nein
+Danny Fröhlich: Parametertyp 
+Michael Linkamp: nein
+Stefan Kämmer: nein
+Danny Fröhlich: nein
+Prince Salasi Agblevor: > stimmt nicht zu <
+Heiko Christmann: > stimmt nicht zu <
+Tanja Treffler: > stimmt nicht zu <
+Prince Salasi Agblevor: > stimmt zu <
+Tanja Treffler: > stimmt nicht zu <
+Michael Linkamp: auch nein
+Heiko Christmann: > stimmt nicht zu <
+Stefan Kämmer: > stimmt nicht zu <
+Prince Salasi Agblevor: > stimmt nicht zu <
+Danny Fröhlich: > stimmt nicht zu <
+Prince Salasi Agblevor: > stimmt zu <
+Stefan Kämmer: > meldet sich <
+Tanja Treffler: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Michael Linkamp: wegen des virtuellen namens der funktion?
+Michael Linkamp: ja
+Stefan Kämmer: > stimmt zu <
+Danny Fröhlich: ja
+Michael Linkamp: Bellenintint
+Tanja Treffler: > stimmt zu <
+Tanja Treffler: in c++ nein
+Heiko Christmann: > stimmt nicht zu <
+Michael Linkamp: Nein
+-- 09:30
+Prince Salasi Agblevor: > stimmt nicht zu <
+Danny Fröhlich: > stimmt nicht zu <
+Prince Salasi Agblevor: > stimmt zu <
+Prince Salasi Agblevor: > stimmt nicht zu <
+Prince Salasi Agblevor: > stimmt zu <
+Prince Salasi Agblevor: warum ist das nicht möglich.
+Prince Salasi Agblevor: > meldet sich <
+Stefan Kämmer: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Stefan Kämmer: nein, siehe diamantenproblem
+Tanja Treffler: Ja, sie müssen nur eindeutig adressiert werden. Vater.a und Mutter.a
+Prince Salasi Agblevor: > meldet sich <
+Tanja Treffler: okay
+Stefan Kämmer: unterschiedliche parametersignatur
+Michael Linkamp: nur bei unterschiedlicher Parametersignatur
+Danny Fröhlich: Immer
+Stefan Kämmer: immer?
+Michael Linkamp: bei gleichennamigen Funktionsnamen
+Danny Fröhlich: > stimmt zu <
+Tanja Treffler: :D
+Danny Fröhlich: auch immer
+-- 09:45
+Michael Linkamp: Ja
+Stefan Kämmer: std::vector
+Tanja Treffler: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Stefan Kämmer: > meldet sich <
+Danny Fröhlich: eine methode des Objekt 2 wir durch Objekt 1 aufgerufen
+Tanja Treffler: Objekt objekt1 hat ein Attribut objektZwei in dessen Klasse die Methode methode() steht und diese wird aufgerufen
+Michael Linkamp: verketteter Aufruf der Memberfunktion methode()
+Michael Linkamp: wenn objektZwei public ist
+Stefan Kämmer: nested function?
+Stefan Kämmer: nested class
+Tanja Treffler: wenn man verschiedene Klassen verknüpft
+Michael Linkamp: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Stefan Kämmer: in Klasse deklarierte Funktion
+Tanja Treffler: Funktionen, Fähigkeiten
+Michael Linkamp: Memberfunktionen in einer Klasse
+Heiko Christmann: Memberfunktionen
+Stefan Kämmer: Funktion in Klasse implementiert
+Danny Fröhlich: wenn eine Fkt innerhalb einer klasse deklarisiert ist
+Stefan Kämmer: > hat eine Frage <
+Tanja Treffler: ist etwas schneller
+Michael Linkamp: > meldet sich <
+Stefan Kämmer: compiler geht anders damit um
+Michael Linkamp: > meldet sich <
+Stefan Kämmer: > meldet sich <
+Stefan Kämmer: > meldet sich <
+Michael Linkamp: nein
+Tanja Treffler: > stimmt nicht zu <
+Stefan Kämmer: > stimmt nicht zu <
+Prince Salasi Agblevor: > stimmt nicht zu <
+Stefan Kämmer: > stimmt nicht zu <
+Danny Fröhlich: > stimmt nicht zu <
+-- 10:00
+Stefan Kämmer: > stimmt zu <
+Michael Linkamp: > hat verstanden <
+Heiko Christmann: > stimmt zu <
+Michael Linkamp: ja
+Danny Fröhlich: > stimmt zu <
+Danny Fröhlich: > hat verstanden <
+Tanja Treffler: > hat verstanden <
+Michael Linkamp: hab noch welche übrig
+Gisela Neira: friend
+Gisela Neira: objekt.a=4;
+Prince Salasi Agblevor: > stimmt zu <
+Danny Fröhlich: 10min
+Prince Salasi Agblevor: 10
+Tanja Treffler: 10?
+Stefan Kämmer: ich hätte noch fragen
+Michael Linkamp: > stimmt zu <
+Heiko Christmann: 10
+Gisela Neira: 10:17 Uhr
+Heiko Christmann: > ist momentan nicht ansprechbar <
+Heiko Christmann: > ist wieder ansprechbar <
+Michael Linkamp: > ist momentan nicht ansprechbar <
+Danny Fröhlich: > ist momentan nicht ansprechbar <
+Heiko Christmann: > ist momentan nicht ansprechbar <
+Danny Fröhlich: > ist wieder ansprechbar <
+Prince Salasi Agblevor: > ist momentan nicht ansprechbar <
+Gisela Neira: > ist momentan nicht ansprechbar <
+Stefan Kämmer: > ist momentan nicht ansprechbar <
+-- 10:15
+Prince Salasi Agblevor: > ist wieder ansprechbar <
+Stefan Kämmer: > ist wieder ansprechbar <
+Michael Linkamp: > ist wieder ansprechbar <
+Heiko Christmann: > ist wieder ansprechbar <
+Gisela Neira: > ist wieder ansprechbar <
+Stefan Kämmer: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Heiko Christmann: Ja
+Stefan Kämmer: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Gisela Neira: include
+Gisela Neira: > meldet sich <
+Gisela Neira: > meldet sich <
+Gisela Neira: > meldet sich <
+Gisela Neira: > meldet sich <
+Gisela Neira: > meldet sich <
+Gisela Neira: fertig
+Stefan Kämmer: standort?
+Gisela Neira: include
+Danny Fröhlich: genau
+Danny Fröhlich: Hamburg bei mir
+Stefan Kämmer: kp :D
+Danny Fröhlich: dein zuständiger Ort
+Stefan Kämmer: alles klar
+Gisela Neira: > meldet sich <
+Gisela Neira: > meldet sich <
+Gisela Neira: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Heiko Christmann: > ist momentan nicht ansprechbar <
+Gisela Neira: > ist momentan nicht ansprechbar <
+Heiko Christmann: > ist wieder ansprechbar <
+Heiko Christmann: Folge 11 ist für mich nicht eindeutig formuliert
+Heiko Christmann: > meldet sich <
+-- 10:30
+Heiko Christmann: > meldet sich <
+Gisela Neira: > ist wieder ansprechbar <
+-- 10:33 -- Heiko Christmann verlässt den Raum
+-- 10:33 -- Gisela Neira verlässt den Raum
+-- 10:34 -- Heiko Christmann betritt den Raum Hauptraum
+-- 10:34 -- Gisela Neira betritt den Raum Hauptraum
+Gisela Neira: > ist momentan nicht ansprechbar <
+Danny Fröhlich: > meldet sich <
+Gisela Neira: > ist wieder ansprechbar <
+Heiko Christmann: > ist momentan nicht ansprechbar <
+Heiko Christmann: > ist wieder ansprechbar <
+Heiko Christmann: > ist momentan nicht ansprechbar <
+Heiko Christmann: > ist wieder ansprechbar <
+Gisela Neira: > ist momentan nicht ansprechbar <
+Prince Salasi Agblevor: > meldet sich <
+Stefan Kämmer: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Gisela Neira: > ist wieder ansprechbar <
+-- 10:40 -- Stefan Kämmer verlässt den Raum
+-- 10:40 -- Prince Salasi Agblevor verlässt den Raum
+-- 10:40 -- Gisela Neira verlässt den Raum
+-- 10:41 -- Stefan Kämmer betritt den Raum Hauptraum
+-- 10:43 -- Gisela Neira betritt den Raum Hauptraum
+-- 10:43 -- Prince Salasi Agblevor betritt den Raum Hauptraum
+Danny Fröhlich: > meldet sich <
+-- 10:43 -- Danny Fröhlich verlässt den Raum
+-- 10:43 -- Gisela Neira verlässt den Raum
+-- 10:45
+Prince Salasi Agblevor: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+-- 10:48 -- Gisela Neira betritt den Raum Hauptraum
+-- 10:48 -- Danny Fröhlich betritt den Raum Hauptraum
+Gisela Neira: > ist momentan nicht ansprechbar <
+Gisela Neira: > ist wieder ansprechbar <
+-- 10:49 -- Prince Salasi Agblevor verlässt den Raum
+-- 10:49 -- Gisela Neira verlässt den Raum
+-- 10:51 -- Prince Salasi Agblevor betritt den Raum Hauptraum
+-- 10:51 -- Gisela Neira betritt den Raum Hauptraum
+Gisela Neira: > ist momentan nicht ansprechbar <
+Stefan Kämmer: > meldet sich <
+Danny Fröhlich: > meldet sich <
+Tanja Treffler: > meldet sich <
+Gisela Neira: > ist wieder ansprechbar <
+-- 10:56 -- Stefan Kämmer verlässt den Raum
+-- 10:56 -- Danny Fröhlich verlässt den Raum
+-- 10:56 -- Tanja Treffler verlässt den Raum
+-- 10:56 -- Tanja Treffler betritt den RaumNebenraum -  A
+-- 10:56 -- Gisela Neira betritt den RaumNebenraum -  A
+Stefan Kämmer: ich höre dich nicht
+-- 10:58 -- Stefan Kämmer verlässt den Raum
+Danny Fröhlich: > meldet sich <
+-- 11:00
+-- 11:00 -- Danny Fröhlich verlässt den Raum
+Gisela Neira: cout <<
+Gisela Neira: meinStream <<
+-- 11:03 -- Danny Fröhlich betritt den RaumNebenraum -  A
+Danny Fröhlich: > meldet sich <
+-- 11:09 -- Tanja Treffler verlässt den Raum
+-- 11:09 -- Tanja Treffler betritt den Raum Hauptraum
+Michael Linkamp: fertig
+-- 11:09 -- Stefan Kämmer verlässt den Raum
+-- 11:10 -- Danny Fröhlich betritt den Raum Hauptraum
+Tanja Treffler: > meldet sich <
+Prince Salasi Agblevor: > meldet sich <
+Heiko Christmann: fertig
+-- 11:12 -- Danny Fröhlich verlässt den Raum
+Tanja Treffler: @Prince: Wechsel einfach direkt rüber
+Heiko Christmann: > ist momentan nicht ansprechbar <
+-- 11:14 -- Prince Salasi Agblevor verlässt den Raum
+-- 11:14 -- Stefan Kämmer betritt den Raum Hauptraum
+-- 11:15
+-- 11:15 -- Danny Fröhlich betritt den Raum Hauptraum
+Tanja Treffler: fertig
+-- 11:18 -- Stefan Kämmer verlässt den Raum
+-- 11:18 -- Gisela Neira betritt den Raum Hauptraum
+-- 11:18 -- Prince Salasi Agblevor betritt den Raum Hauptraum
+-- 11:18 -- Stefan Kämmer betritt den Raum Hauptraum
+Danny Fröhlich: fertig
+Stefan Kämmer: > meldet sich <
+-- 11:18 -- Stefan Kämmer verlässt den Raum
+-- 11:18 -- Gisela Neira verlässt den Raum
+Prince Salasi Agblevor: fertig
+Heiko Christmann: > ist wieder ansprechbar <
+-- 11:21 -- Gisela Neira betritt den Raum Hauptraum
+-- 11:21 -- Stefan Kämmer betritt den Raum Hauptraum
+Stefan Kämmer: fertig
+Stefan Kämmer: liest sich wie google translate
+Stefan Kämmer: fertig
+Tanja Treffler: > meldet sich <
+Heiko Christmann: sehr gut
+Danny Fröhlich: habs gut bestanden
+Michael Linkamp: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Gisela Neira: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Gisela Neira: > stimmt nicht zu <
+Danny Fröhlich: > stimmt zu <
+Gisela Neira: > stimmt zu <
+Prince Salasi Agblevor: sehr gut,
+Heiko Christmann: 12.05
+Danny Fröhlich: ^12
+Prince Salasi Agblevor: struct ist public
+Stefan Kämmer: union ist auch public
+Tanja Treffler: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Prince Salasi Agblevor: wann kriegen wir die Noten spätestens?
+Stefan Kämmer: 5min pause
+Stefan Kämmer: > stimmt zu <
+Prince Salasi Agblevor: ok danke
+Prince Salasi Agblevor: > ist momentan nicht ansprechbar <
+Michael Linkamp: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Michael Linkamp: Klasse
+Tanja Treffler: > ist momentan nicht ansprechbar <
+Heiko Christmann: > ist momentan nicht ansprechbar <
+Gisela Neira: 11:35 Uhr
+Stefan Kämmer: > ist momentan nicht ansprechbar <
+Gisela Neira: > ist momentan nicht ansprechbar <
+Stefan Kämmer: > ist wieder ansprechbar <
+Michael Linkamp: > ist momentan nicht ansprechbar <
+-- 11:30
+Prince Salasi Agblevor: > ist wieder ansprechbar <
+Prince Salasi Agblevor: wie sieht euer Modulverlaufsplan aus? Ich habe bei mir nichts stehen :D
+Stefan Kämmer: hab ihn im laufe der zeit ausgefüllt
+Stefan Kämmer: hab immer mitgeschrieben
+Stefan Kämmer: > ist momentan nicht ansprechbar <
+Gisela Neira: > ist wieder ansprechbar <
+Tanja Treffler: > ist wieder ansprechbar <
+Michael Linkamp: > ist wieder ansprechbar <
+Stefan Kämmer: > ist wieder ansprechbar <
+Prince Salasi Agblevor: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Danny Fröhlich: KEINE aHNUNG
+Michael Linkamp: > stimmt nicht zu <
+Stefan Kämmer: weiß nicht
+Tanja Treffler: > stimmt nicht zu <
+Michael Linkamp: bei mir nicht
+Stefan Kämmer: ah oben rechts
+Michael Linkamp: kein qt
+Danny Fröhlich: > stimmt nicht zu <
+Stefan Kämmer: kein qt
+Prince Salasi Agblevor: > stimmt zu <
+Michael Linkamp: aber zugucken geht ja auch
+Prince Salasi Agblevor: ich habe  QT :P
+Tanja Treffler: wohl nur bei bedarf
+Heiko Christmann: > ist wieder ansprechbar <
+Stefan Kämmer: zugucken ist besser als nix
+Prince Salasi Agblevor: > meldet sich <
+Stefan Kämmer: karosse
+Tanja Treffler: Karosserie?
+Prince Salasi Agblevor: > applaudiert <
+-- 11:45
+Danny Fröhlich: klingt ökologisch verträglich
+Danny Fröhlich: kein Motor keine Abgase
+Stefan Kämmer: flintstones
+Danny Fröhlich: Feuerstein
+Danny Fröhlich: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Michael Linkamp: ~
+Stefan Kämmer: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Danny Fröhlich: 176 beiträge sieht nach viel Arbeit aus
+Danny Fröhlich: > stimmt zu <
+-- 12:00
+Michael Linkamp: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Stefan Kämmer: ist grau
+Stefan Kämmer: projekt ?
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: 12:35
+Heiko Christmann: > stimmt zu <
+Tanja Treffler: > stimmt zu <
+Gisela Neira: 12:35 Uhr
+Heiko Christmann: > ist momentan nicht ansprechbar <
+Gisela Neira: > ist momentan nicht ansprechbar <
+Danny Fröhlich: > ist momentan nicht ansprechbar <
+Michael Linkamp: > ist momentan nicht ansprechbar <
+Stefan Kämmer: > ist momentan nicht ansprechbar <
+Tanja Treffler: > ist momentan nicht ansprechbar <
+-- 12:15
+-- 12:30
+Danny Fröhlich: > ist wieder ansprechbar <
+Heiko Christmann: > ist wieder ansprechbar <
+Gisela Neira: > ist wieder ansprechbar <
+Michael Linkamp: > ist wieder ansprechbar <
+Michael Linkamp: > stimmt zu <
+Prince Salasi Agblevor: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Danny Fröhlich: > stimmt zu <
+Stefan Kämmer: > ist wieder ansprechbar <
+Stefan Kämmer: > applaudiert <
+Tanja Treffler: > ist wieder ansprechbar <
+Stefan Kämmer: > stimmt zu <
+Heiko Christmann: > stimmt zu <
+Danny Fröhlich: ein bischen
+Danny Fröhlich: die Argumente
+Stefan Kämmer: parameterübergabe
+Danny Fröhlich: > hat eine Frage <
+Tanja Treffler: argument count/value?
+Stefan Kämmer: objekt
+Michael Linkamp: objekt
+Michael Linkamp: Klassse QCoreApplication
+-- 12:45
+Prince Salasi Agblevor: > ist momentan nicht ansprechbar <
+Michael Linkamp: > stimmt nicht zu <
+Heiko Christmann: > stimmt nicht zu <
+Stefan Kämmer: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Stefan Kämmer: ich nehme aber lieber photoshop :)
+Prince Salasi Agblevor: > ist wieder ansprechbar <
+Prince Salasi Agblevor: sorry habe einen Anruf bekommen.
+-- 13:00
+Stefan Kämmer: 20min
+Michael Linkamp: weil wir viel speicher brauchen?
+Stefan Kämmer: weil sie so groß ist?
+Michael Linkamp: passt nicht alles auf den stack?
+Danny Fröhlich: yeahiiii
+Stefan Kämmer: erinnert an Matlab's GUIDE
+Danny Fröhlich: wie bekommt man funktionalität rein?
+-- 13:15
+Stefan Kämmer: wunderschön :D
+Prince Salasi Agblevor: wir können noch ein Bisschen weiter machen, das macht spaß :D
+Danny Fröhlich: nein
+Stefan Kämmer: > stimmt nicht zu <
+Prince Salasi Agblevor: cpp
+Stefan Kämmer: usere
+Michael Linkamp: > hat verstanden <
+Stefan Kämmer: > stimmt zu <
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: weniger :D
+Tanja Treffler: geht so  
+Prince Salasi Agblevor: > stimmt zu <
+Heiko Christmann: wollte noch an der Projektarbeit arbeiten
+Michael Linkamp: > stimmt zu <
+Heiko Christmann: > stimmt nicht zu <
+Stefan Kämmer: ein script geht noch :D
+Gisela Neira: > applaudiert <
+Heiko Christmann: > applaudiert <
+Michael Linkamp: > stimmt zu <
+Tanja Treffler: sehr schön, danke!
+Heiko Christmann: Danke und tschüss.
+Michael Linkamp: das ist super
+Danny Fröhlich: > applaudiert <
+-- 13:30
+-- 13:30 -- Heiko Christmann verlässt den Raum
+Michael Linkamp: > stimmt zu <
+Stefan Kämmer: die kompletten?
+Danny Fröhlich: > stimmt zu <
+Stefan Kämmer: > stimmt zu <
+Prince Salasi Agblevor: bis jetzt wurde noch kein selbstgrschriebenes Programm implimentiert oder??
+Stefan Kämmer: wird haben nur keine ahnung
+Stefan Kämmer: heap
+Michael Linkamp: im heeap
+Stefan Kämmer: sieht nicht so schwer aus
+Prince Salasi Agblevor: sieht aber mehr java aus als cpp
+Prince Salasi Agblevor: > meldet sich <
+Danny Fröhlich: ich muß leider los
+Danny Fröhlich: Tschüß Leute war super nett mit euch
+Stefan Kämmer: ciao Danny :)
+Tanja Treffler: tschau, alles Gute!
+Danny Fröhlich: > applaudiert <
+-- 13:44 -- Danny Fröhlich verlässt den Raum
+-- 13:45
+Michael Linkamp: > stimmt nicht zu <
+Stefan Kämmer: keine fragen :)
+Michael Linkamp: > applaudiert <
+Tanja Treffler: eine Frage zum Projekt?
+Gisela Neira: > applaudiert <
+Gisela Neira: > applaudiert <
+Gisela Neira: > applaudiert <
+Gisela Neira: > applaudiert <
+Gisela Neira: > applaudiert <
+Gisela Neira: > applaudiert <
+Gisela Neira: > applaudiert <
+Stefan Kämmer: danke für den Kurs :)
+Prince Salasi Agblevor: schönes Wochende
+Michael Linkamp: Vielen Dank für den guten Unterricht!
+Stefan Kämmer: > applaudiert <
+-- 13:53 -- Stefan Kämmer verlässt den Raum
+-- 13:53 -- Michael Linkamp verlässt den Raum
+Gisela Neira: > applaudiert <
+Gisela Neira: > applaudiert <
+-- 13:54 -- Prince Salasi Agblevor verlässt den Raum
+-- 14:00
+-- 14:00 -- Gisela Neira verlässt den Raum
+-- 14:00 -- Tanja Treffler verlässt den Raum

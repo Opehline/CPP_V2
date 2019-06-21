@@ -11,9 +11,6 @@ Lagern::Lagern(){
     /* Einkaufsgrößen */
     NAGELKAUFEINHEIT = 500;
     BRETTKAUFEINHEIT = 100;
-    /* Zusammensetzumg */
-    //nagelJeTisch = 27;
-    brettJeTisch = 18;
 
     // Materialpreise
     preise = {
@@ -23,14 +20,11 @@ Lagern::Lagern(){
 
     meinInventar = {300, 50, 0, 200}; // Nagel, Brett, Tisch, Geld
 };
-Lagern::Lagern(int _NAGELKAUFEINHEIT, int _BRETTKAUFEINHEIT, int _nagelJeTisch,
-           int _brettJeTisch, std::map<std::string, float> _preise){
+Lagern::Lagern(int _NAGELKAUFEINHEIT, int _BRETTKAUFEINHEIT,
+               std::map<std::string, float> _preise){
     /* Einkaufsgrößen */
     NAGELKAUFEINHEIT = _NAGELKAUFEINHEIT;
     BRETTKAUFEINHEIT = _BRETTKAUFEINHEIT;
-    /* Zusammensetzumg */
-    nagelJeTisch = _nagelJeTisch;
-    brettJeTisch = _brettJeTisch;
     preise       = _preise;
 };
 
@@ -40,12 +34,6 @@ int Lagern::getNagelkaufeinheit(){
 }
 int Lagern::getBrettkaufeinheit(){
     return BRETTKAUFEINHEIT;
-}
-int Lagern::getNagelJeTisch(){
-    return nagelJeTisch;
-}
-int Lagern::getBrettJeTisch(){
-    return brettJeTisch;
 }
 std::map<std::string, float> Lagern::getPreise(){
     return preise;

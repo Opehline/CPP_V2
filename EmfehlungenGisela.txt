@@ -4,6 +4,7 @@ SQL Server (Windows, Access)
 
 
 Qt  (für Oberflächen, 100% C++)
+-> https://www.youtube.com/watch?v=6KtOzh0StTc&list=PL2D1942A4688E9D63
 gtk (für Oberflächen, komplett C)
 
 

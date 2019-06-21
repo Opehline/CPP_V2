@@ -2,32 +2,29 @@
 //   Projekt für C++ Aufbaukurs
 //   Schreinerei vereinfacht abbilden
 
-#include <iostream>
+#include "Moebelstueck.hpp"
 
-#include"Moebelstueck.hpp"
 
-#ifndef TISCH_H
-#define TISCH_H
-class Tisch : public Moebelstueck{
-
-/* Geerbt:
+#ifndef SCHRANK_H
+#define SCHRANK_H
+class Schrank : public Moebelstueck{
+    /* Geerbt:
 protected:
     float preis;
     //Zusammensetzung
     int bretter;
     int naegel;*/
 
-public:
-
+private:
+    int schrauben;
 
 public:
     /* Konstruktor */
-    Tisch();
+    Schrank();
     // get Materialien
     float getPreis() override;
     int getBretter();
     int getNaegel();
-
+    int getSchrauben();
 };
-#endif // TISCH_H
-
+#endif // SCHRANK_H
