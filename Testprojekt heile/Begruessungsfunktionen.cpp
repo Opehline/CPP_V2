@@ -46,17 +46,13 @@ Tisch Begruessungsfunktionen::getTisch(){
 void Begruessungsfunktionen::startBetrieb(){
 
     // Lager-Randbedingungen = Ein Lager erzeugen
-    #if 1
     Lagern lager1;
     setLager(lager1);
-    #endif // 0
 
-    // Lagerbestand initialisieren, Preise festlegen
-    // nicht mehr, weil schon im Lager-Konstruktor erledigt
-    //getLager().loadLagerstart();
+    /* Lagerbestand initialisieren, Preise festlegen nicht mehr,
+       weil schon im Lager-Konstruktor erledigt */
 
-
-    // Mehrere Kunden dürfen Bestellen
+    /* Mehrere Kunden dürfen Bestellen */
     for(int i = 0; i<Testkunden; i++){
         std::cout << "Kunde " << i+1 << std::endl;
 
@@ -130,24 +126,12 @@ int Begruessungsfunktionen::bestellungsverifikation(){
     // Ja
     if(tische_machbar >= tische){
 
-        #if 0
-        std::cout << tisch.getPreis() << " Tischpreis " << std::endl;
-        std::cout << tische << " bestellte Tische  " << std::endl;
-        std::cout << tische * tisch.getPreis() << " Multiplikation\n"<<std::endl;
-        #endif // 0
-
-        std::cout << tische << " Tische also. " << "Das kostet "
-                  << tische * tisch.getPreis() <<" Geld. \n";
-
         # if 0 // Makro PREISBERECHNUNG anpassen oder unnötig?
         std::cout << tische << " Tische also. " << "Das kostet "
                   << PREISBERECHNUNG(tische) <<" Geld. ";
-        #elseif 1 // Tisch als Attribut
+        #else // Tisch als Attribut
         std::cout << tische << " Tische also. " << "Das kostet "
                   << tische * tisch.getPreis() <<" Geld. ";
-        #else
-        std::cout << tische << " Tische also. " << "Das kostet "
-                  << tische*getLager().getPreise()["tisch"] <<" Geld. ";
         #endif // 0
 
         std::cout << "Wollen Sie diese verbindlich bestellen? \n (Ja/Nein)"

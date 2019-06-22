@@ -6,6 +6,7 @@
 #include <map>            // std::map
 #include <iterator>
 #include <string>
+#include <fstream>        // ifstream, ofstream
 
 
 #ifndef Lager_C_H

@@ -25,7 +25,7 @@
 #define AUSNAHME_Null    3
 
 // Makro noch sinnvoll?
-#define PREISBERECHNUNG(t) (t) * getLager().getPreise()["tisch"]
+#define PREISBERECHNUNG(t) (t) * tisch.getPreis()
 
 #ifndef begruessung_H
 #define begruessung_H
