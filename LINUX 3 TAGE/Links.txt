@@ -1,0 +1,16 @@
+https://www.virtualbox.org
+
+https://de.wikipedia.org/wiki/Linux
+
+Debian installieren
+https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-9.9.0-amd64-netinst.iso
+
+Gasterweiterungen auf Debian installieren
+https://virtualboxes.org/doc/installing-guest-additions-on-debian/
+
+Gasterweiterungen von SUSE
+https://software.opensuse.org/package/virtualbox-guest-tools
+
+
+Aus viona-Chat
+https://passthrough.fw-notify.net/cacert.pem   -> im browser in die adressleiste eintippen behebt das problem (welches? Firewall?)
