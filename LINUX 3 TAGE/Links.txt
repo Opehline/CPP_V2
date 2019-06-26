@@ -13,4 +13,10 @@ https://software.opensuse.org/package/virtualbox-guest-tools
 
 
 Aus viona-Chat
-https://passthrough.fw-notify.net/cacert.pem   -> im browser in die adressleiste eintippen behebt das problem (welches? Firewall?)
+https://passthrough.fw-notify.net/cacert.pem   -> im browser in die adressleiste eintippen behebt das problem (mit der Firewall)
+
+Infos über Dateisysteme
+https://wiki.ubuntuusers.de/Dateisystem/            // Auch dort verlinkter Eintrag zu Verzeichnisstruktur
+https://wiki.ubuntuusers.de/Verzeichnisstruktur/    // Unten verlinktes Video gut! 5 1/2 Minuten zu Verzeichnissen
+
+https://refspecs.linuxfoundation.org/FHS_3.0/fhs-3.0.pdf // auch schon als pdf abgespeichert werden

@@ -1,0 +1,117 @@
+-----------------------------------------------
+Betreten des Gruppenraums "Linux Basics"
+25.06.2019 07:47 Uhr
+-----------------------------------------------
+-- 07:47 -- Tanja Treffler betritt den Raum Hauptraum
+Tanja Treffler: > ist momentan nicht ansprechbar <
+-- 07:49 -- Bodo Seip betritt den Raum Hauptraum
+Bodo Seip: > ist momentan nicht ansprechbar <
+-- 07:50 -- Matthias Fruth betritt den Raum Hauptraum
+Matthias Fruth: Guten Morgen,
+-- 07:52 -- Matthias Fruth verlässt den Raum
+-- 07:54 -- Matthias Fruth betritt den Raum Hauptraum
+-- 07:56 -- Masud Daudzai betritt den Raum Hauptraum
+Masud Daudzai: > ist momentan nicht ansprechbar <
+-- 07:58 -- Rachel Schröder betritt den Raum Hauptraum
+Rachel Schröder: > ist momentan nicht ansprechbar <
+-- 07:59 -- Carsten Kloßek betritt den Raum Hauptraum
+Nicole Forouhar: > ist wieder ansprechbar <
+-- 08:00
+Bodo Seip: > ist wieder ansprechbar <
+Tanja Treffler: > ist wieder ansprechbar <
+Carsten Kloßek: Morgen
+Masud Daudzai: > ist wieder ansprechbar <
+Rachel Schröder: > ist wieder ansprechbar <
+-- 08:13 -- Chehaza Al Khalaf betritt den Raum Hauptraum
+-- 08:15
+Bodo Seip: sudo apt gcc make perl
+Bodo Seip: sudo apt install gcc make perl
+-- 08:30
+-- 08:45
+Bodo Seip: > ist momentan nicht ansprechbar <
+Rachel Schröder: > ist momentan nicht ansprechbar <
+Masud Daudzai: > ist momentan nicht ansprechbar <
+Nicole Forouhar: > ist momentan nicht ansprechbar <
+Carsten Kloßek: > ist momentan nicht ansprechbar <
+Carsten Kloßek: > ist wieder ansprechbar <
+Carsten Kloßek: > ist momentan nicht ansprechbar <
+Bodo Seip: > ist wieder ansprechbar <
+Carsten Kloßek: > ist wieder ansprechbar <
+Masud Daudzai: > ist wieder ansprechbar <
+Nicole Forouhar: > ist wieder ansprechbar <
+Nicole Forouhar: > meldet sich <
+-- 09:00
+Masud Daudzai: GIT?
+Rachel Schröder: > ist wieder ansprechbar <
+-- 09:15
+Matthias Fruth: snap install opera auch okay?
+Matthias Fruth: Funktioniert
+Matthias Fruth: snap install opera
+Matthias Fruth: > meldet sich <
+-- 09:30
+-- 09:36 -- Bodo Seip verlässt den Raum
+-- 09:36 -- Masud Daudzai verlässt den Raum
+Nicole Forouhar: > ist momentan nicht ansprechbar <
+Carsten Kloßek: > ist momentan nicht ansprechbar <
+Tanja Treffler: > ist momentan nicht ansprechbar <
+Carsten Kloßek: > ist wieder ansprechbar <
+-- 09:45
+Nicole Forouhar: > ist wieder ansprechbar <
+Nicole Forouhar: um die seiten im firefox etc aufrufen zu können wird ein zertifikat benötigt, sagt der ibb-it-support
+Nicole Forouhar: um die seiten im firefox etc aufrufen zu können wird ein zertifikat benötigt, sagt der ibb-it-support
+Nicole Forouhar: https://passthrough.fw-notify.net/cacert.pem im browser in die adressleiste eintippen behebt das problem
+-- 10:00
+Nicole Forouhar: > ist momentan nicht ansprechbar <
+Chehaza Al Khalaf: > ist momentan nicht ansprechbar <
+Matthias Fruth: https://ftp.gwdg.de/pub/opensuse/distribution/leap/15.1/iso/openSUSE-Leap-15.1-DVD-x86_64.iso
+-- 10:15
+Chehaza Al Khalaf: > ist wieder ansprechbar <
+Nicole Forouhar: > ist wieder ansprechbar <
+Chehaza Al Khalaf: > ist momentan nicht ansprechbar <
+-- 10:30
+Nicole Forouhar: > ist momentan nicht ansprechbar <
+Chehaza Al Khalaf: > ist wieder ansprechbar <
+Carsten Kloßek: > ist momentan nicht ansprechbar <
+-- 10:45
+-- 11:00
+Chehaza Al Khalaf: > stimmt zu <
+Matthias Fruth: wget https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/befbcde0-9b36-11e6-95b9-00163ed833e7/260663710/the-test-fun-for-friends-screenshot.jpg
+-- 11:15
+Tanja Treffler: > ist wieder ansprechbar <
+Tanja Treffler: > ist momentan nicht ansprechbar <
+Carsten Kloßek: > ist wieder ansprechbar <
+-- 11:29 -- Chehaza Al Khalaf verlässt den Raum
+-- 11:30
+Tanja Treffler: > ist wieder ansprechbar <
+-- 11:33 -- Chehaza Al Khalaf betritt den Raum Hauptraum
+Matthias Fruth: #help
+Matthias Fruth: sudo apt install gcc make perl
+Tanja Treffler: > ist momentan nicht ansprechbar <
+Matthias Fruth: > ist momentan nicht ansprechbar <
+Rachel Schröder: > ist momentan nicht ansprechbar <
+-- 11:45
+Matthias Fruth: > ist wieder ansprechbar <
+-- 12:00
+Rachel Schröder: > ist wieder ansprechbar <
+-- 12:15
+Chehaza Al Khalaf: sudo apt install linux-headers-$(uname -r) build-essential dkms
+Matthias Fruth:  sudo apt install gcc make perl
+Matthias Fruth:  # openmic
+-- 12:30
+-- 12:31 -- Bodo Seip betritt den Raum Hauptraum
+Bodo Seip: > ist momentan nicht ansprechbar <
+Tanja Treffler: > ist wieder ansprechbar <
+Nicole Forouhar: > ist wieder ansprechbar <
+Bodo Seip: > ist wieder ansprechbar <
+-- 12:38 -- Masud Daudzai betritt den Raum Hauptraum
+-- 12:45
+Matthias Fruth: https://virtualboxes.org/doc/installing-guest-additions-on-debian/
+-- 13:00
+-- 13:15
+Bodo Seip: apt install gcc make perl
+Bodo Seip: sudo apt install gcc make perl
+Chehaza Al Khalaf: > stimmt zu <
+Bodo Seip: http://download.opensuse.org/distribution/leap/15.1/repo/oss/
+Tanja Treffler: ich bin nachher nicht mehr da
+-- 13:23 -- Bodo Seip verlässt den Raum
+-- 13:24 -- Tanja Treffler verlässt den Raum

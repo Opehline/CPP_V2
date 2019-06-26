@@ -1,0 +1,110 @@
+-----------------------------------------------
+Betreten des Gruppenraums "Linux Basics"
+26.06.2019 07:54 Uhr
+-----------------------------------------------
+-- 07:54 -- Tanja Treffler betritt den Raum Hauptraum
+-- 07:58 -- Masud Daudzai betritt den Raum Hauptraum
+-- 07:58 -- Chehaza Al Khalaf betritt den Raum Hauptraum
+Bodo Seip: > ist wieder ansprechbar <
+-- 07:59 -- Rachel Schröder betritt den Raum Hauptraum
+-- 08:00
+-- 08:00 -- Carsten Kloßek betritt den Raum Hauptraum
+Carsten Kloßek: Morgen
+Nicole Forouhar: > applaudiert <
+Matthias Fruth: > meldet sich <
+-- 08:15
+-- 08:30
+Tanja Treffler: :D
+Masud Daudzai: > stimmt nicht zu <
+Bodo Seip: > ist momentan nicht ansprechbar <
+Rachel Schröder: > ist momentan nicht ansprechbar <
+-- 08:45
+Nicole Forouhar: > ist momentan nicht ansprechbar <
+Masud Daudzai: > ist momentan nicht ansprechbar <
+Carsten Kloßek: > ist momentan nicht ansprechbar <
+Nicole Forouhar: > ist wieder ansprechbar <
+Bodo Seip: > ist wieder ansprechbar <
+Rachel Schröder: > ist wieder ansprechbar <
+Carsten Kloßek: > ist wieder ansprechbar <
+Masud Daudzai: > ist wieder ansprechbar <
+-- 09:00
+Matthias Fruth: https://wiki.ubuntuusers.de/Dateisystem/
+Bodo Seip: https://refspecs.linuxfoundation.org/FHS_3.0/fhs-3.0.pdf
+-- 09:15
+Rachel Schröder: > ist momentan nicht ansprechbar <
+Masud Daudzai: var?
+Bodo Seip: https://wiki.ubuntuusers.de/Verzeichnisstruktur/
+-- 09:30
+Nicole Forouhar: > ist momentan nicht ansprechbar <
+-- 09:36 -- Bodo Seip verlässt den Raum
+-- 09:36 -- Masud Daudzai verlässt den Raum
+Chehaza Al Khalaf: > ist momentan nicht ansprechbar <
+-- 09:38 -- Carsten Kloßek verlässt den Raum
+-- 09:40 -- Carsten Kloßek betritt den Raum Hauptraum
+Matthias Fruth: > ist momentan nicht ansprechbar <
+Carsten Kloßek: > ist momentan nicht ansprechbar <
+Tanja Treffler: > ist momentan nicht ansprechbar <
+Carsten Kloßek: > ist wieder ansprechbar <
+Carsten Kloßek: > ist momentan nicht ansprechbar <
+-- 09:45
+Matthias Fruth: > ist wieder ansprechbar <
+Rachel Schröder: > ist wieder ansprechbar <
+Carsten Kloßek: > ist wieder ansprechbar <
+-- 10:00
+-- 10:15
+Chehaza Al Khalaf: > ist wieder ansprechbar <
+Matthias Fruth: m-a prepare
+Matthias Fruth: Configure your system for building kernel modules by running m-a prepare;
+Matthias Fruth: apt-get install module-assistant
+Matthias Fruth: zypper
+-- 10:30
+Matthias Fruth: deb http://ftp.de.debian.org/debian/ stable main contrib non-freedeb-src http://ftp.de.debian.org/debian/ stable main contrib non-freedeb http://security.debian.org/ stable/updates main contrib non-freedeb-src http://security.debian.org/ stable/updates main contrib non-free
+Matthias Fruth: https://wiki.debianforum.de/Sources.list
+Chehaza Al Khalaf: shhada1982
+-- 10:45
+Rachel Schröder: > ist momentan nicht ansprechbar <
+-- 11:00
+Matthias Fruth: openmic
+-- 11:05 -- Matthias Fruth verlässt den Raum
+-- 11:05 -- Carsten Kloßek verlässt den Raum
+-- 11:06 -- Matthias Fruth betritt den Raum Hauptraum
+-- 11:15
+-- 11:30
+Matthias Fruth: > ist momentan nicht ansprechbar <
+Chehaza Al Khalaf: > ist momentan nicht ansprechbar <
+Chehaza Al Khalaf: > ist wieder ansprechbar <
+Chehaza Al Khalaf: > ist momentan nicht ansprechbar <
+-- 11:45
+-- 11:48 -- Matthias Fruth verlässt den Raum
+-- 11:50 -- Matthias Fruth betritt den Raum Hauptraum
+-- 11:53 -- Nicole Forouhar verlässt den Raum
+-- 12:00
+-- 12:15
+Chehaza Al Khalaf: > ist wieder ansprechbar <
+-- 12:30
+-- 12:37 -- Nicole Forouhar betritt den Raum Hauptraum
+-- 12:45
+-- 13:00
+-- 13:07 -- Carsten Kloßek betritt den Raum Hauptraum
+-- 13:15
+-- 13:22 -- Bodo Seip betritt den Raum Hauptraum
+Bodo Seip: > ist momentan nicht ansprechbar <
+Bodo Seip: > ist wieder ansprechbar <
+Tanja Treffler: > ist wieder ansprechbar <
+Rachel Schröder: > ist wieder ansprechbar <
+-- 13:26 -- Masud Daudzai betritt den Raum Hauptraum
+-- 13:30
+Matthias Fruth: > ist momentan nicht ansprechbar <
+-- 13:45
+Matthias Fruth: > ist wieder ansprechbar <
+-- 14:00
+-- 14:10 -- Bodo Seip verlässt den Raum
+Matthias Fruth: https://virtualboxes.org/doc/installing-guest-additions-on-debian/
+Rachel Schröder: https://virtualboxes.org/doc/installing-guest-additions-on-debian/
+-- 14:15
+Chehaza Al Khalaf: > stimmt zu <
+Tanja Treffler: geht reboot nur als root?
+Tanja Treffler: > applaudiert <
+Chehaza Al Khalaf: > stimmt zu <
+-- 14:30
+-- 14:34 -- Tanja Treffler verlässt den Raum
